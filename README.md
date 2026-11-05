@@ -10,7 +10,27 @@ The repository contains the inputs, model responses, and analysis code for
 eight text experiments comparing clinical and lay descriptions across English,
 Spanish, Hindi, and Mandarin, with and without a system prompt.
 
-## Reproduce the results
+## Read and reproduce the results
+
+Read the [results summary](results/evaluation/summary.md) for model and
+source-cohort comparisons, or browse the [figures](results/evaluation/figures/)
+and their source tables. These results describe the released public subset.
+[Comparison with the paper](results/evaluation/paper_comparison.csv) records
+how its aggregate scores differ from the original study.
+
+For methods, see the [data guide](data/README.md) and
+[evaluation definitions](Evaluations/README.md). In the result tables, `sys`
+and `nosys` mean with and without the diagnostic system instruction.
+`clinical` denotes English clinical-source descriptions; `lay_seed` and
+`clinical_seed` distinguish prompt templates. Multiple prompts from the same
+description are repeated observations, not independent participants.
+
+The scores measure multilingual terminology matching under the supplied
+labels. Blank responses are excluded, distractors are reported separately,
+and Gemini uses a smaller input subset than Llama and Qwen. See the
+[evaluation methods](Evaluations/README.md#inputs-and-scoring) when interpreting
+cross-model comparisons.
+
 
 Use Python 3.10 or later. From the repository root, run:
 
@@ -72,7 +92,7 @@ for the scope of the public subset.
   templates, and links between descriptions, prompts, and responses.
 - `LLM Results/`: the eight saved model runs. Llama scoring uses the repaired
   CSVs; Qwen and Gemini scoring use their original response CSVs.
-- `results/evaluation/`: the study's score tables, reports, and figures.
+- [results/evaluation/](results/evaluation/): public-subset score tables, reports, figures, and comparisons with the paper.
 - [DATASET_CARD.md](DATASET_CARD.md): dataset counts, preparation, and scope.
 
 Prompt-construction and Gemini sampling code is retained in `Prompting/` and
@@ -88,30 +108,8 @@ can produce different text as software and hosted models change.
 
 ## Licensing
 
-The code in `Evaluations/`, `Inference/`, `Prompting/`, and `GCP/` is licensed
-under the **GNU General Public License, version 3 or later**
-(`GPL-3.0-or-later`); see [LICENSE](LICENSE). Distributed modified versions
-must remain under the GPL, with corresponding source available to recipients.
-Commercial use is permitted.
-
-The authors' rights in the released data are licensed under **Creative Commons
-Attribution 4.0 International** (`CC-BY-4.0`); see [LICENSE-DATA](LICENSE-DATA).
-This covers the authors' contributions to survey descriptions, mappings and
-templates, generated prompts, saved model responses, derived results, and the
-dataset's selection and arrangement. When sharing licensed material, credit
-the authors and source, link to the license, retain required notices, and
-indicate changes.
-
-The grant covers only rights the authors have authority to license. It does
-not create copyright in otherwise unprotected facts or model outputs, or
-override third-party rights, applicable model-provider terms, or rights outside
-the scope of CC BY 4.0. Source study images and model weights are not included.
-
-**VisualDX reference text and associated records have been removed because
-redistribution rights have not been established.** Neither license grants
-rights to the omitted third-party material. See
-[Why reproduced results can differ from the paper](#why-reproduced-results-can-differ-from-the-paper)
-for the removal details and their effect on the results.
+Code: [GPL-3.0-or-later](LICENSE). Authors' rights in the released data:
+[CC BY 4.0](LICENSE-DATA). See the license files for full terms and scope.
 
 ## BibTeX citation
 

@@ -10,8 +10,8 @@ the results.
 | --- | --- |
 | `descriptions/survey_responses.csv` | 57 survey source records with source IDs, language codes, and 40 image-description question columns. |
 | `descriptions/descriptions.csv` | 684 descriptions in long form, including raw text, prepared text, source type, and question/image mapping. |
-| `prompts/generated_prompts.csv` | The 9,601 prompts used by Llama and Qwen. |
-| `prompts/generated_prompts_gcp_language50.csv` | The 3,076-prompt subset used by Gemini. |
+| `prompts/generated_prompts.csv` | The 9,601 retained prompts from the Llama and Qwen runs. |
+| `prompts/generated_prompts_gcp_language50.csv` | The 3,076 retained prompts from the Gemini input subset. |
 | `prompts/prompt_index.csv` | Full-corpus prompt IDs, row positions, source-description IDs, and subset membership. |
 | `prompts/gemini_subset_membership.csv` | Links each Gemini row to its full-corpus prompt ID and row position. |
 | `mappings/` | Question, condition, and localized body-site mappings; the original workbook and a CSV question mapping. |
@@ -88,22 +88,19 @@ by the retained result/error records.
 
 Llama's condition-repaired response CSVs retain the original label fields and
 the original prompt/response text. Qwen and Gemini use their original response
-CSVs. These are the study's accepted scoring inputs.
+CSVs. These are the scoring inputs for the released public subset.
 
 The question mapping retains historical `flag` and `reference_flag` fields
 for interpreting the original experiment; the removed reference source is no
 longer present. Retained Llama labels are unchanged by the historical repair.
 
-## Licensing and removal of VisualDX text
+## Public-subset exclusions
 
-The authors' rights in these data are licensed under **CC BY 4.0**; see
-[LICENSE-DATA](../LICENSE-DATA) and the [license scope](../README.md#licensing).
-
-**VisualDX reference text and associated records were removed because
-redistribution rights have not been established.** This includes the source
+VisualDX reference text and associated records are excluded from the public
+subset. This includes the source
 record, 29 descriptions, 406 full-corpus prompts, 224 Gemini-subset prompts,
 the mapping table's `medical_description` column, and associated saved run
-records. The repository grants no rights to the omitted text.
+records.
 
 VisualDX-related exclusions change the retained sample sizes, so counts and
 scores can differ from the original study. See

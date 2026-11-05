@@ -6,6 +6,14 @@ sufficient for tables and Markdown reports.
 
 ## Scores and reports
 
+To read the supplied results, start with the
+[summary](../results/evaluation/summary.md),
+[condition report](../results/evaluation/qwen_condition_metrics.md), and
+[figures](../results/evaluation/figures/). The
+[paper comparison](../results/evaluation/paper_comparison.csv) separates the
+public-subset results from the original study aggregates.
+
+
 From the repository root:
 
 ```bash
@@ -90,8 +98,8 @@ prompt index. Paths in outputs are relative to this repository.
 
 ## Public subset and original-study comparison
 
-VisualDX reference text was removed because redistribution rights have not
-been established. This removes its source record, 29 descriptions, 406
+VisualDX reference text is excluded from the public subset. This removes its
+source record, 29 descriptions, 406
 full-corpus prompts, 224 Gemini-subset prompts, and associated saved outputs,
 request/prediction logs, and reference descriptions in the medical mapping
 table. Input tables now have 9,601 full-corpus and 3,076 Gemini prompts.
