@@ -1,0 +1,4 @@
+# Batch execution uses google-auth/requests and the separately installed gcloud CLI.
+# Offline request preparation needs only the Python standard library.
+google-auth
+requests

@@ -1,0 +1,685 @@
+description_id,source_record_index,response_id,source_language,source_kind,question_id,flag,image_flag,raw_description,prompt_description
+desc_00000,0,1,clinical,survey_response,Q10,sle_3,sle_3,malar rash sparing nasolabial folds ,malar rash sparing nasolabial folds
+desc_00001,0,1,clinical,survey_response,Q11,sle_4,sle_4,malar rash sparing the nasolabial folds. ,malar rash sparing the nasolabial folds
+desc_00002,0,1,clinical,survey_response,Q12,sle_5,sle_5,ulcerative erythematous rash sparing the nasolabial folds. ,ulcerative erythematous rash sparing the nasolabial folds
+desc_00003,0,1,clinical,survey_response,Q15,eye_3,eye_3,heliotrope rash impacting bilateral eyelids,heliotrope rash impacting bilateral eyelids
+desc_00004,0,1,clinical,survey_response,Q24,jdm_3,jdm_3,Gottron's papules with erythema of knees consistent with dermatomyositis ,Gottron's papules with erythema of knees consistent with dermatomyositis
+desc_00005,0,1,clinical,survey_response,Q26,iga_6,iga_6,palpable pinpoint purpuric lesions that may blanche ,palpable pinpoint purpuric lesions that may blanche
+desc_00006,0,1,clinical,survey_response,Q29,iga_4,iga_4,hemorrhagic purpuric rash ,hemorrhagic purpuric rash
+desc_00007,0,1,clinical,survey_response,Q34,msi_4,msi_4,waxy textured rash impacting scalp ,waxy textured rash impacting scalp
+desc_00008,0,1,clinical,survey_response,Q43,dry_1,dry_1,dry skin on right second finger ,dry skin on right second finger
+desc_00009,0,1,clinical,survey_response,Q48,normal_2,normal_2,small pin point lesion on medial malleolus ,small pin point lesion on medial malleolus
+desc_00039,2,2,clinical,survey_response,Q8,sle_1,sle_1,Bilateral red patches with slight scale and hyperpigmentation on bilateral facial cheeks in butterfly distribution sparing nasolabial folds,Bilateral red patches with slight scale and hyperpigmentation on bilateral facial cheeks in butterfly distribution sparing nasolabial folds
+desc_00040,2,2,clinical,survey_response,Q14,eye_2,eye_2,Periorbital redness flat and dry,Periorbital redness flat and dry
+desc_00041,2,2,clinical,survey_response,Q16,eye_4,eye_4,Heliotrope,Heliotrope
+desc_00042,2,2,clinical,survey_response,Q21,jdm_2,jdm_2,"Periungual redness and mild induration, with flesh colored papules overlying pip joints","Periungual redness and mild induration, with flesh colored papules overlying pip joints"
+desc_00043,2,2,clinical,survey_response,Q22,jdm_4,jdm_4,Gottrons papules,Gottrons papules
+desc_00044,2,2,clinical,survey_response,Q25,jdm_5,jdm_5,"Erythema patches overlying mcp, pip, dip and knees with slight scale","Erythema patches overlying mcp, pip, dip and knees with slight scale"
+desc_00045,2,2,clinical,survey_response,Q27,iga_1,iga_1,Numerous Red perifollicular papules,Numerous Red perifollicular papules
+desc_00046,2,2,clinical,survey_response,Q28,iga_3,iga_3,Scattered purpura with ecchymosis and areas of confluence,Scattered purpura with ecchymosis and areas of confluence
+desc_00047,2,2,clinical,survey_response,Q30,iga_7,iga_7,Scattered purpura and petechia on the bilateral lower legs with areas of confluence,Scattered purpura and petechia on the bilateral lower legs with areas of confluence
+desc_00048,2,2,clinical,survey_response,Q32,msi_2,msi_2,Patch of alopecia with some central clearing and shiny/smoothe quality,Patch of alopecia with some central clearing and shiny/smoothe quality
+desc_00049,3,3,clinical,survey_response,Q6,morphea_2,morphea_2,Flat gray-brown pupuric rash over the midline back with well defined borders ,Flat gray-brown pupuric rash over the midline back with well defined borders
+desc_00050,3,3,clinical,survey_response,Q9,sle_2,sle_2,Erythematous Malar rash on the cheeks and nasal bridge sparing the nasolabial folds,Erythematous Malar rash on the cheeks and nasal bridge sparing the nasolabial folds
+desc_00051,3,3,clinical,survey_response,Q20,jdm_1,jdm_1,Pink erythematous macules with overlying scale over the MCP's and PIP's of the right hand,Pink erythematous macules with overlying scale over the MCP's and PIP's of the right hand
+desc_00052,3,3,clinical,survey_response,Q23,jdm_6,jdm_6,Round hypopigmented papules on a hyperpigmented base clustered around the PIP's most prominently on the right index PIP. ,Round hypopigmented papules on a hyperpigmented base clustered around the PIP's most prominently on the right index PIP
+desc_00053,3,3,clinical,survey_response,Q31,msi_1,msi_1,Left scalp alopecia with a mildly hyperpigmented plaque extending down the left forehead with thinning of the skin through the plaque,Left scalp alopecia with a mildly hyperpigmented plaque extending down the left forehead with thinning of the skin through the plaque
+desc_00054,3,3,clinical,survey_response,Q33,msi_3,msi_3,"Linear scarring alopecia over the scalp with mild purple hue, with skin appearing raised versus hypotrophic,","Linear scarring alopecia over the scalp with mild purple hue, with skin appearing raised versus hypotrophic,"
+desc_00055,3,3,clinical,survey_response,Q44,dry_2,dry_2,Dry lips with scale around the nares,Dry lips with scale around the nares
+desc_00056,3,3,clinical,survey_response,Q45,acne_1,acne_1,Papular acneiform rash over the forehead on a prominently erythematous base with multiple closed comedones,Papular acneiform rash over the forehead on a prominently erythematous base with multiple closed comedones
+desc_00057,3,3,clinical,survey_response,Q46,acne_2,acne_2,"Multiple acneiform lesions on the right cheek with open ruptured comedones, some on an erythematous base, with occasional excoriations seen","Multiple acneiform lesions on the right cheek with open ruptured comedones, some on an erythematous base, with occasional excoriations seen"
+desc_00058,3,3,clinical,survey_response,Q47,normal_1,normal_1,"Mild pink erythema noted most prominently over the 2nd and 3rd MCP's, with questionable erythema over the 4th MCP","Mild pink erythema noted most prominently over the 2nd and 3rd MCP's, with questionable erythema over the 4th MCP"
+desc_00059,4,4,clinical,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,erythematous macular rash with perioral sparing ,erythematous macular rash with perioral sparing
+desc_00060,4,4,clinical,survey_response,Q5,morphea_1,morphea_1,hypopigmented macula with alopecia ,hypopigmented macula with alopecia
+desc_00061,4,4,clinical,survey_response,Q17,eye_5,eye_5,"erythematous macular rash on the eyelids, cheeks, and nose that spares the nasolabial folds ","erythematous macular rash on the eyelids, cheeks, and nose that spares the nasolabial folds"
+desc_00062,4,4,clinical,survey_response,Q21,jdm_2,jdm_2,paronychia on the 2nd through 5th digits,paronychia on the 2nd through 5th digits
+desc_00063,4,4,clinical,survey_response,Q25,jdm_5,jdm_5,"Macular papular rash with scaling on the extensor surfaces of the knees, PIP, MCP, DIP joint surfaces. ","Macular papular rash with scaling on the extensor surfaces of the knees, PIP, MCP, DIP joint surfaces"
+desc_00064,4,4,clinical,survey_response,Q27,iga_1,iga_1,erythematous papular rash,erythematous papular rash
+desc_00065,4,4,clinical,survey_response,Q28,iga_3,iga_3,purpura on the bilateral lower extremities ,purpura on the bilateral lower extremities
+desc_00066,4,4,clinical,survey_response,Q29,iga_4,iga_4,erythematous macular papular rash with scattered vesicles. ,erythematous macular papular rash with scattered vesicles
+desc_00067,4,4,clinical,survey_response,Q30,iga_7,iga_7,purpura on the lower extremities ,purpura on the lower extremities
+desc_00068,4,4,clinical,survey_response,Q45,acne_1,acne_1,papulopustular rash present on the forehead ,papulopustular rash present on the forehead
+desc_00069,5,5,clinical,survey_response,Q12,sle_5,sle_5,Sores on right cheek and nose. Each about an inch or so at largest diameter but not discrete circles. Irregular borders. Red and open/oozing a little maybe. ,Sores on right cheek and nose. Each about an inch or so at largest diameter but not discrete circles. Irregular borders. Red and open/oozing a little maybe
+desc_00070,5,5,clinical,survey_response,Q13,sle_6,sle_6,I have a rash involving both cheeks and a little bit on the bridge of my nose. It is red and symmetric. Some small bumps. Not involving mouth area. No peeling or scabs. ,I have a rash involving both cheeks and a little bit on the bridge of my nose. It is red and symmetric. Some small bumps. Not involving mouth area. No peeling or scabs
+desc_00071,5,5,clinical,survey_response,Q19,iga_5,iga_5,"Rash involving both feet, left more than right. Scattered small red and light brown spots, also involving toes at least on the left side. Up to ankles as well. ","Rash involving both feet, left more than right. Scattered small red and light brown spots, also involving toes at least on the left side. Up to ankles as well"
+desc_00072,5,5,clinical,survey_response,Q20,jdm_1,jdm_1,Scaly and involving back of hand and knuckles. Pink color,Scaly and involving back of hand and knuckles. Pink color
+desc_00073,5,5,clinical,survey_response,Q22,jdm_4,jdm_4,Pallor and shininess of knuckles ,Pallor and shininess of knuckles
+desc_00074,5,5,clinical,survey_response,Q25,jdm_5,jdm_5,Swollen and red fingers and knuckles on both hands. Symmetric. ,Swollen and red fingers and knuckles on both hands. Symmetric
+desc_00075,5,5,clinical,survey_response,Q30,iga_7,iga_7,Dark reddish purple rash involving both feet and shins up to calves at least. Some small spots and others much larger. ,Dark reddish purple rash involving both feet and shins up to calves at least. Some small spots and others much larger
+desc_00076,5,5,clinical,survey_response,Q44,dry_2,dry_2,Very dry skin on nose and lips. Some flakiness,Very dry skin on nose and lips. Some flakiness
+desc_00077,5,5,clinical,survey_response,Q46,acne_2,acne_2,Appears like acne involving right Lower face/cheek ,Appears like acne involving right Lower face/cheek
+desc_00078,6,6,clinical,survey_response,Q5,morphea_1,morphea_1,En coup de Sabre rash consistent with linear scleroderma,En coup de Sabre rash consistent with linear scleroderma
+desc_00079,6,6,clinical,survey_response,Q9,sle_2,sle_2,Raised erythematous rash of cheek concerning for discoid lupus,Raised erythematous rash of cheek concerning for discoid lupus
+desc_00080,6,6,clinical,survey_response,Q11,sle_4,sle_4,Erythematous rash on cheeks with nasolabial sparing,Erythematous rash on cheeks with nasolabial sparing
+desc_00081,6,6,clinical,survey_response,Q16,eye_4,eye_4,Erythematous eyelid rash suggestive of heliotrope rash,Erythematous eyelid rash suggestive of heliotrope rash
+desc_00082,6,6,clinical,survey_response,Q23,jdm_6,jdm_6,Gottrons papules overlying multiple pip joints,Gottrons papules overlying multiple pip joints
+desc_00083,6,6,clinical,survey_response,Q29,iga_4,iga_4,Macular scattered red patches concerning for purpura,Macular scattered red patches concerning for purpura
+desc_00084,6,6,clinical,survey_response,Q31,msi_1,msi_1,Waxy scalp rash with alopecia concerning for scleroderma,Waxy scalp rash with alopecia concerning for scleroderma
+desc_00085,6,6,clinical,survey_response,Q34,msi_4,msi_4,"Waxy, atrophic scalp rash","Waxy, atrophic scalp rash"
+desc_00086,6,6,clinical,survey_response,Q43,dry_1,dry_1,Dry scaly rash of finger ,Dry scaly rash of finger
+desc_00087,6,6,clinical,survey_response,Q48,normal_2,normal_2,Petechial rash,Petechial rash
+desc_00088,7,7,english,survey_response,Q2,lupus_1,lupus_1,Red butteryfly looking pattern across the cheeks with tiny red dots and splotches.,Red butteryfly looking pattern across the cheeks with tiny red dots and splotches
+desc_00089,7,7,english,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,"pink/redish hue across the cheeks, jawline, covering eyelids.","pink/redish hue across the cheeks, jawline, covering eyelids"
+desc_00090,7,7,english,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,Bright red coloration on the elbows and below the eyes and inner cheeks,Bright red coloration on the elbows and below the eyes and inner cheeks
+desc_00091,7,7,english,survey_response,Q5,morphea_1,morphea_1,white redish dry looking skin covering the scalp from the face deep through the hairline,white redish dry looking skin covering the scalp from the face deep through the hairline
+desc_00092,7,7,english,survey_response,Q6,morphea_2,morphea_2,"lumpy discoloration in a couple big splotches with little ""islands"". Signicantly darker than the normal skin tone. ","lumpy discoloration in a couple big splotches with little ""islands"". Signicantly darker than the normal skin tone"
+desc_00093,7,7,english,survey_response,Q8,sle_1,sle_1,One big purple scale on each of the upper cheeks. Looks uneven and bumpy.,One big purple scale on each of the upper cheeks. Looks uneven and bumpy
+desc_00094,7,7,english,survey_response,Q9,sle_2,sle_2,Red patch of dryish looking skin on the left cheek. ,Red patch of dryish looking skin on the left cheek
+desc_00095,7,7,english,survey_response,Q10,sle_3,sle_3,"Two big patches of red discoloration on the cheeks with uneven distributions, along with small sploches on the chin.","Two big patches of red discoloration on the cheeks with uneven distributions, along with small sploches on the chin"
+desc_00096,7,7,english,survey_response,Q11,sle_4,sle_4,pink splotches on the cheeks spattered with red dots in the pores. Covers the nose as well. ,pink splotches on the cheeks spattered with red dots in the pores. Covers the nose as well
+desc_00097,7,7,english,survey_response,Q12,sle_5,sle_5,"Red scab looking rash with pink surround on the upper cheek, with more on the tip of the nose.","Red scab looking rash with pink surround on the upper cheek, with more on the tip of the nose"
+desc_00098,7,7,english,survey_response,Q13,sle_6,sle_6,Pinkish bumpy skin across the upper cheeks and across the nose bridge,Pinkish bumpy skin across the upper cheeks and across the nose bridge
+desc_00099,7,7,english,survey_response,Q14,eye_2,eye_2,"Bright red rash covering the upper eyelid, and surrounding below the eye","Bright red rash covering the upper eyelid, and surrounding below the eye"
+desc_00100,7,7,english,survey_response,Q15,eye_3,eye_3,"Deep, pink/purple coloration on the top of the eye lids and below the eyes.","Deep, pink/purple coloration on the top of the eye lids and below the eyes"
+desc_00101,7,7,english,survey_response,Q16,eye_4,eye_4,"Red veining on the eye lids, with areas of concentrated red dots and freckle looking renderings.","Red veining on the eye lids, with areas of concentrated red dots and freckle looking renderings"
+desc_00102,7,7,english,survey_response,Q17,eye_5,eye_5,subtle pink/purple bumps and discoloration across the cheeks and nose,subtle pink/purple bumps and discoloration across the cheeks and nose
+desc_00103,7,7,english,survey_response,Q18,iga_2,iga_2,Red dots and pimple looking skin across the ankle and upper heel.,Red dots and pimple looking skin across the ankle and upper heel
+desc_00104,7,7,english,survey_response,Q19,iga_5,iga_5,Random pattern of weird splotches of redish brown discoloration (like freckles) across the top of the foot with areas of peeling skin,Random pattern of weird splotches of redish brown discoloration like freckles across the top of the foot with areas of peeling skin
+desc_00105,7,7,english,survey_response,Q20,jdm_1,jdm_1,"Subtle purple scaling across the back of the hand, knuckles, and top of the finger tips.","Subtle purple scaling across the back of the hand, knuckles, and top of the finger tips"
+desc_00106,7,7,english,survey_response,Q21,jdm_2,jdm_2,Pinkish discoloration just below the fingernail on each finger.,Pinkish discoloration just below the fingernail on each finger
+desc_00107,7,7,english,survey_response,Q22,jdm_4,jdm_4,Dry looking skin on the finger joints from the knuckles to the tips on the top of the fingers.,Dry looking skin on the finger joints from the knuckles to the tips on the top of the fingers
+desc_00108,7,7,english,survey_response,Q23,jdm_6,jdm_6,"Dry skin on the phlanges, with shiny looking skin on the center joint.","Dry skin on the phlanges, with shiny looking skin on the center joint"
+desc_00109,7,7,english,survey_response,Q24,jdm_3,jdm_3,"Bright red discoloration and uneven skin on the knees, knuckles, and joints of the fingers.","Bright red discoloration and uneven skin on the knees, knuckles, and joints of the fingers"
+desc_00110,7,7,english,survey_response,Q25,jdm_5,jdm_5,reddish dry looking skin on the knuckles and knees,reddish dry looking skin on the knuckles and knees
+desc_00111,7,7,english,survey_response,Q26,iga_6,iga_6,pattern of bright red dots covering the skin. Looks like little pin pricks or violent acne.,pattern of bright red dots covering the skin. Looks like little pin pricks or violent acne
+desc_00112,7,7,english,survey_response,Q27,iga_1,iga_1,Red freckle looking dots and patches running the circumference of the leg.,Red freckle looking dots and patches running the circumference of the leg
+desc_00113,7,7,english,survey_response,Q28,iga_3,iga_3,"Splotches of deep red dots and patches covering the lower leg along the lower skin, into the foot.","Splotches of deep red dots and patches covering the lower leg along the lower skin, into the foot"
+desc_00114,7,7,english,survey_response,Q29,iga_4,iga_4,Bright red splotches and dots of various sizes with deep red centers.,Bright red splotches and dots of various sizes with deep red centers
+desc_00115,7,7,english,survey_response,Q30,iga_7,iga_7,Purple splotches and dots in various sizes running down the back of the leg to the heel.,Purple splotches and dots in various sizes running down the back of the leg to the heel
+desc_00116,7,7,english,survey_response,Q31,msi_1,msi_1,"Whitish, pale, shiny skin running from the face through the hair deep into the scalp.","Whitish, pale, shiny skin running from the face through the hair deep into the scalp"
+desc_00117,7,7,english,survey_response,Q32,msi_2,msi_2,"White, brown, shiny ""river"" of scalp with hair loss. ","White, brown, shiny ""river"" of scalp with hair loss"
+desc_00118,7,7,english,survey_response,Q33,msi_3,msi_3,"White patch of skin on the top of the scalp without hair, with streaks of brownish looking skin running through","White patch of skin on the top of the scalp without hair, with streaks of brownish looking skin running through"
+desc_00119,7,7,english,survey_response,Q34,msi_4,msi_4,"white, brown, bumpy spots on a whiteish plateau deep across the scalp ","white, brown, bumpy spots on a whiteish plateau deep across the scalp"
+desc_00120,7,7,english,survey_response,Q35,msi_5,msi_5,Waxy looking patch of scalp with hair loss surrounding a little dot in the middle,Waxy looking patch of scalp with hair loss surrounding a little dot in the middle
+desc_00121,7,7,english,survey_response,Q36,msi_6,msi_6,"off white ""river"" with brownish dotting and sploches carving deep into the scalp through hair.","off white ""river"" with brownish dotting and sploches carving deep into the scalp through hair"
+desc_00122,7,7,english,survey_response,Q43,dry_1,dry_1,Dry cracking skin on the fingers,Dry cracking skin on the fingers
+desc_00123,7,7,english,survey_response,Q44,dry_2,dry_2,"Dry, peeling skin on the nose and just around the lips","Dry, peeling skin on the nose and just around the lips"
+desc_00124,7,7,english,survey_response,Q45,acne_1,acne_1,"Bumpy red patches on the forehead, in a splotchy pattern.","Bumpy red patches on the forehead, in a splotchy pattern"
+desc_00125,7,7,english,survey_response,Q46,acne_2,acne_2,Pimples and acne on the lower right cheek,Pimples and acne on the lower right cheek
+desc_00126,7,7,english,survey_response,Q47,normal_1,normal_1,Slightly red skin on the knuckles with just slight pink surrounding the fingers.,Slightly red skin on the knuckles with just slight pink surrounding the fingers
+desc_00127,7,7,english,survey_response,Q48,normal_2,normal_2,"Redish skin on the heel with a red dot, maybe a pimple.","Redish skin on the heel with a red dot, maybe a pimple"
+desc_00128,8,8,english,survey_response,Q9,sle_2,sle_2,My face has been bumpy and red. It's a little swollen in some places. My skin is pretty irritated.,My face has been bumpy and red. It's a little swollen in some places. My skin is pretty irritated
+desc_00129,8,8,english,survey_response,Q11,sle_4,sle_4,I have some redness on my face. My cheeks are blotchy and a little swollen.,I have some redness on my face. My cheeks are blotchy and a little swollen
+desc_00130,8,8,english,survey_response,Q12,sle_5,sle_5,"I have lesions on my face. It's on my nose and my cheek. It's red and irritated, and the skin has broken open in some places.","I have lesions on my face. It's on my nose and my cheek. It's red and irritated, and the skin has broken open in some places"
+desc_00131,8,8,english,survey_response,Q13,sle_6,sle_6,My skin has red bumps on it like the skin is irritated. The bumps are mostly on my cheeks.,My skin has red bumps on it like the skin is irritated. The bumps are mostly on my cheeks
+desc_00132,8,8,english,survey_response,Q14,eye_2,eye_2,I have swelling and redness around my eyes.,I have swelling and redness around my eyes
+desc_00133,8,8,english,survey_response,Q15,eye_3,eye_3,"I have severe redness around my eyes, especially on my eyelids. There's some swelling around my eyes, too.","I have severe redness around my eyes, especially on my eyelids. There's some swelling around my eyes, too"
+desc_00134,8,8,english,survey_response,Q20,jdm_1,jdm_1,"I have bumpy, dry splotches on the back of my hand, around the knuckles.","I have bumpy, dry splotches on the back of my hand, around the knuckles"
+desc_00135,8,8,english,survey_response,Q27,iga_1,iga_1,I have red dots all over my arms and legs.,I have red dots all over my arms and legs
+desc_00136,8,8,english,survey_response,Q36,msi_6,msi_6,"I have some skin irritation on my scalp, especially right where my hair parts.","I have some skin irritation on my scalp, especially right where my hair parts"
+desc_00137,8,8,english,survey_response,Q45,acne_1,acne_1,The skin on my forehead is bumpy and red. Some of the bumps look like zits.,The skin on my forehead is bumpy and red. Some of the bumps look like zits
+desc_00138,9,9,english,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,Very red and irritated ovals near elbows about 2 inches tall.  Widespread pink irritation over the whole face except right around the mouth. Lips also irritated and pink.,Very red and irritated ovals near elbows about 2 inches tall. Widespread pink irritation over the whole face except right around the mouth. Lips also irritated and pink
+desc_00139,9,9,english,survey_response,Q5,morphea_1,morphea_1,Dry and flaky ,Dry and flaky
+desc_00140,9,9,english,survey_response,Q16,eye_4,eye_4,Pinkish discoloration on eye lids with darker red line along lash line ,Pinkish discoloration on eye lids with darker red line along lash line
+desc_00141,9,9,english,survey_response,Q18,iga_2,iga_2,"Splotchy, raised, red, all over the foot and starting up the ankle","Splotchy, raised, red, all over the foot and starting up the ankle"
+desc_00142,9,9,english,survey_response,Q21,jdm_2,jdm_2,"Irritated, almost blister like around the nail bed ","Irritated, almost blister like around the nail bed"
+desc_00143,9,9,english,survey_response,Q22,jdm_4,jdm_4,Whitish raised lumps on the joins of all hand bones on the back one hand and fingers ,Whitish raised lumps on the joins of all hand bones on the back one hand and fingers
+desc_00144,9,9,english,survey_response,Q34,msi_4,msi_4,"Dark brown, oily skin ","Dark brown, oily skin"
+desc_00145,9,9,english,survey_response,Q43,dry_1,dry_1,Extremely dry and cracking skin on the side of the fingers extending down the entire finger ,Extremely dry and cracking skin on the side of the fingers extending down the entire finger
+desc_00146,9,9,english,survey_response,Q44,dry_2,dry_2,"Dry, flaky, peeling around the nose and mouth ","Dry, flaky, peeling around the nose and mouth"
+desc_00147,9,9,english,survey_response,Q47,normal_1,normal_1,Red and mildly irritated along the nuckles ,Red and mildly irritated along the nuckles
+desc_00148,10,10,english,survey_response,Q2,lupus_1,lupus_1,Looks like make around both side of my cheeks or you have been outside in the cold for too long,Looks like make around both side of my cheeks or you have been outside in the cold for too long
+desc_00149,10,10,english,survey_response,Q8,sle_1,sle_1,I forgot to apply sunscreen underneath my sunglasses ,I forgot to apply sunscreen underneath my sunglasses
+desc_00150,10,10,english,survey_response,Q10,sle_3,sle_3,I got a sunburn on my cheeks,I got a sunburn on my cheeks
+desc_00151,10,10,english,survey_response,Q14,eye_2,eye_2,Red rash around my eyes like someone getting ready to do a kabuki performance ,Red rash around my eyes like someone getting ready to do a kabuki performance
+desc_00152,10,10,english,survey_response,Q17,eye_5,eye_5,I applied blush incorrectly ,I applied blush incorrectly
+desc_00153,10,10,english,survey_response,Q18,iga_2,iga_2,Looks like someone got 1000 mosquito bites or they were attacked with bed bugs,Looks like someone got 1000 mosquito bites or they were attacked with bed bugs
+desc_00154,10,10,english,survey_response,Q24,jdm_3,jdm_3,Looks I got a bad rug burn on my knees,Looks I got a bad rug burn on my knees
+desc_00155,10,10,english,survey_response,Q32,msi_2,msi_2,Difficulty to see the rash so I would say it looks like ants on my scalp,Difficulty to see the rash so I would say it looks like ants on my scalp
+desc_00156,10,10,english,survey_response,Q33,msi_3,msi_3,Looks like a worm on my scalp,Looks like a worm on my scalp
+desc_00157,10,10,english,survey_response,Q45,acne_1,acne_1,Looks like medium cooked egg omelet on a cast iron pan,Looks like medium cooked egg omelet on a cast iron pan
+desc_00158,11,11,english,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,"red circles on elbows, similar colored on face and below eyes","red circles on elbows, similar colored on face and below eyes"
+desc_00159,11,11,english,survey_response,Q5,morphea_1,morphea_1,"crusty, scabs, losing hair","crusty, scabs, losing hair"
+desc_00160,11,11,english,survey_response,Q6,morphea_2,morphea_2,"spotty, light red, large","spotty, light red, large"
+desc_00161,11,11,english,survey_response,Q12,sle_5,sle_5,"broken skin, appears to be healing,","broken skin, appears to be healing,"
+desc_00162,11,11,english,survey_response,Q16,eye_4,eye_4,"inflamed eyelids, dark red capillaries, and extends below eye","inflamed eyelids, dark red capillaries, and extends below eye"
+desc_00163,11,11,english,survey_response,Q22,jdm_4,jdm_4,"scarring rash, on knuckles, appear to be pustules","scarring rash, on knuckles, appear to be pustules"
+desc_00164,11,11,english,survey_response,Q26,iga_6,iga_6,"hundreds of red dots, covers large area, itchy, ","hundreds of red dots, covers large area, itchy,"
+desc_00165,11,11,english,survey_response,Q29,iga_4,iga_4,"gross, large area, splotchy, some dark areas","gross, large area, splotchy, some dark areas"
+desc_00166,11,11,english,survey_response,Q30,iga_7,iga_7,"dark red spots, many, itchy ","dark red spots, many, itchy"
+desc_00167,11,11,english,survey_response,Q45,acne_1,acne_1,"pimple like rash, reddish skin, inflamed","pimple like rash, reddish skin, inflamed"
+desc_00168,12,12,english,survey_response,Q8,sle_1,sle_1,"Skin on cheeks is red and blotchy, oval shape","Skin on cheeks is red and blotchy, oval shape"
+desc_00169,12,12,english,survey_response,Q14,eye_2,eye_2,"The area around my eyes is red, not puffy. It looks like some sort of skin allergy.","The area around my eyes is red, not puffy. It looks like some sort of skin allergy"
+desc_00170,12,12,english,survey_response,Q17,eye_5,eye_5,"Skin around eyes and nose is red, but not swelling","Skin around eyes and nose is red, but not swelling"
+desc_00171,12,12,english,survey_response,Q19,iga_5,iga_5,"Skin on my feet is bumpy and red, it looks like some sort of poison ivy/poison oak","Skin on my feet is bumpy and red, it looks like some sort of poison ivy/poison oak"
+desc_00172,12,12,english,survey_response,Q20,jdm_1,jdm_1,"My hands are flaky, white, and bumpy. It looks like a burn or an allergic reaction.","My hands are flaky, white, and bumpy. It looks like a burn or an allergic reaction"
+desc_00173,12,12,english,survey_response,Q25,jdm_5,jdm_5,Hands are red and swelling in some places,Hands are red and swelling in some places
+desc_00174,12,12,english,survey_response,Q31,msi_1,msi_1,There are bumps on my head near my scalp,There are bumps on my head near my scalp
+desc_00175,12,12,english,survey_response,Q33,msi_3,msi_3,Scalp is discolored,Scalp is discolored
+desc_00176,12,12,english,survey_response,Q36,msi_6,msi_6,Scalp is discolored in the affected area,Scalp is discolored in the affected area
+desc_00177,12,12,english,survey_response,Q44,dry_2,dry_2,My skin is flaky and peeling around my nose and lips,My skin is flaky and peeling around my nose and lips
+desc_00178,13,13,english,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,Red rash all over face,Red rash all over face
+desc_00179,13,13,english,survey_response,Q10,sle_3,sle_3,"Red and puffy spotted rash on cheeks, nose and chin","Red and puffy spotted rash on cheeks, nose and chin"
+desc_00180,13,13,english,survey_response,Q11,sle_4,sle_4,"Pink cloud rash on cheeks, nose and chin","Pink cloud rash on cheeks, nose and chin"
+desc_00181,13,13,english,survey_response,Q21,jdm_2,jdm_2,Puffy red rash around fingernails ,Puffy red rash around fingernails
+desc_00182,13,13,english,survey_response,Q23,jdm_6,jdm_6,White inflamed rash on knuckles,White inflamed rash on knuckles
+desc_00183,13,13,english,survey_response,Q27,iga_1,iga_1,Red/ brown spots all over calf,Red/ brown spots all over calf
+desc_00184,13,13,english,survey_response,Q34,msi_4,msi_4,Brown and yellow puffy rash on scalp,Brown and yellow puffy rash on scalp
+desc_00185,13,13,english,survey_response,Q35,msi_5,msi_5,Large pimple like spot on scalp,Large pimple like spot on scalp
+desc_00186,13,13,english,survey_response,Q46,acne_2,acne_2,Red acne like rash on cheek and nose,Red acne like rash on cheek and nose
+desc_00187,13,13,english,survey_response,Q48,normal_2,normal_2,Light spotted rash on heel and foot ,Light spotted rash on heel and foot
+desc_00188,14,14,spanish,survey_response,Q2,lupus_1,lupus_1,enrojecimiento fuerte en los cachetes ,enrojecimiento fuerte en los cachetes
+desc_00189,14,14,spanish,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,la mitad de la cara súper enrojecida,la mitad de la cara súper enrojecida
+desc_00190,14,14,spanish,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,"manchas circulares muy rojas en los codos, y trazos rojos en la cara","manchas circulares muy rojas en los codos, y trazos rojos en la cara"
+desc_00191,14,14,spanish,survey_response,Q5,morphea_1,morphea_1,pellejos o caspa en el cuero cabelludo,pellejos o caspa en el cuero cabelludo
+desc_00192,14,14,spanish,survey_response,Q6,morphea_2,morphea_2,"manchas oscuras en la piel, de varios tamaños","manchas oscuras en la piel, de varios tamaños"
+desc_00193,14,14,spanish,survey_response,Q8,sle_1,sle_1,manchas oscuras como con costras en los cachetes,manchas oscuras como con costras en los cachetes
+desc_00194,14,14,spanish,survey_response,Q9,sle_2,sle_2,manchas en los cachetes y la nariz con relieve ,manchas en los cachetes y la nariz con relieve
+desc_00195,14,14,spanish,survey_response,Q10,sle_3,sle_3,enrojecimiento y manchas rojas en los cachetes y la barbilla,enrojecimiento y manchas rojas en los cachetes y la barbilla
+desc_00196,14,14,spanish,survey_response,Q11,sle_4,sle_4,enrojecimiento en los cachetes y la nariz ,enrojecimiento en los cachetes y la nariz
+desc_00197,14,14,spanish,survey_response,Q12,sle_5,sle_5,"lesiones en los cachetes y la nariz, con pus ","lesiones en los cachetes y la nariz, con pus"
+desc_00198,14,14,spanish,survey_response,Q13,sle_6,sle_6,erupcion con manchas rojas con relieve en los cachetes ,erupcion con manchas rojas con relieve en los cachetes
+desc_00199,14,14,spanish,survey_response,Q14,eye_2,eye_2,mucho enrojecimiento al rededor del ojo ,mucho enrojecimiento al rededor del ojo
+desc_00200,14,14,spanish,survey_response,Q15,eye_3,eye_3,"enrojecimiento muy fuerte en los párpados y debajo de los ojos, casi morados","enrojecimiento muy fuerte en los párpados y debajo de los ojos, casi morados"
+desc_00201,14,14,spanish,survey_response,Q16,eye_4,eye_4,"enrojecimiento en los párpados, se va haciendo más fuerte cerca de las pestañas ","enrojecimiento en los párpados, se va haciendo más fuerte cerca de las pestañas"
+desc_00202,14,14,spanish,survey_response,Q17,eye_5,eye_5,"enrojecimiento en los cachetes y la nariz, con algunas lesiones mas oscuras","enrojecimiento en los cachetes y la nariz, con algunas lesiones mas oscuras"
+desc_00203,14,14,spanish,survey_response,Q18,iga_2,iga_2,erupción con muchas manchas rojas de varios tamaños en el talón y el pie,erupción con muchas manchas rojas de varios tamaños en el talón y el pie
+desc_00204,14,14,spanish,survey_response,Q20,jdm_1,jdm_1,manchas de resequedad en la mano,manchas de resequedad en la mano
+desc_00205,14,14,spanish,survey_response,Q21,jdm_2,jdm_2,enrojecimiento e inflamacion cerca de la cuticula en los dedos ,enrojecimiento e inflamacion cerca de la cuticula en los dedos
+desc_00206,14,14,spanish,survey_response,Q22,jdm_4,jdm_4,mucho decoloramiento en los nodulos de las manos,mucho decoloramiento en los nodulos de las manos
+desc_00207,14,14,spanish,survey_response,Q23,jdm_6,jdm_6,pelotas con relieve en los nudos de las manos,pelotas con relieve en los nudos de las manos
+desc_00208,14,14,spanish,survey_response,Q24,jdm_3,jdm_3,Enrojecimiento muy fuerte en las rodillas ,Enrojecimiento muy fuerte en las rodillas
+desc_00209,14,14,spanish,survey_response,Q25,jdm_5,jdm_5,"manchas rojas en la parte de arriba de las manos, y en varias partes de los dedos","manchas rojas en la parte de arriba de las manos, y en varias partes de los dedos"
+desc_00210,14,14,spanish,survey_response,Q26,iga_6,iga_6,erupción muy fuerte con muchas manchas muy rojas ,erupción muy fuerte con muchas manchas muy rojas
+desc_00211,14,14,spanish,survey_response,Q27,iga_1,iga_1,una erupción con muchas manchas rojas pequeñas,una erupción con muchas manchas rojas pequeñas
+desc_00212,14,14,spanish,survey_response,Q28,iga_3,iga_3,"manchas rojas muy fuertes en las piernas, de varios tamaños","manchas rojas muy fuertes en las piernas, de varios tamaños"
+desc_00213,14,14,spanish,survey_response,Q29,iga_4,iga_4,muchas manchas muy rojas de varios tamaños ,muchas manchas muy rojas de varios tamaños
+desc_00214,14,14,spanish,survey_response,Q30,iga_7,iga_7,manchas muy fuertes moradas de varios tamaños en las piernas y los pies,manchas muy fuertes moradas de varios tamaños en las piernas y los pies
+desc_00215,14,14,spanish,survey_response,Q31,msi_1,msi_1,manchas marrones en el cuero cabelludo,manchas marrones en el cuero cabelludo
+desc_00216,14,14,spanish,survey_response,Q33,msi_3,msi_3,costras en el cuero cabelludo,costras en el cuero cabelludo
+desc_00217,14,14,spanish,survey_response,Q35,msi_5,msi_5,hueco en el cuero cabelludo,hueco en el cuero cabelludo
+desc_00218,14,14,spanish,survey_response,Q36,msi_6,msi_6,pecas o lunares marrones en el cuero cabelludo,pecas o lunares marrones en el cuero cabelludo
+desc_00219,14,14,spanish,survey_response,Q43,dry_1,dry_1,mucha resequedad en el dedo,mucha resequedad en el dedo
+desc_00220,14,14,spanish,survey_response,Q44,dry_2,dry_2,resequedad y pellejos en la nariz y la boca,resequedad y pellejos en la nariz y la boca
+desc_00221,14,14,spanish,survey_response,Q45,acne_1,acne_1,"erupción en la frente, como pústulos con relieve y pus","erupción en la frente, como pústulos con relieve y pus"
+desc_00222,14,14,spanish,survey_response,Q46,acne_2,acne_2,"erupcion o pepas en la cara, en los cachetes","erupcion o pepas en la cara, en los cachetes"
+desc_00223,14,14,spanish,survey_response,Q47,normal_1,normal_1,N/A,N/A
+desc_00224,14,14,spanish,survey_response,Q48,normal_2,normal_2,puntos marrones en el pie,puntos marrones en el pie
+desc_00225,15,15,spanish,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,El costado de la cara esta colorado en ciertas partes y parece hinchado,El costado de la cara esta colorado en ciertas partes y parece hinchado
+desc_00226,15,15,spanish,survey_response,Q6,morphea_2,morphea_2,"manchas en la piel de un color apenas mas oscuro que el tono de la piel, de forma irregular","manchas en la piel de un color apenas mas oscuro que el tono de la piel, de forma irregular"
+desc_00227,15,15,spanish,survey_response,Q8,sle_1,sle_1,"manchas oscuras en los cachetes, debajo de los ojos, parecen raspaduras","manchas oscuras en los cachetes, debajo de los ojos, parecen raspaduras"
+desc_00228,15,15,spanish,survey_response,Q10,sle_3,sle_3,"Un poco de hinchazón en el cachete, puntos rojos como granitos","Un poco de hinchazón en el cachete, puntos rojos como granitos"
+desc_00229,15,15,spanish,survey_response,Q24,jdm_3,jdm_3,"Las rodillas estan rojas, raspadas y sin pelo","Las rodillas estan rojas, raspadas y sin pelo"
+desc_00230,15,15,spanish,survey_response,Q28,iga_3,iga_3,manchas oscuras en la piel,manchas oscuras en la piel
+desc_00231,15,15,spanish,survey_response,Q31,msi_1,msi_1,"Calvicie, perdida de pelo en una parte del cuero cabelludo","Calvicie, perdida de pelo en una parte del cuero cabelludo"
+desc_00232,15,15,spanish,survey_response,Q33,msi_3,msi_3,"Perdida de pelo en el cuero cabelludo, la piel parece estar seca y con cascara","Perdida de pelo en el cuero cabelludo, la piel parece estar seca y con cascara"
+desc_00233,15,15,spanish,survey_response,Q46,acne_2,acne_2,"acne, granitos en el cachete","acne, granitos en el cachete"
+desc_00234,15,15,spanish,survey_response,Q48,normal_2,normal_2,una marca en el tobillo como si fuera una picadura de insecto,una marca en el tobillo como si fuera una picadura de insecto
+desc_00235,16,16,spanish,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,"Hay dos tipos de erupciones, en los codos, mancha roja continúa y grande, como si estuviera tallado y en la cara manchas más tenues alrededor de la nariz y en los pomulos, son manchas rosadas.","Hay dos tipos de erupciones, en los codos, mancha roja continúa y grande, como si estuviera tallado y en la cara manchas más tenues alrededor de la nariz y en los pomulos, son manchas rosadas"
+desc_00236,16,16,spanish,survey_response,Q6,morphea_2,morphea_2,"Mancha grande y café, parecida a un mapa mundi","Mancha grande y café, parecida a un mapa mundi"
+desc_00237,16,16,spanish,survey_response,Q9,sle_2,sle_2,"Brote en la cara, mejillas, pomulos y nariz, de manchas rojas y escarlatas, no son barros, son más bien puntos y como reacción alergica.","Brote en la cara, mejillas, pomulos y nariz, de manchas rojas y escarlatas, no son barros, son más bien puntos y como reacción alergica"
+desc_00238,16,16,spanish,survey_response,Q14,eye_2,eye_2,"mancha rojiza en el ojo y sus alrededores, parecido a como si me hubieran dado un golpe y se me pusiera el ojo morado. No hay erupciones abiertas.","mancha rojiza en el ojo y sus alrededores, parecido a como si me hubieran dado un golpe y se me pusiera el ojo morado. No hay erupciones abiertas"
+desc_00239,16,16,spanish,survey_response,Q25,jdm_5,jdm_5,"Hinchazón de las manos y lo dedos, con un enrojecimiento leve de las coyunturas de los dedos y nudillos.","Hinchazón de las manos y lo dedos, con un enrojecimiento leve de las coyunturas de los dedos y nudillos"
+desc_00240,16,16,spanish,survey_response,Q30,iga_7,iga_7,"Presencia de manchas de varios tamaños en la parte inferir de la pierna, de color rojizo, tirando a escarlata  y que se ha juntado unas con otras, parecido a una alergia.","Presencia de manchas de varios tamaños en la parte inferir de la pierna, de color rojizo, tirando a escarlata y que se ha juntado unas con otras, parecido a una alergia"
+desc_00241,16,16,spanish,survey_response,Q32,msi_2,msi_2,"Mancha café oscura en el cuero cabelludo, con aspecto grasoso","Mancha café oscura en el cuero cabelludo, con aspecto grasoso"
+desc_00242,16,16,spanish,survey_response,Q34,msi_4,msi_4,"Macha café en el cuero cabelludo, de un color parecido a lunares, es una mancha continúa, no separada y se extiende por gran parte. ","Macha café en el cuero cabelludo, de un color parecido a lunares, es una mancha continúa, no separada y se extiende por gran parte"
+desc_00243,16,16,spanish,survey_response,Q45,acne_1,acne_1,"Un brote abundante en la frente de barros, algunos con punta blanca, la frente en general con un aspecto grasoso.","Un brote abundante en la frente de barros, algunos con punta blanca, la frente en general con un aspecto grasoso"
+desc_00244,16,16,spanish,survey_response,Q48,normal_2,normal_2,"Puntos rojos, muy parecidos a picaduras de mosquitos con herida de sangre.","Puntos rojos, muy parecidos a picaduras de mosquitos con herida de sangre"
+desc_00245,17,17,spanish,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,"Enrojecimiento homogéneo que se extiende desde los párpados, hasta la barbilla y se extiende hacia las mejillas, lateral de la nariz y papada. En el contorno de la boca no ha enrojecimiento, sin embargo sí que hay enrojecimiento en la comisura del labio ","Enrojecimiento homogéneo que se extiende desde los párpados, hasta la barbilla y se extiende hacia las mejillas, lateral de la nariz y papada. En el contorno de la boca no ha enrojecimiento, sin embargo sí que hay enrojecimiento en la comisura del labio"
+desc_00246,17,17,spanish,survey_response,Q13,sle_6,sle_6,"Erupción en las mejillas de pequeños puntos rojos, levemente abultados, sin infección aparente ","Erupción en las mejillas de pequeños puntos rojos, levemente abultados, sin infección aparente"
+desc_00247,17,17,spanish,survey_response,Q24,jdm_3,jdm_3,"Ampollas abiertas o de color rosacio en nudillos y articulaciones de los dedos de la mano, así como en las rodillas. Como si fueran quemaduras ","Ampollas abiertas o de color rosacio en nudillos y articulaciones de los dedos de la mano, así como en las rodillas. Como si fueran quemaduras"
+desc_00248,17,17,spanish,survey_response,Q25,jdm_5,jdm_5,"Enrojecimiento e inflamación en nudillos y articulaciones de los dedos, por la parte exterior de las manos, con ampollas abiertas en algunos casos ","Enrojecimiento e inflamación en nudillos y articulaciones de los dedos, por la parte exterior de las manos, con ampollas abiertas en algunos casos"
+desc_00249,17,17,spanish,survey_response,Q26,iga_6,iga_6,"Ronchas de 0,5cm aprox bastante homogéneas de tamaño con mucha densidad por centímetro cuadrado de piel formando como una gran mancha en la pierna de color rojo intenso ensangrentado, con un poco de relieve","Ronchas de 0,5cm aprox bastante homogéneas de tamaño con mucha densidad por centímetro cuadrado de piel formando como una gran mancha en la pierna de color rojo intenso ensangrentado, con un poco de relieve"
+desc_00250,17,17,spanish,survey_response,Q27,iga_1,iga_1,"Erupción de grano plano de color rojo intenso ensangrentado y con mucha densidad por milímetro cuadrado de piel, granos de tamaño variable entre pequeños y medianos ","Erupción de grano plano de color rojo intenso ensangrentado y con mucha densidad por milímetro cuadrado de piel, granos de tamaño variable entre pequeños y medianos"
+desc_00251,17,17,spanish,survey_response,Q28,iga_3,iga_3,"Ronchas de tamaño variable entre grandes 1cm de diámetro, medianas y muy pequeñas 1mm de diámetro, extendidas de forma poco homogénea en la antepierna, de color rojo intenso ensangrentado. Las ronchas grandes están levemente abultadas en el centro","Ronchas de tamaño variable entre grandes 1cm de diámetro, medianas y muy pequeñas 1mm de diámetro, extendidas de forma poco homogénea en la antepierna, de color rojo intenso ensangrentado. Las ronchas grandes están levemente abultadas en el centro"
+desc_00252,17,17,spanish,survey_response,Q29,iga_4,iga_4,"Ronchas de color rojo ensangrentado, tan juntas unas de otras que forman en muchas zonas una única mancha. En el centro de algunas de éstas manchas hay como una mayor coagulación de sangre xq está más oscuro f","Ronchas de color rojo ensangrentado, tan juntas unas de otras que forman en muchas zonas una única mancha. En el centro de algunas de éstas manchas hay como una mayor coagulación de sangre xq está más oscuro f"
+desc_00253,17,17,spanish,survey_response,Q36,msi_6,msi_6,Enrojecimiento del cuero cabelludo con una zona oscurecida de color marrón en la zona con menor densidad capilar ,Enrojecimiento del cuero cabelludo con una zona oscurecida de color marrón en la zona con menor densidad capilar
+desc_00254,17,17,spanish,survey_response,Q43,dry_1,dry_1,"Lateral del dedo cuarteado, como piel de cocodrilo o exceso de resequedad, pero muy localizado","Lateral del dedo cuarteado, como piel de cocodrilo o exceso de resequedad, pero muy localizado"
+desc_00255,18,18,spanish,survey_response,Q5,morphea_1,morphea_1,"En el cuero cabelludo, donde hay falta de cabello hay una gran mancha que se distribuye por toda la zona. La mancha es color amarillenta, y tiene algunos punticos blancos (escasos). ","En el cuero cabelludo, donde hay falta de cabello hay una gran mancha que se distribuye por toda la zona. La mancha es color amarillenta, y tiene algunos punticos blancos escasos"
+desc_00256,18,18,spanish,survey_response,Q8,sle_1,sle_1,"Manchas rojas similares a costras o quemaduras justo debajo de las ojeras en los cachetes, del tamaño de un dedo pulgar. La zona afectada tiene distintas tonalidades rojizas, llegando a morados. ","Manchas rojas similares a costras o quemaduras justo debajo de las ojeras en los cachetes, del tamaño de un dedo pulgar. La zona afectada tiene distintas tonalidades rojizas, llegando a morados"
+desc_00257,18,18,spanish,survey_response,Q9,sle_2,sle_2,"A lo largo de la nariz y bajo el ojo, justo donde el cachete se eleva más hay una especie de erupción. La del cachete tiene textura más rugosa,, como una quemadura o raspón. La nariz tiene un relieve más uniforme pero también posee un color más oscuro","A lo largo de la nariz y bajo el ojo, justo donde el cachete se eleva más hay una especie de erupción. La del cachete tiene textura más rugosa,, como una quemadura o raspón. La nariz tiene un relieve más uniforme pero también posee un color más oscuro"
+desc_00258,18,18,spanish,survey_response,Q13,sle_6,sle_6,"Erupción de punticos rojos que se distribuyen por los cachetes y, en menor cantidad, por la nariz. Nada alrededor de la boca. ","Erupción de punticos rojos que se distribuyen por los cachetes y, en menor cantidad, por la nariz. Nada alrededor de la boca"
+desc_00259,18,18,spanish,survey_response,Q15,eye_3,eye_3,"Párpados muy rojos. El color baja por el lagrimal a la bolsa de las ojeras. Esto viene acompañado de algunos relieves de punticos rojos, principalmente debajo del ojo. El resto de la cara y la nariz están normales. El rojo de los párpados es uniforme. Como si se hubiese aplicado una sombra roja o rosada","Párpados muy rojos. El color baja por el lagrimal a la bolsa de las ojeras. Esto viene acompañado de algunos relieves de punticos rojos, principalmente debajo del ojo. El resto de la cara y la nariz están normales. El rojo de los párpados es uniforme. Como si se hubiese aplicado una sombra roja o rosada"
+desc_00260,18,18,spanish,survey_response,Q16,eye_4,eye_4,"Especie de alergia en los párpados y nariz. Puntos rojos, distribuidos por todos los párpados, que se acentúan más cerca de las pestañas, y nariz enrojecida","Especie de alergia en los párpados y nariz. Puntos rojos, distribuidos por todos los párpados, que se acentúan más cerca de las pestañas, y nariz enrojecida"
+desc_00261,18,18,spanish,survey_response,Q17,eye_5,eye_5,"En la zona donde usualmente uno más se quema del sol e la cara: cachetes y nariz , hay una tonalidad rojiza/morada . Especialmente acentuada en los cachetes bajo los ojos. Levemente también en los párpados hay coloración. No hay punticos, el color es uniforme","En la zona donde usualmente uno más se quema del sol e la cara: cachetes y nariz, hay una tonalidad rojiza/morada. Especialmente acentuada en los cachetes bajo los ojos. Levemente también en los párpados hay coloración. No hay punticos, el color es uniforme"
+desc_00262,18,18,spanish,survey_response,Q23,jdm_6,jdm_6,"Nudillos de la mano con una erupción más oscura que la piel, y puntitos blancos ","Nudillos de la mano con una erupción más oscura que la piel, y puntitos blancos"
+desc_00263,18,18,spanish,survey_response,Q34,msi_4,msi_4,"Gran mancha amarillenta en una zona del cuero cabelludo, que a su vez tiene manchitas marrones. Las manchitas marrones similar a la que le salen en la piel blanca a los ancianos. ","Gran mancha amarillenta en una zona del cuero cabelludo, que a su vez tiene manchitas marrones. Las manchitas marrones similar a la que le salen en la piel blanca a los ancianos"
+desc_00264,18,18,spanish,survey_response,Q36,msi_6,msi_6,"En una parte de la zona sin cabello, manchas marrones de diferentes tonos, y mezclándose entre si","En una parte de la zona sin cabello, manchas marrones de diferentes tonos, y mezclándose entre si"
+desc_00265,19,19,spanish,survey_response,Q10,sle_3,sle_3,"Irritación parecida a la rosacea. Inflamación roja en los cachetes, en la nariz y en la barbilla. El brote rojo aparece acumulado con un relieve ligero en áreas grandes.","Irritación parecida a la rosacea. Inflamación roja en los cachetes, en la nariz y en la barbilla. El brote rojo aparece acumulado con un relieve ligero en áreas grandes"
+desc_00266,19,19,spanish,survey_response,Q18,iga_2,iga_2,"Pequeñas erupciones circulares (borde irregular ) rojas en toda la pierna y el pie entero 2mm y 5mm de diámetro, algunas parecen tener relieve y otras no.","Pequeñas erupciones circulares borde irregular rojas en toda la pierna y el pie entero 2mm y 5mm de diámetro, algunas parecen tener relieve y otras no"
+desc_00267,19,19,spanish,survey_response,Q19,iga_5,iga_5,Puntos marrones al rededor de los pies como pecas pero muy intensas.  Hay dos lesiones como de picada hundida en el pie derecho y una cortada en el pie izquierdo. La uña del dedo medio del pie derecho está ensangrentada y lastimada ,Puntos marrones al rededor de los pies como pecas pero muy intensas. Hay dos lesiones como de picada hundida en el pie derecho y una cortada en el pie izquierdo. La uña del dedo medio del pie derecho está ensangrentada y lastimada
+desc_00268,19,19,spanish,survey_response,Q20,jdm_1,jdm_1,Paches de color blanco y seco en los nudillos y pesados de la palma de la mano en piel oscura. Luce como piel seca como algún tipo de dermatitis.,Paches de color blanco y seco en los nudillos y pesados de la palma de la mano en piel oscura. Luce como piel seca como algún tipo de dermatitis
+desc_00269,19,19,spanish,survey_response,Q24,jdm_3,jdm_3,Irritación roja severa en loas rodillas nudillos y puntas de los dedos de mano. El color de las lesiones es rosado intenso ,Irritación roja severa en loas rodillas nudillos y puntas de los dedos de mano. El color de las lesiones es rosado intenso
+desc_00270,19,19,spanish,survey_response,Q25,jdm_5,jdm_5,"Piel irritada rosada en manos y piernas al rededor de las rodillas, nudillos y dedos. Las marcas lucen irregulares son relieve como muchos puntitos juntos ","Piel irritada rosada en manos y piernas al rededor de las rodillas, nudillos y dedos. Las marcas lucen irregulares son relieve como muchos puntitos juntos"
+desc_00271,19,19,spanish,survey_response,Q31,msi_1,msi_1,"Dos lesiones en el tope de la cabeza de color rojizo oscuro, casi morado. Parecen como conchitas pequeñas con relieve, con color bastante uniforme.","Dos lesiones en el tope de la cabeza de color rojizo oscuro, casi morado. Parecen como conchitas pequeñas con relieve, con color bastante uniforme"
+desc_00272,19,19,spanish,survey_response,Q33,msi_3,msi_3,Ausencia de pelo en la large superior del cráneo. La lesión en el cuero cabelludo luce como una cicatriz después de una quemadura ligera,Ausencia de pelo en la large superior del cráneo. La lesión en el cuero cabelludo luce como una cicatriz después de una quemadura ligera
+desc_00273,19,19,spanish,survey_response,Q44,dry_2,dry_2,Piel peleándose en la nariz y boca. Pedacitos de piel seca sueltos en ambas partes ,Piel peleándose en la nariz y boca. Pedacitos de piel seca sueltos en ambas partes
+desc_00274,19,19,spanish,survey_response,Q48,normal_2,normal_2,Marca roja en la piel como picadura. Tiene un centro rojo intenso rodeado de un área de inflamación rojo más claro ,Marca roja en la piel como picadura. Tiene un centro rojo intenso rodeado de un área de inflamación rojo más claro
+desc_00275,20,20,spanish,survey_response,Q2,lupus_1,lupus_1,Ardor en las zonas enrojecidas,Ardor en las zonas enrojecidas
+desc_00276,20,20,spanish,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,Comezón en zonas enrojecidas. Los codos particularmente podría tonarse como resequedad,Comezón en zonas enrojecidas. Los codos particularmente podría tonarse como resequedad
+desc_00277,20,20,spanish,survey_response,Q10,sle_3,sle_3,"Visualmente notable, piel brotes en las zonas enrojecidas y probablemente con comezón","Visualmente notable, piel brotes en las zonas enrojecidas y probablemente con comezón"
+desc_00278,20,20,spanish,survey_response,Q17,eye_5,eye_5,Ardor en las zonas enrojecidas,Ardor en las zonas enrojecidas
+desc_00279,20,20,spanish,survey_response,Q27,iga_1,iga_1,Sarpullido generalizado y con comezón ,Sarpullido generalizado y con comezón
+desc_00280,20,20,spanish,survey_response,Q28,iga_3,iga_3,"Comezón insoportable, muy sensible al tacto y sarpullido notable","Comezón insoportable, muy sensible al tacto y sarpullido notable"
+desc_00281,20,20,spanish,survey_response,Q33,msi_3,msi_3,Comezón aunque no sea visible,Comezón aunque no sea visible
+desc_00282,20,20,spanish,survey_response,Q35,msi_5,msi_5,Comezón muy molesta y palpable al tacto,Comezón muy molesta y palpable al tacto
+desc_00283,20,20,spanish,survey_response,Q36,msi_6,msi_6,No es visualmente superficial pero probablemente sensible ligeramente al tacto,No es visualmente superficial pero probablemente sensible ligeramente al tacto
+desc_00284,20,20,spanish,survey_response,Q46,acne_2,acne_2,Marcas de acné. Probablemente no haya comezón,Marcas de acné. Probablemente no haya comezón
+desc_00285,21,21,spanish,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,"tengo un enrojecimiento en la cara, al rededor de mis mejillas. Se me marcan las bolsas de los ojos. Tambien tengo algo de eso en mis labios, es como un brote que me dio. Tal vez una alergia o algun tipo de virus?","tengo un enrojecimiento en la cara, al rededor de mis mejillas. Se me marcan las bolsas de los ojos. Tambien tengo algo de eso en mis labios, es como un brote que me dio. Tal vez una alergia o algun tipo de virus"
+desc_00286,21,21,spanish,survey_response,Q6,morphea_2,morphea_2,Noté que tengo una mancha en la parte baja de la espalda y queria preguntarle que es. Es como si me hubiese quemado o como si me hubiese pegado en algun momento pero no es un morado,Noté que tengo una mancha en la parte baja de la espalda y queria preguntarle que es. Es como si me hubiese quemado o como si me hubiese pegado en algun momento pero no es un morado
+desc_00287,21,21,spanish,survey_response,Q22,jdm_4,jdm_4,Tengo como unas ampollas en las articulaciones de los dedos y en los nudillos de las manos. No me duelen cuando me las toco pero no se ven normales y noté que aparecieron hace unos dias,Tengo como unas ampollas en las articulaciones de los dedos y en los nudillos de las manos. No me duelen cuando me las toco pero no se ven normales y noté que aparecieron hace unos dias
+desc_00288,21,21,spanish,survey_response,Q26,iga_6,iga_6,"Tengo un monton de manchas pequeñas, son muchos puntos rojos y me rascan. Es un brote grande en mi pierna. No se si es varicela o sarampion pero no se ve bien  ","Tengo un monton de manchas pequeñas, son muchos puntos rojos y me rascan. Es un brote grande en mi pierna. No se si es varicela o sarampion pero no se ve bien"
+desc_00289,21,21,spanish,survey_response,Q27,iga_1,iga_1,"Tengo un brote en la pierna, son como unos puntos rojos en la piel ","Tengo un brote en la pierna, son como unos puntos rojos en la piel"
+desc_00290,21,21,spanish,survey_response,Q29,iga_4,iga_4,"Tengo unas manchas en la piel que son disparejas en su forma, parece varicela o sarampion. Hay manchas que son mas oscuras que otras. Me pica un poco tambien","Tengo unas manchas en la piel que son disparejas en su forma, parece varicela o sarampion. Hay manchas que son mas oscuras que otras. Me pica un poco tambien"
+desc_00291,21,21,spanish,survey_response,Q30,iga_7,iga_7,"Tengo brote en las piernas, las manchas son un poco moradas y de diferente tamaño. No me duelen pero me preocupa que tenga un problema de la piel o tal vez de la circulación","Tengo brote en las piernas, las manchas son un poco moradas y de diferente tamaño. No me duelen pero me preocupa que tenga un problema de la piel o tal vez de la circulación"
+desc_00292,21,21,spanish,survey_response,Q32,msi_2,msi_2,"Tengo una parte dispareja en mi cuero cabelludo, como un tipo de grano en la piel. No se ve parejo al igual que el resto de la cabeza","Tengo una parte dispareja en mi cuero cabelludo, como un tipo de grano en la piel. No se ve parejo al igual que el resto de la cabeza"
+desc_00293,21,21,spanish,survey_response,Q35,msi_5,msi_5,"Tengo como un grano en la cabeza, siento que el grano esta abierto y sale materia. Cuando me toco, siento dolor y me duele. Es como si estiviera inflamado","Tengo como un grano en la cabeza, siento que el grano esta abierto y sale materia. Cuando me toco, siento dolor y me duele. Es como si estiviera inflamado"
+desc_00294,21,21,spanish,survey_response,Q45,acne_1,acne_1,"Tengo un brote en la cara, tengo unos granos y tienen materia. Cuando me los toco, siento algo debajo de la piel como una masa. La piel se ve roja y esta dispareja","Tengo un brote en la cara, tengo unos granos y tienen materia. Cuando me los toco, siento algo debajo de la piel como una masa. La piel se ve roja y esta dispareja"
+desc_00295,22,22,spanish,survey_response,Q2,lupus_1,lupus_1,irritación / enrojecimiento en la cara,irritación / enrojecimiento en la cara
+desc_00296,22,22,spanish,survey_response,Q5,morphea_1,morphea_1,manchas en el cuero cabelludo,manchas en el cuero cabelludo
+desc_00297,22,22,spanish,survey_response,Q9,sle_2,sle_2,acné / manchas con relieve en la cara,acné / manchas con relieve en la cara
+desc_00298,22,22,spanish,survey_response,Q14,eye_2,eye_2,irritación / enrojecimiento cerca del ojo,irritación / enrojecimiento cerca del ojo
+desc_00299,22,22,spanish,survey_response,Q15,eye_3,eye_3,ojos rojos / enrojecimiento,ojos rojos / enrojecimiento
+desc_00300,22,22,spanish,survey_response,Q32,msi_2,msi_2,cuero cabelludo escamoso?,cuero cabelludo escamoso
+desc_00301,22,22,spanish,survey_response,Q34,msi_4,msi_4,manchas marrones en el cuero cabelludo,manchas marrones en el cuero cabelludo
+desc_00302,22,22,spanish,survey_response,Q43,dry_1,dry_1,resequedad en los dedos,resequedad en los dedos
+desc_00303,22,22,spanish,survey_response,Q44,dry_2,dry_2,escamas en la nariz y boca / dermatitis?,escamas en la nariz y boca / dermatitis
+desc_00304,22,22,spanish,survey_response,Q45,acne_1,acne_1,fuerte brote de acné en la frente,fuerte brote de acné en la frente
+desc_00305,23,23,spanish,survey_response,Q11,sle_4,sle_4,"Me han salido en la cara unas manchas rosadas intensas, sobre todo en los cachetes, parece como una reaccion alérgica a algo que me pude haber puesto, porque tiene bordes irregulares. La nariz tengo algunos pintos rojos y los labios resecos y rotos.","Me han salido en la cara unas manchas rosadas intensas, sobre todo en los cachetes, parece como una reaccion alérgica a algo que me pude haber puesto, porque tiene bordes irregulares. La nariz tengo algunos pintos rojos y los labios resecos y rotos"
+desc_00306,23,23,spanish,survey_response,Q16,eye_4,eye_4,"Mis parpados en ambos ojos estan hinchados, la piel esta rosasea, alguna venitas muy rojas pero no brotadas","Mis parpados en ambos ojos estan hinchados, la piel esta rosasea, alguna venitas muy rojas pero no brotadas"
+desc_00307,23,23,spanish,survey_response,Q18,iga_2,iga_2,"Tengo un brote eruptivo en el pie izquierdo, manchas de distintos tamaños alrededor de tobillo y en el lateral izquierdo, la formas son irregulares, de diferentes tamaños ","Tengo un brote eruptivo en el pie izquierdo, manchas de distintos tamaños alrededor de tobillo y en el lateral izquierdo, la formas son irregulares, de diferentes tamaños"
+desc_00308,23,23,spanish,survey_response,Q19,iga_5,iga_5,"Me ha salido un sarpullido en ambos pies, desde el tobillo hasta laos dedos de ambos pies tienen circulos rojos de deferentes diametros, son de color rojo algunos mas intensos y mas grndes que otros. ","Me ha salido un sarpullido en ambos pies, desde el tobillo hasta laos dedos de ambos pies tienen circulos rojos de deferentes diametros, son de color rojo algunos mas intensos y mas grndes que otros"
+desc_00309,23,23,spanish,survey_response,Q20,jdm_1,jdm_1,"Mi mando derecha esta hinchada, la parte de arriba, no la palma de la mano, sino la parte de arriba esta reseca y como con escamas sobre todo los nudillos y algunas articulaciones tambien. La piel tiene un tono rosado en algunas partes cerca de los nudillos ","Mi mando derecha esta hinchada, la parte de arriba, no la palma de la mano, sino la parte de arriba esta reseca y como con escamas sobre todo los nudillos y algunas articulaciones tambien. La piel tiene un tono rosado en algunas partes cerca de los nudillos"
+desc_00310,23,23,spanish,survey_response,Q21,jdm_2,jdm_2,"Mi mano derecha la piel alrededor de los dedos al borde de la cuticula estan inflamada, roja y con pellejitos. No es la articulaciones es entre la articulacion y las uñas","Mi mano derecha la piel alrededor de los dedos al borde de la cuticula estan inflamada, roja y con pellejitos. No es la articulaciones es entre la articulacion y las uñas"
+desc_00311,23,23,spanish,survey_response,Q22,jdm_4,jdm_4,"Los nudillos y articulaciones de los debos de ambas manos han perdido color y me salieron como bolsas como ampollas con liquido, es doloroso al movimiento, siento ardor ","Los nudillos y articulaciones de los debos de ambas manos han perdido color y me salieron como bolsas como ampollas con liquido, es doloroso al movimiento, siento ardor"
+desc_00312,23,23,spanish,survey_response,Q26,iga_6,iga_6,"Mi pierna tiene una erupcion, miles de puntitos rojos pequenos muy juntos unos de otros, brotados, casi se juntan y parece una sola mancha roja, es molesto con mucha picazón, cada vez salen mas ","Mi pierna tiene una erupcion, miles de puntitos rojos pequenos muy juntos unos de otros, brotados, casi se juntan y parece una sola mancha roja, es molesto con mucha picazón, cada vez salen mas"
+desc_00313,23,23,spanish,survey_response,Q31,msi_1,msi_1,"Me estoy quedando calvo he perdido el cabello en la parte delantera izquierda de mi cabeza, un circulo casi perfecto como del diametro de una pelota de golf no tiene ni un solo cabello","Me estoy quedando calvo he perdido el cabello en la parte delantera izquierda de mi cabeza, un circulo casi perfecto como del diametro de una pelota de golf no tiene ni un solo cabello"
+desc_00314,23,23,spanish,survey_response,Q48,normal_2,normal_2,Tengo una roncha en el tobillo derecho. La piel esta roja como si se hubiera roto la roncha ,Tengo una roncha en el tobillo derecho. La piel esta roja como si se hubiera roto la roncha
+desc_00315,24,24,spanish,survey_response,Q2,lupus_1,lupus_1,"Es un enrojecimiento fuerte como en la zona del cachete pero más debajo del ojo, parece como un triángulo y se ve como color carne viva","Es un enrojecimiento fuerte como en la zona del cachete pero más debajo del ojo, parece como un triángulo y se ve como color carne viva"
+desc_00316,24,24,spanish,survey_response,Q6,morphea_2,morphea_2,"Es como una mancha medio roja, parece como la forma no uniforme, como una mancha de pintura","Es como una mancha medio roja, parece como la forma no uniforme, como una mancha de pintura"
+desc_00317,24,24,spanish,survey_response,Q8,sle_1,sle_1,"Es como rugosa, tiene relieve, no es roja, pero sí como oscura con partes blancas, como si estuviese reseco pero también parece como con costra","Es como rugosa, tiene relieve, no es roja, pero sí como oscura con partes blancas, como si estuviese reseco pero también parece como con costra"
+desc_00318,24,24,spanish,survey_response,Q10,sle_3,sle_3,"Es como una erupción roja con relieve, parece hinchado","Es como una erupción roja con relieve, parece hinchado"
+desc_00319,24,24,spanish,survey_response,Q11,sle_4,sle_4,"Enrojecimiento pero no tan fuerte, más como tono rosa en los cachetes, parecen como manchas grandes","Enrojecimiento pero no tan fuerte, más como tono rosa en los cachetes, parecen como manchas grandes"
+desc_00320,24,24,spanish,survey_response,Q21,jdm_2,jdm_2,"Las uñas están como infectadas, rojas e inflamadas en la cutícula, como si tuviesen líquido dentro","Las uñas están como infectadas, rojas e inflamadas en la cutícula, como si tuviesen líquido dentro"
+desc_00321,24,24,spanish,survey_response,Q22,jdm_4,jdm_4,"Parecen como unos cayos pero arrugaditos en los nudillos y en las zonas dónde se flexionan los deditos, no son de color sino tipo color de mi piel","Parecen como unos cayos pero arrugaditos en los nudillos y en las zonas dónde se flexionan los deditos, no son de color sino tipo color de mi piel"
+desc_00322,24,24,spanish,survey_response,Q24,jdm_3,jdm_3,"Una erupción enrojecida, se ve super irritado, como sensible al tocar como color de carne viva","Una erupción enrojecida, se ve super irritado, como sensible al tocar como color de carne viva"
+desc_00323,24,24,spanish,survey_response,Q44,dry_2,dry_2,"Una resequeda brava, me está saliendo pellejo por toda la nariz, labios y al rededor de la boca","Una resequeda brava, me está saliendo pellejo por toda la nariz, labios y al rededor de la boca"
+desc_00324,24,24,spanish,survey_response,Q47,normal_1,normal_1,No veo erupción,No veo erupción
+desc_00325,25,25,spanish,survey_response,Q5,morphea_1,morphea_1,Resequedad en cuero cabelludo y descamacion,Resequedad en cuero cabelludo y descamacion
+desc_00326,25,25,spanish,survey_response,Q15,eye_3,eye_3,Inflamación rojiza en los parpados,Inflamación rojiza en los parpados
+desc_00327,25,25,spanish,survey_response,Q23,jdm_6,jdm_6,Piel quemada por algún roce,Piel quemada por algún roce
+desc_00328,25,25,spanish,survey_response,Q25,jdm_5,jdm_5,Irritación en la piel ,Irritación en la piel
+desc_00329,25,25,spanish,survey_response,Q30,iga_7,iga_7,Sarpullido de color rojo oscuro general en las piernas,Sarpullido de color rojo oscuro general en las piernas
+desc_00330,25,25,spanish,survey_response,Q34,msi_4,msi_4,Manchas en el cuero cabelludo,Manchas en el cuero cabelludo
+desc_00331,25,25,spanish,survey_response,Q44,dry_2,dry_2,Resequedad y piel descamada,Resequedad y piel descamada
+desc_00332,25,25,spanish,survey_response,Q46,acne_2,acne_2,Brote por picada de algún insecto o acne,Brote por picada de algún insecto o acne
+desc_00333,26,26,spanish,survey_response,Q2,lupus_1,lupus_1,"Una descoloracion roja en los cachetes, parecida a una insolación ","Una descoloracion roja en los cachetes, parecida a una insolación"
+desc_00334,26,26,spanish,survey_response,Q9,sle_2,sle_2,"Una erupción sin color, pero con relieve. Parece una cicatriz","Una erupción sin color, pero con relieve. Parece una cicatriz"
+desc_00335,26,26,spanish,survey_response,Q10,sle_3,sle_3,"Una erupción rojiza con un poco de relieve. Principalmente en los cachetes, cubriéndolos casi completamente ","Una erupción rojiza con un poco de relieve. Principalmente en los cachetes, cubriéndolos casi completamente"
+desc_00336,26,26,spanish,survey_response,Q12,sle_5,sle_5,"Unas marcas rojas y resecas, casi a punto de sangrar. Con un poco de costra ","Unas marcas rojas y resecas, casi a punto de sangrar. Con un poco de costra"
+desc_00337,26,26,spanish,survey_response,Q16,eye_4,eye_4,"Parece unas manchas opacas y pequeñas, bastante concentradas ","Parece unas manchas opacas y pequeñas, bastante concentradas"
+desc_00338,26,26,spanish,survey_response,Q17,eye_5,eye_5,Unas manchas o descoloraciones opacas en los pomulos,Unas manchas o descoloraciones opacas en los pomulos
+desc_00339,26,26,spanish,survey_response,Q28,iga_3,iga_3,Marcas circulares en la piel. Las más pequeñas de unos milímetros de diámetro y las más grandes de algunos centímetros. De color ocre intenso,Marcas circulares en la piel. Las más pequeñas de unos milímetros de diámetro y las más grandes de algunos centímetros. De color ocre intenso
+desc_00340,26,26,spanish,survey_response,Q43,dry_1,dry_1,"Una resequedad en el dedo, que abarca casi todo el dedo. Parecen escamas de un pez","Una resequedad en el dedo, que abarca casi todo el dedo. Parecen escamas de un pez"
+desc_00341,26,26,spanish,survey_response,Q45,acne_1,acne_1,Parecen pepas o ampollas. Pero son muchas. Toda la frente está cubierta en ellas. Algunas tiene pus blanco,Parecen pepas o ampollas. Pero son muchas. Toda la frente está cubierta en ellas. Algunas tiene pus blanco
+desc_00342,26,26,spanish,survey_response,Q47,normal_1,normal_1,Una leve coloración roja principalmente en los nudillos,Una leve coloración roja principalmente en los nudillos
+desc_00343,27,27,spanish,survey_response,Q10,sle_3,sle_3,"Erupción muy fuerte con una tono rojo, parece quemadura, formado por puntos minúsculos, con cierto volumen, unos más grandes que otros, que hacen un paño completo","Erupción muy fuerte con una tono rojo, parece quemadura, formado por puntos minúsculos, con cierto volumen, unos más grandes que otros, que hacen un paño completo"
+desc_00344,27,27,spanish,survey_response,Q13,sle_6,sle_6,"Eruptiva de un color rosado vivo, que forma paños de lo pegadas que se encuentran. Siendo unos puntos más rosáceos fuertes que otros. Presentan cierto volumen ","Eruptiva de un color rosado vivo, que forma paños de lo pegadas que se encuentran. Siendo unos puntos más rosáceos fuertes que otros. Presentan cierto volumen"
+desc_00345,27,27,spanish,survey_response,Q18,iga_2,iga_2,"Erupción  virulenta, rojacea. Muchos puntos rojos de diferentes tamaños ligeramente abultados. Más densos cerca de la zona alrededor del tobillo ","Erupción virulenta, rojacea. Muchos puntos rojos de diferentes tamaños ligeramente abultados. Más densos cerca de la zona alrededor del tobillo"
+desc_00346,27,27,spanish,survey_response,Q19,iga_5,iga_5,"Erupción rojacea. Formada por muchos puntos pequeños del tamaño de la cabeza de un alfiler, de color  rosado intenso, con una aureola marrón, muy juntos pero sin llegar a formar una sola mancha","Erupción rojacea. Formada por muchos puntos pequeños del tamaño de la cabeza de un alfiler, de color rosado intenso, con una aureola marrón, muy juntos pero sin llegar a formar una sola mancha"
+desc_00347,27,27,spanish,survey_response,Q22,jdm_4,jdm_4,"Específicamente en los nudillos de las manos se ven como cicatrices blanquecinas planas, desdibujando las líneas de los dobleces de los dedos. Parecieran ampollas sin líquido. Similar a una herida de quemadura de cigarro pero en todos los nudillos.","Específicamente en los nudillos de las manos se ven como cicatrices blanquecinas planas, desdibujando las líneas de los dobleces de los dedos. Parecieran ampollas sin líquido. Similar a una herida de quemadura de cigarro pero en todos los nudillos"
+desc_00348,27,27,spanish,survey_response,Q25,jdm_5,jdm_5,"Eruptiva rosácea, de pequeños puntos ubicados en las articulaciones de las manos y en la cuticula de las uñas especialmente ","Eruptiva rosácea, de pequeños puntos ubicados en las articulaciones de las manos y en la cuticula de las uñas especialmente"
+desc_00349,27,27,spanish,survey_response,Q28,iga_3,iga_3,"Son manchas rojas y marrones circulares, de diferentes tamaños, cómo salpicaduras de pinturas ( gotas de distintos tamaños ),  y mientras más grandes, más abultadas ","Son manchas rojas y marrones circulares, de diferentes tamaños, cómo salpicaduras de pinturas gotas de distintos tamaños, y mientras más grandes, más abultadas"
+desc_00350,27,27,spanish,survey_response,Q29,iga_4,iga_4,"Parecen Lunares de sangre, no abultados, en ocasiones forman figuras irregulares de tamaño considerable. También hay muchos puntos de distintos tamaños aislados ","Parecen Lunares de sangre, no abultados, en ocasiones forman figuras irregulares de tamaño considerable. También hay muchos puntos de distintos tamaños aislados"
+desc_00351,27,27,spanish,survey_response,Q33,msi_3,msi_3,"La herida se asemeja a  dos cicatrices juntas en el cuerpo cabelludo, donde dichos cordones de sutura, no crece el cabello","La herida se asemeja a dos cicatrices juntas en el cuerpo cabelludo, donde dichos cordones de sutura, no crece el cabello"
+desc_00352,27,27,spanish,survey_response,Q43,dry_1,dry_1,"Resequedad en el dedo índice de la mano, a tal punto de formarse grietas y zonas parcialmente quemadas, por la tonalidad de la piel; y en el nudillo alterado visiblemente, dado una visual de piel de cocodrilo .","Resequedad en el dedo índice de la mano, a tal punto de formarse grietas y zonas parcialmente quemadas, por la tonalidad de la piel; y en el nudillo alterado visiblemente, dado una visual de piel de cocodrilo"
+desc_00353,28,28,hindi,survey_response,Q2,lupus_1,lupus_1,aakho ke neeche chehre ki skin kaafi red ho gyi hai.,aakho ke neeche chehre ki skin kaafi red ho gyi hai
+desc_00354,28,28,hindi,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,मेरे चेहरे के पूरे बाएँ साइड पर बड़ा सा रैश हो रहा है।,मेरे चेहरे के पूरे बाएँ साइड पर बड़ा सा रैश हो रहा है।
+desc_00355,28,28,hindi,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,मेरे दोनों कोहनों पर लाल रैश हो गए हैं। मेरा चेहरा भी पूरा लाल हो गया है।,मेरे दोनों कोहनों पर लाल रैश हो गए हैं। मेरा चेहरा भी पूरा लाल हो गया है।
+desc_00356,28,28,hindi,survey_response,Q5,morphea_1,morphea_1,मेरे सिर के बाएँ साइड सफेद निशान हो गए हैं। ये निशान मेरे सिर के बीच से लेकर लेफ्ट साइड ऊपर तक चल रहा है और उस एरिया पर बाल भी नहीं उग रहे।,मेरे सिर के बाएँ साइड सफेद निशान हो गए हैं। ये निशान मेरे सिर के बीच से लेकर लेफ्ट साइड ऊपर तक चल रहा है और उस एरिया पर बाल भी नहीं उग रहे।
+desc_00357,28,28,hindi,survey_response,Q6,morphea_2,morphea_2,मेरी पीठ के बीच में थोड़े धब्बे हो गए हैं।,मेरी पीठ के बीच में थोड़े धब्बे हो गए हैं।
+desc_00358,28,28,hindi,survey_response,Q8,sle_1,sle_1,Dono gaalo pe thode kaale dhabbe ho gye hai. Naak ke paas bhi chhota sa nishan ho gaya hai.,Dono gaalo pe thode kaale dhabbe ho gye hai. Naak ke paas bhi chhota sa nishan ho gaya hai
+desc_00359,28,28,hindi,survey_response,Q9,sle_2,sle_2,मुझे गाल और नाक दोनों पर काफी सारे छोटे दाने उग गए हैं।,मुझे गाल और नाक दोनों पर काफी सारे छोटे दाने उग गए हैं।
+desc_00360,28,28,hindi,survey_response,Q10,sle_3,sle_3,मुझे पूरे चेहरे पे लाल निशान हो रहे हैं।,मुझे पूरे चेहरे पे लाल निशान हो रहे हैं।
+desc_00361,28,28,hindi,survey_response,Q11,sle_4,sle_4,"मेरे दोनों गालों पर थोड़ी स्किन लाल हो रही है। एकदम ज्यादा खराब नहीं, थोड़ा सा।","मेरे दोनों गालों पर थोड़ी स्किन लाल हो रही है। एकदम ज्यादा खराब नहीं, थोड़ा सा।"
+desc_00362,28,28,hindi,survey_response,Q12,sle_5,sle_5,mere naak pe aur chehre ke right gaal pe chhale ho 2-3 chhale ho gye hai.,mere naak pe aur chehre ke right gaal pe chhale ho 2-3 chhale ho gye hai
+desc_00363,28,28,hindi,survey_response,Q13,sle_6,sle_6,पूरे गाल पर छोटे-छोटे दाने हो गए हैं।,पूरे गाल पर छोटे-छोटे दाने हो गए हैं।
+desc_00364,28,28,hindi,survey_response,Q14,eye_2,eye_2,"Mere aakh ke ekdum paas waala area, updar neeche dono jagah dark ho gaya hai., ","Mere aakh ke ekdum paas waala area, updar neeche dono jagah dark ho gaya hai.,"
+desc_00365,28,28,hindi,survey_response,Q15,eye_3,eye_3,मेरे आँखों के पास काफी ज्यादा लाल हो गया है। पलकों के ऊपर वाले साइड पर तो काफी सूजन भी हो गई है।,मेरे आँखों के पास काफी ज्यादा लाल हो गया है। पलकों के ऊपर वाले साइड पर तो काफी सूजन भी हो गई है।
+desc_00366,28,28,hindi,survey_response,Q16,eye_4,eye_4,Mere palko ke upar skin red ho rha hai. Palako ke ekdum paas waala area jyada red ho gaya hai.,Mere palko ke upar skin red ho rha hai. Palako ke ekdum paas waala area jyada red ho gaya hai
+desc_00367,28,28,hindi,survey_response,Q17,eye_5,eye_5,"mere aakho ke neeche spots ho rhe patches mai, dono gaal or naak pe bhi","mere aakho ke neeche spots ho rhe patches mai, dono gaal or naak pe bhi"
+desc_00368,28,28,hindi,survey_response,Q18,iga_2,iga_2,मेरे पैर के तलवों के थोड़ा ऊपर बाईं साइड में छोटे-छोटे निशान हो रहे हैं।,मेरे पैर के तलवों के थोड़ा ऊपर बाईं साइड में छोटे-छोटे निशान हो रहे हैं।
+desc_00369,28,28,hindi,survey_response,Q19,iga_5,iga_5,मेरे पैरों के पंजों पर काफी छोटे-छोटे धब्बे और छाले हो गए हैं।,मेरे पैरों के पंजों पर काफी छोटे-छोटे धब्बे और छाले हो गए हैं।
+desc_00370,28,28,hindi,survey_response,Q20,jdm_1,jdm_1,मेरे हाथों की त्वचा काफी खुरदुरी और शल्की हो गई है।,मेरे हाथों की त्वचा काफी खुरदुरी और शल्की हो गई है।
+desc_00371,28,28,hindi,survey_response,Q21,jdm_2,jdm_2,मेरी उंगलियों मे नाखूनों के पास थोड़ा सूजन और लालपन हो गया है।,मेरी उंगलियों मे नाखूनों के पास थोड़ा सूजन और लालपन हो गया है।
+desc_00372,28,28,hindi,survey_response,Q22,jdm_4,jdm_4,मेरे हाथों के सभी जोड़ वाली खाल पर झुर्रियां हो रही हैं।,मेरे हाथों के सभी जोड़ वाली खाल पर झुर्रियां हो रही हैं।
+desc_00373,28,28,hindi,survey_response,Q23,jdm_6,jdm_6,मेरी उंगलियों के जोड़ पर थोड़ी अजीब झुर्रियों जैसे निशान हो रहे हैं।,मेरी उंगलियों के जोड़ पर थोड़ी अजीब झुर्रियों जैसे निशान हो रहे हैं।
+desc_00374,28,28,hindi,survey_response,Q24,jdm_3,jdm_3,मेरे हाथों और पैरों के जोड़ काफी लाल हो गए हैं।,मेरे हाथों और पैरों के जोड़ काफी लाल हो गए हैं।
+desc_00375,28,28,hindi,survey_response,Q25,jdm_5,jdm_5,हाथों और घुटनों के जोड़ों पर लाल रैश हो रहे हैं।,हाथों और घुटनों के जोड़ों पर लाल रैश हो रहे हैं।
+desc_00376,28,28,hindi,survey_response,Q26,iga_6,iga_6,Mere taang pe bohot saare chhote chohote laal spots ho gye hai.,Mere taang pe bohot saare chhote chohote laal spots ho gye hai
+desc_00377,28,28,hindi,survey_response,Q27,iga_1,iga_1,पैर पर बहुत सारे छोटे-छोटे लाल निशान हो गए हैं।,पैर पर बहुत सारे छोटे-छोटे लाल निशान हो गए हैं।
+desc_00378,28,28,hindi,survey_response,Q28,iga_3,iga_3,Ghutno ke neeche kaafi dark red dhabbe ho rhe hai.,Ghutno ke neeche kaafi dark red dhabbe ho rhe hai
+desc_00379,28,28,hindi,survey_response,Q29,iga_4,iga_4,"Taang pe kaffi saare laal dhabbe ho rhe, kuchh chhote aur kuchh bade.","Taang pe kaffi saare laal dhabbe ho rhe, kuchh chhote aur kuchh bade"
+desc_00380,28,28,hindi,survey_response,Q30,iga_7,iga_7,"मेरी दोनों टांगों पर घुटनों के नीचे काले स्पॉट्स हो रहे हैं। कुछ काफी बड़े निशान हैं, कुछ छोटे।","मेरी दोनों टांगों पर घुटनों के नीचे काले स्पॉट्स हो रहे हैं। कुछ काफी बड़े निशान हैं, कुछ छोटे।"
+desc_00381,28,28,hindi,survey_response,Q31,msi_1,msi_1,मुझे इस पैच में बाल बिल्कुल नहीं उग रहे। इधर का स्कैल्प बाकी की स्किन की तरह हो गया है और बाल उगने के पोर्स भी बिल्कुल नहीं दिख रहे।,मुझे इस पैच में बाल बिल्कुल नहीं उग रहे। इधर का स्कैल्प बाकी की स्किन की तरह हो गया है और बाल उगने के पोर्स भी बिल्कुल नहीं दिख रहे।
+desc_00382,28,28,hindi,survey_response,Q32,msi_2,msi_2,Mere sar pe idhar patch pe hair loss ho gya hai.,Mere sar pe idhar patch pe hair loss ho gya hai
+desc_00383,28,28,hindi,survey_response,Q33,msi_3,msi_3,Sir ke upar safed nishaan ho gaya hai aur thode dark dhabbe bhi ho rhe.,Sir ke upar safed nishaan ho gaya hai aur thode dark dhabbe bhi ho rhe
+desc_00384,28,28,hindi,survey_response,Q34,msi_4,msi_4,Poore sir pe ek bada patch ho gaya hai. Usme baal bhi nhi ugg rhe aur thode dark spots bhi ho rhe.,Poore sir pe ek bada patch ho gaya hai. Usme baal bhi nhi ugg rhe aur thode dark spots bhi ho rhe
+desc_00385,28,28,hindi,survey_response,Q35,msi_5,msi_5,mere sar pe upar aur beech waale thode patch mai hair poora lose ho gaya. Sar pe Gokharu jaisa nishaan ho gaya aur aas paas ke area mai baal poore chale gye.,mere sar pe upar aur beech waale thode patch mai hair poora lose ho gaya. Sar pe Gokharu jaisa nishaan ho gaya aur aas paas ke area mai baal poore chale gye
+desc_00386,28,28,hindi,survey_response,Q36,msi_6,msi_6,Sar pe thode dark dhabbe jo aise line ki tarah ja rhe. Iss area mai baal bhi jhadh gye hai.,Sar pe thode dark dhabbe jo aise line ki tarah ja rhe. Iss area mai baal bhi jhadh gye hai
+desc_00387,28,28,hindi,survey_response,Q43,dry_1,dry_1,मेरी तर्जनी उंगली के एक तरफ की त्वचा काफ़ी सूखी हो गई है।,मेरी तर्जनी उंगली के एक तरफ की त्वचा काफ़ी सूखी हो गई है।
+desc_00388,28,28,hindi,survey_response,Q44,dry_2,dry_2,मेरे चेहरे पर काफ़ी सूखापन हो गया है। मेरी नाक और होंठों पर सूखी त्वचा की परत हो गई है।,मेरे चेहरे पर काफ़ी सूखापन हो गया है। मेरी नाक और होंठों पर सूखी त्वचा की परत हो गई है।
+desc_00389,28,28,hindi,survey_response,Q45,acne_1,acne_1,मेरे माथे पर बहुत सारे छोटे-छोटे दाने हो रहे हैं।पूरा सिर पिंपल्स से भर गया है।,मेरे माथे पर बहुत सारे छोटे-छोटे दाने हो रहे हैं।पूरा सिर पिंपल्स से भर गया है।
+desc_00390,28,28,hindi,survey_response,Q46,acne_2,acne_2,मेरे चेहरे के दाएँ तरफ पिंपल्स हो रहे हैं। लाल और थोड़े बड़े दाग़ हो रहे हैं।,मेरे चेहरे के दाएँ तरफ पिंपल्स हो रहे हैं। लाल और थोड़े बड़े दाग़ हो रहे हैं।
+desc_00391,28,28,hindi,survey_response,Q47,normal_1,normal_1,N/A,N/A
+desc_00392,28,28,hindi,survey_response,Q48,normal_2,normal_2,मेरे पैरों के तलवे थोड़े लाल हो रहे हैं।,मेरे पैरों के तलवे थोड़े लाल हो रहे हैं।
+desc_00393,29,29,hindi,survey_response,Q2,lupus_1,lupus_1,"मेरे चेहरे पर, खासकर आँखों के नीचे और नाक के आसपास, लाल रैशेज़ निकल आए हैं।","मेरे चेहरे पर, खासकर आँखों के नीचे और नाक के आसपास, लाल रैशेज़ निकल आए हैं।"
+desc_00394,29,29,hindi,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,मेरे हाथों और कोहनियों पर लाल रैशेज़ हो गए हैं और चकत्ते जैसे दिख रहे हैं।,मेरे हाथों और कोहनियों पर लाल रैशेज़ हो गए हैं और चकत्ते जैसे दिख रहे हैं।
+desc_00395,29,29,hindi,survey_response,Q11,sle_4,sle_4,"मेरे गाल लाल हो गए हैं और उन पर रैशेज़ हो गए हैं, और मेरे होंठ सूज गए हैं।","मेरे गाल लाल हो गए हैं और उन पर रैशेज़ हो गए हैं, और मेरे होंठ सूज गए हैं।"
+desc_00396,29,29,hindi,survey_response,Q14,eye_2,eye_2,मेरी आँखों के पास लाल-लाल रैशेज़ हो गए हैं और आँखों से पानी भी आ रहा है।,मेरी आँखों के पास लाल-लाल रैशेज़ हो गए हैं और आँखों से पानी भी आ रहा है।
+desc_00397,29,29,hindi,survey_response,Q18,iga_2,iga_2,मेरे एक पैर पर काफी सारे लाल-लाल छाले निकल आए हैं।,मेरे एक पैर पर काफी सारे लाल-लाल छाले निकल आए हैं।
+desc_00398,29,29,hindi,survey_response,Q19,iga_5,iga_5,मेरे दोनों पैरों पर भूरे रंग के छोटे-छोटे छाले हो गए हैं।,मेरे दोनों पैरों पर भूरे रंग के छोटे-छोटे छाले हो गए हैं।
+desc_00399,29,29,hindi,survey_response,Q26,iga_6,iga_6,मेरी त्वचा पर बहुत सारे लाल धब्बे हो गए हैं।,मेरी त्वचा पर बहुत सारे लाल धब्बे हो गए हैं।
+desc_00400,29,29,hindi,survey_response,Q35,msi_5,msi_5,मेरे सिर पर लगभग एक इंच चौड़ा घाव जैसा हो गया है|,मेरे सिर पर लगभग एक इंच चौड़ा घाव जैसा हो गया है|
+desc_00401,29,29,hindi,survey_response,Q36,msi_6,msi_6,"मेरे सिर के उस हिस्से से बहुत बाल झड़ गए हैं, और वहाँ की त्वचा नरम हो गई है।","मेरे सिर के उस हिस्से से बहुत बाल झड़ गए हैं, और वहाँ की त्वचा नरम हो गई है।"
+desc_00402,29,29,hindi,survey_response,Q43,dry_1,dry_1,"मेरी पहली उंगली पर सफेद-सफेद दिख रही है, जैसे त्वचा बहुत सूखी हो गई हो।","मेरी पहली उंगली पर सफेद-सफेद दिख रही है, जैसे त्वचा बहुत सूखी हो गई हो।"
+desc_00403,30,30,hindi,survey_response,Q8,sle_1,sle_1,गालो के उपरी हिस्से पर पिगमेंटेशन और ड्राई स्किन ,गालो के उपरी हिस्से पर पिगमेंटेशन और ड्राई स्किन
+desc_00404,30,30,hindi,survey_response,Q10,sle_3,sle_3,चेहरे पर लाल निशान और सूजन. होट सूजन के कारण लाल और बड़े हो गए है. ,चेहरे पर लाल निशान और सूजन. होट सूजन के कारण लाल और बड़े हो गए है
+desc_00405,30,30,hindi,survey_response,Q13,sle_6,sle_6,गालो पर फोड़े ,गालो पर फोड़े
+desc_00406,30,30,hindi,survey_response,Q15,eye_3,eye_3,मेरे आखों के अराउंड सूजन है. काफ़ी पफीनेस भी है और स्किन लाल हो गई है.,मेरे आखों के अराउंड सूजन है. काफ़ी पफीनेस भी है और स्किन लाल हो गई है
+desc_00407,30,30,hindi,survey_response,Q16,eye_4,eye_4,चेहरे में सूजन है. नाक और आँखों के आसपास की स्किन लाल हो रही है और सूजी हुई है.,चेहरे में सूजन है. नाक और आँखों के आसपास की स्किन लाल हो रही है और सूजी हुई है
+desc_00408,30,30,hindi,survey_response,Q23,jdm_6,jdm_6,उँगली के बीच कोनों पर चट्टे ,उँगली के बीच कोनों पर चट्टे
+desc_00409,30,30,hindi,survey_response,Q31,msi_1,msi_1,चेहरे की एक तरफ़ से होते बीच तक बाल झड़ते हुए,चेहरे की एक तरफ़ से होते बीच तक बाल झड़ते हुए
+desc_00410,30,30,hindi,survey_response,Q32,msi_2,msi_2,मेरे सर के स्किन पे एक पैच है जहाँ बाल भी नहीं है और एक सफेद सा मार्क है ,मेरे सर के स्किन पे एक पैच है जहाँ बाल भी नहीं है और एक सफेद सा मार्क है
+desc_00411,30,30,hindi,survey_response,Q36,msi_6,msi_6,सर के बीच में एक सीधी लाइन में बाल झड़ गए है. वहाँ की स्किन चमकदार है. ,सर के बीच में एक सीधी लाइन में बाल झड़ गए है. वहाँ की स्किन चमकदार है
+desc_00412,30,30,hindi,survey_response,Q44,dry_2,dry_2,मेरे नाक और मुँह के आसपास की स्किन काफ़ी सुखी हुई है और उसके छिलके निकल  रहे है. ,मेरे नाक और मुँह के आसपास की स्किन काफ़ी सुखी हुई है और उसके छिलके निकल रहे है
+desc_00413,31,31,hindi,survey_response,Q6,morphea_2,morphea_2,मेरे बदन पर एक बदे हिस्से पर त्वचा क रंग बदल गय है ।,मेरे बदन पर एक बदे हिस्से पर त्वचा क रंग बदल गय है ।
+desc_00414,31,31,hindi,survey_response,Q9,sle_2,sle_2,मेरे चेहरे के त्वचा का रंग बदल गया है ।,मेरे चेहरे के त्वचा का रंग बदल गया है ।
+desc_00415,31,31,hindi,survey_response,Q12,sle_5,sle_5,मेरे चैह्रेरे पर चकत्ते निकल आये है ।,मेरे चैह्रेरे पर चकत्ते निकल आये है ।
+desc_00416,31,31,hindi,survey_response,Q20,jdm_1,jdm_1,मेरे हाथ के उपर की त्वचा रूखी सी हो गयी है ।,मेरे हाथ के उपर की त्वचा रूखी सी हो गयी है ।
+desc_00417,31,31,hindi,survey_response,Q24,jdm_3,jdm_3,मेरे उंगलियों और घुटने के जोड़ों पर चकत्ते निकल आये है ।,मेरे उंगलियों और घुटने के जोड़ों पर चकत्ते निकल आये है ।
+desc_00418,31,31,hindi,survey_response,Q33,msi_3,msi_3,मेरे सर के उपर त्वचा पर बालों के बीच मै पपड़ी जैसा कुछ बन रहा है ।,मेरे सर के उपर त्वचा पर बालों के बीच मै पपड़ी जैसा कुछ बन रहा है ।
+desc_00419,31,31,hindi,survey_response,Q34,msi_4,msi_4,मेरे सर पर सफ़ेद चकत्ते निकल आयै है ।,मेरे सर पर सफ़ेद चकत्ते निकल आयै है ।
+desc_00420,31,31,hindi,survey_response,Q46,acne_2,acne_2,मेरे गालोन पर लाल दाने या घमौरियां है । मुझे खुजली हो रही है ।,मेरे गालोन पर लाल दाने या घमौरियां है । मुझे खुजली हो रही है ।
+desc_00421,31,31,hindi,survey_response,Q47,normal_1,normal_1,मेरे हाथ के उपर की त्वचा कुछ लाल सा हो रखा है ।,मेरे हाथ के उपर की त्वचा कुछ लाल सा हो रखा है ।
+desc_00422,31,31,hindi,survey_response,Q48,normal_2,normal_2,मेरे पैर के नीचे लाल दाने दिख रहै है ।,मेरे पैर के नीचे लाल दाने दिख रहै है ।
+desc_00423,32,32,mandarin,survey_response,Q2,lupus_1,lupus_1,眼睛下面和鼻子周围的脸颊泛红,眼睛下面和鼻子周围的脸颊泛红
+desc_00424,32,32,mandarin,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,额头下面还有嘴周围的皮肤发红,额头下面还有嘴周围的皮肤发红
+desc_00425,32,32,mandarin,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,嘴角和脸颊泛红，颜色不均匀,嘴角和脸颊泛红，颜色不均匀
+desc_00426,32,32,mandarin,survey_response,Q5,morphea_1,morphea_1,头发从额头到头顶秃了一片,头发从额头到头顶秃了一片
+desc_00427,32,32,mandarin,survey_response,Q6,morphea_2,morphea_2,背中间长了一大块红色的班或者癣,背中间长了一大块红色的班或者癣
+desc_00428,32,32,mandarin,survey_response,Q8,sle_1,sle_1,两边眼睛下面，鼻子旁边的皮肤有点溃烂,两边眼睛下面，鼻子旁边的皮肤有点溃烂
+desc_00429,32,32,mandarin,survey_response,Q9,sle_2,sle_2,脸颊和鼻子的皮肤上有小突起,脸颊和鼻子的皮肤上有小突起
+desc_00430,32,32,mandarin,survey_response,Q10,sle_3,sle_3,脸颊和下巴上泛红、长痘,脸颊和下巴上泛红、长痘
+desc_00431,32,32,mandarin,survey_response,Q11,sle_4,sle_4,鼻子和嘴周围脸颊泛红,鼻子和嘴周围脸颊泛红
+desc_00432,32,32,mandarin,survey_response,Q12,sle_5,sle_5,脸颊和鼻头上长水泡，伤口发红有组织液,脸颊和鼻头上长水泡，伤口发红有组织液
+desc_00433,32,32,mandarin,survey_response,Q13,sle_6,sle_6,脸颊上有一片红斑,脸颊上有一片红斑
+desc_00434,32,32,mandarin,survey_response,Q14,eye_2,eye_2,眼睛周围的皮肤发红，颜色比较深,眼睛周围的皮肤发红，颜色比较深
+desc_00435,32,32,mandarin,survey_response,Q15,eye_3,eye_3,整块上眼皮发红，颜色比较深,整块上眼皮发红，颜色比较深
+desc_00436,32,32,mandarin,survey_response,Q16,eye_4,eye_4,睫毛根部的眼皮有血斑，长红血丝,睫毛根部的眼皮有血斑，长红血丝
+desc_00437,32,32,mandarin,survey_response,Q17,eye_5,eye_5,鼻梁和两边脸颊泛紫红色,鼻梁和两边脸颊泛紫红色
+desc_00438,32,32,mandarin,survey_response,Q18,iga_2,iga_2,脚背上长了一片深红色的斑,脚背上长了一片深红色的斑
+desc_00439,32,32,mandarin,survey_response,Q19,iga_5,iga_5,皮肤上有浅棕色密集的小斑,皮肤上有浅棕色密集的小斑
+desc_00440,32,32,mandarin,survey_response,Q20,jdm_1,jdm_1,手背和手关节的皮肤一小块一小块的，有点像蜥蜴的皮,手背和手关节的皮肤一小块一小块的，有点像蜥蜴的皮
+desc_00441,32,32,mandarin,survey_response,Q21,jdm_2,jdm_2,指甲根部的皮肤发红，有倒刺和破口,指甲根部的皮肤发红，有倒刺和破口
+desc_00442,32,32,mandarin,survey_response,Q22,jdm_4,jdm_4,手关节发白,手关节发白
+desc_00443,32,32,mandarin,survey_response,Q23,jdm_6,jdm_6,手指关节皮肤有点开裂泛白,手指关节皮肤有点开裂泛白
+desc_00444,32,32,mandarin,survey_response,Q24,jdm_3,jdm_3,膝盖关节的皮肤发红,膝盖关节的皮肤发红
+desc_00445,32,32,mandarin,survey_response,Q25,jdm_5,jdm_5,手关节上起小水泡,手关节上起小水泡
+desc_00446,32,32,mandarin,survey_response,Q26,iga_6,iga_6,皮肤上长了非常多很密集的小红点,皮肤上长了非常多很密集的小红点
+desc_00447,32,32,mandarin,survey_response,Q27,iga_1,iga_1,皮肤上起了很多红斑，非常密集，一个斑大概有两粒米那么大,皮肤上起了很多红斑，非常密集，一个斑大概有两粒米那么大
+desc_00448,32,32,mandarin,survey_response,Q28,iga_3,iga_3,小腿上长了一片深红色的斑,小腿上长了一片深红色的斑
+desc_00449,32,32,mandarin,survey_response,Q29,iga_4,iga_4,皮肤上有深红色的斑,皮肤上有深红色的斑
+desc_00450,32,32,mandarin,survey_response,Q30,iga_7,iga_7,小腿到脚上有深红发紫的斑,小腿到脚上有深红发紫的斑
+desc_00451,32,32,mandarin,survey_response,Q31,msi_1,msi_1,额头后面的头发秃了一块,额头后面的头发秃了一块
+desc_00452,32,32,mandarin,survey_response,Q32,msi_2,msi_2,头皮中间有一块地方头发很少,头皮中间有一块地方头发很少
+desc_00453,32,32,mandarin,survey_response,Q33,msi_3,msi_3,头皮中间发缝特别大，那一小块是没头发的,头皮中间发缝特别大，那一小块是没头发的
+desc_00454,32,32,mandarin,survey_response,Q34,msi_4,msi_4,头上发缝非常秃，那一条的位置没有头发,头上发缝非常秃，那一条的位置没有头发
+desc_00455,32,32,mandarin,survey_response,Q35,msi_5,msi_5,头上有一块完全秃了，秃了的地方有一小块圆斑,头上有一块完全秃了，秃了的地方有一小块圆斑
+desc_00456,32,32,mandarin,survey_response,Q36,msi_6,msi_6,头上有一条头皮是秃的,头上有一条头皮是秃的
+desc_00457,32,32,mandarin,survey_response,Q43,dry_1,dry_1,手指的皮肤干燥裂口子,手指的皮肤干燥裂口子
+desc_00458,32,32,mandarin,survey_response,Q44,dry_2,dry_2,鼻子上起皮，有皮屑,鼻子上起皮，有皮屑
+desc_00459,32,32,mandarin,survey_response,Q45,acne_1,acne_1,额头上起了很多痘，痘是鼓起来的，上面有白头,额头上起了很多痘，痘是鼓起来的，上面有白头
+desc_00460,32,32,mandarin,survey_response,Q46,acne_2,acne_2,脸颊上靠近下巴的地方长了一片红色的痘,脸颊上靠近下巴的地方长了一片红色的痘
+desc_00461,32,32,mandarin,survey_response,Q47,normal_1,normal_1,手背上长了两个褐色斑点,手背上长了两个褐色斑点
+desc_00462,32,32,mandarin,survey_response,Q48,normal_2,normal_2,脚踝和脚底长了几个红点,脚踝和脚底长了几个红点
+desc_00463,33,33,mandarin,survey_response,Q5,morphea_1,morphea_1,头顶掉发很严重，发痒,头顶掉发很严重，发痒
+desc_00464,33,33,mandarin,survey_response,Q10,sle_3,sle_3,脸部起红疹子，嘴唇发肿,脸部起红疹子，嘴唇发肿
+desc_00465,33,33,mandarin,survey_response,Q16,eye_4,eye_4,眼皮发痒有点刺痛,眼皮发痒有点刺痛
+desc_00466,33,33,mandarin,survey_response,Q20,jdm_1,jdm_1,手背皮肤有炎症，非常痒,手背皮肤有炎症，非常痒
+desc_00467,33,33,mandarin,survey_response,Q21,jdm_2,jdm_2,手指甲周围发红发痒,手指甲周围发红发痒
+desc_00468,33,33,mandarin,survey_response,Q22,jdm_4,jdm_4,皮肤干燥，有些地方有点开裂,皮肤干燥，有些地方有点开裂
+desc_00469,33,33,mandarin,survey_response,Q33,msi_3,msi_3,头顶有硬块而且很痒，发痒的部位脱发严重,头顶有硬块而且很痒，发痒的部位脱发严重
+desc_00470,33,33,mandarin,survey_response,Q35,msi_5,msi_5,头顶长类似粉刺的东西,头顶长类似粉刺的东西
+desc_00471,33,33,mandarin,survey_response,Q46,acne_2,acne_2,脸部过敏溃烂,脸部过敏溃烂
+desc_00472,33,33,mandarin,survey_response,Q47,normal_1,normal_1,手关节部位发红发痒,手关节部位发红发痒
+desc_00473,34,34,mandarin,survey_response,Q8,sle_1,sle_1,苹果肌部位起皮儿泛红,苹果肌部位起皮儿泛红
+desc_00474,34,34,mandarin,survey_response,Q11,sle_4,sle_4,高原红,高原红
+desc_00475,34,34,mandarin,survey_response,Q12,sle_5,sle_5,面部一些部位出现了凹陷的伤口,面部一些部位出现了凹陷的伤口
+desc_00476,34,34,mandarin,survey_response,Q15,eye_3,eye_3,眼皮红肿,眼皮红肿
+desc_00477,34,34,mandarin,survey_response,Q17,eye_5,eye_5,高原红,高原红
+desc_00478,34,34,mandarin,survey_response,Q18,iga_2,iga_2,有很多红色小点点,有很多红色小点点
+desc_00479,34,34,mandarin,survey_response,Q19,iga_5,iga_5,起了很多深色小点点,起了很多深色小点点
+desc_00480,34,34,mandarin,survey_response,Q23,jdm_6,jdm_6,看不到皮疹啊😭,看不到皮疹啊😭
+desc_00481,34,34,mandarin,survey_response,Q31,msi_1,msi_1,脱发？,脱发？
+desc_00482,34,34,mandarin,survey_response,Q44,dry_2,dry_2,面部及其干燥 起皮儿,面部及其干燥 起皮儿
+desc_00483,35,35,mandarin,survey_response,Q2,lupus_1,lupus_1,眼下脸颊处跟打了腮红似的,眼下脸颊处跟打了腮红似的
+desc_00484,35,35,mandarin,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,脸部右侧大面积泛红，包含嘴角处、眼皮,脸部右侧大面积泛红，包含嘴角处、眼皮
+desc_00485,35,35,mandarin,survey_response,Q11,sle_4,sle_4,脸颊两侧及鼻尖存在部分潮红 唇部红肿,脸颊两侧及鼻尖存在部分潮红 唇部红肿
+desc_00486,35,35,mandarin,survey_response,Q12,sle_5,sle_5,眼下脸颊和鼻尖处有红色溃烂,眼下脸颊和鼻尖处有红色溃烂
+desc_00487,35,35,mandarin,survey_response,Q14,eye_2,eye_2,眼周发红,眼周发红
+desc_00488,35,35,mandarin,survey_response,Q21,jdm_2,jdm_2,手指尖（甲盖下方）红肿,手指尖（甲盖下方）红肿
+desc_00489,35,35,mandarin,survey_response,Q28,iga_3,iga_3,小腿部存在大量鲜红 大小不一的 红点,小腿部存在大量鲜红 大小不一的 红点
+desc_00490,35,35,mandarin,survey_response,Q43,dry_1,dry_1,食指左侧粗糙起皱 发白,食指左侧粗糙起皱 发白
+desc_00491,35,35,mandarin,survey_response,Q46,acne_2,acne_2,右脸偏下区域有少量红痘 部分表面/顶部破了,右脸偏下区域有少量红痘 部分表面/顶部破了
+desc_00492,35,35,mandarin,survey_response,Q47,normal_1,normal_1,食指和中指连接手背的关节处发红,食指和中指连接手背的关节处发红
+desc_00493,36,36,mandarin,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,整个脸明显发红，感觉是过敏了,整个脸明显发红，感觉是过敏了
+desc_00494,36,36,mandarin,survey_response,Q6,morphea_2,morphea_2,背部出现了大面积斑块，大概有两个手掌的大小，颜色是肉灰色，没有明显发红，也没有别的症状,背部出现了大面积斑块，大概有两个手掌的大小，颜色是肉灰色，没有明显发红，也没有别的症状
+desc_00495,36,36,mandarin,survey_response,Q8,sle_1,sle_1,我的脸颊两侧各起了一大片红疹子，颜色深红，每个大概有一节大拇指那么大，不知道怎么办,我的脸颊两侧各起了一大片红疹子，颜色深红，每个大概有一节大拇指那么大，不知道怎么办
+desc_00496,36,36,mandarin,survey_response,Q12,sle_5,sle_5,右侧脸颊和鼻尖有红色疹子，已经溃烂，不规则图形，每个大概有一元硬币大小,右侧脸颊和鼻尖有红色疹子，已经溃烂，不规则图形，每个大概有一元硬币大小
+desc_00497,36,36,mandarin,survey_response,Q13,sle_6,sle_6,脸上有很多红斑，覆盖了脸颊两侧，每个红斑都很小,脸上有很多红斑，覆盖了脸颊两侧，每个红斑都很小
+desc_00498,36,36,mandarin,survey_response,Q23,jdm_6,jdm_6,手指发肿，食指关节皮肤异常,手指发肿，食指关节皮肤异常
+desc_00499,36,36,mandarin,survey_response,Q25,jdm_5,jdm_5,双手皮肤发肿，已经把指头的皮都撑的没有皱纹了,双手皮肤发肿，已经把指头的皮都撑的没有皱纹了
+desc_00500,36,36,mandarin,survey_response,Q29,iga_4,iga_4,腿部大量深红色斑块，最大面积的中间有深红发紫的迹象了，密密麻麻的很吓人,腿部大量深红色斑块，最大面积的中间有深红发紫的迹象了，密密麻麻的很吓人
+desc_00501,36,36,mandarin,survey_response,Q30,iga_7,iga_7,我是黑色皮肤，小腿和脚长出了大量暗紫色的斑点,我是黑色皮肤，小腿和脚长出了大量暗紫色的斑点
+desc_00502,36,36,mandarin,survey_response,Q47,normal_1,normal_1,手指上有个红点，不知道怎么来的,手指上有个红点，不知道怎么来的
+desc_00503,37,37,mandarin,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,脸颊上有淡淡的小红点，眼睛下面一圈，嘴巴上面一圈，看起来不是很严重,脸颊上有淡淡的小红点，眼睛下面一圈，嘴巴上面一圈，看起来不是很严重
+desc_00504,37,37,mandarin,survey_response,Q12,sle_5,sle_5,鼻尖和右侧眼睛下面好像破了一样，颜色挺鲜艳，连成片的，不过面积不大，大概像大拇指印按上去那么大,鼻尖和右侧眼睛下面好像破了一样，颜色挺鲜艳，连成片的，不过面积不大，大概像大拇指印按上去那么大
+desc_00505,37,37,mandarin,survey_response,Q17,eye_5,eye_5,感觉眼睛下面的脸有点紫红，没有其他症状，没有血丝也没有起痘，就是那种冻僵了的紫一样的感觉,感觉眼睛下面的脸有点紫红，没有其他症状，没有血丝也没有起痘，就是那种冻僵了的紫一样的感觉
+desc_00506,37,37,mandarin,survey_response,Q19,iga_5,iga_5,脚背上全是红点印子，从脚腕到脚趾头都有，密密麻麻的，颜色比较暗淡,脚背上全是红点印子，从脚腕到脚趾头都有，密密麻麻的，颜色比较暗淡
+desc_00507,37,37,mandarin,survey_response,Q20,jdm_1,jdm_1,手背上起了很多密密麻麻小水泡，像鳄鱼皮，也没啥颜色，就是水泡,手背上起了很多密密麻麻小水泡，像鳄鱼皮，也没啥颜色，就是水泡
+desc_00508,37,37,mandarin,survey_response,Q24,jdm_3,jdm_3,膝盖红得很奇怪，像烟花爆竹包装皮的颜色，没有起痘也没有皮肤破损，就是单纯的深粉红，两个膝盖都是,膝盖红得很奇怪，像烟花爆竹包装皮的颜色，没有起痘也没有皮肤破损，就是单纯的深粉红，两个膝盖都是
+desc_00509,37,37,mandarin,survey_response,Q25,jdm_5,jdm_5,手指好像水肿了，最上面的指关节肿得发亮，没有明显红点血丝什么的,手指好像水肿了，最上面的指关节肿得发亮，没有明显红点血丝什么的
+desc_00510,37,37,mandarin,survey_response,Q28,iga_3,iga_3,小腿上有很大面积血点，大的小的都有，最大的快赶上硬币大小了，颜色是很深的血红色，感觉扁扁的，没有凸起，很吓人啊周围也没有炎症什么的，纯粹的红色圆点,小腿上有很大面积血点，大的小的都有，最大的快赶上硬币大小了，颜色是很深的血红色，感觉扁扁的，没有凸起，很吓人啊周围也没有炎症什么的，纯粹的红色圆点
+desc_00511,37,37,mandarin,survey_response,Q32,msi_2,msi_2,头发有一小块明显稀疏，露出来的头皮没有什么特别症状，和其他地方没有区别，但总不能莫名其妙秃了一块吧,头发有一小块明显稀疏，露出来的头皮没有什么特别症状，和其他地方没有区别，但总不能莫名其妙秃了一块吧
+desc_00512,37,37,mandarin,survey_response,Q46,acne_2,acne_2,侧脸有大片红点血丝，浅红色，分布的挺广泛，下面起痘，上面没有痘，就是很普通的痘，像粉刺被挤破之后的样子，没有流脓也没有白点,侧脸有大片红点血丝，浅红色，分布的挺广泛，下面起痘，上面没有痘，就是很普通的痘，像粉刺被挤破之后的样子，没有流脓也没有白点
+desc_00513,38,38,mandarin,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,面部除额头和鼻尖，人中，下巴的区域外大片发红,面部除额头和鼻尖，人中，下巴的区域外大片发红
+desc_00514,38,38,mandarin,survey_response,Q14,eye_2,eye_2,眼周和上鼻梁皮肤发红,眼周和上鼻梁皮肤发红
+desc_00515,38,38,mandarin,survey_response,Q16,eye_4,eye_4,鼻梁，额头有成片痘痘，鼻头发红，眼皮上有紫红色斑点，可以看到眼皮上的毛细血管,鼻梁，额头有成片痘痘，鼻头发红，眼皮上有紫红色斑点，可以看到眼皮上的毛细血管
+desc_00516,38,38,mandarin,survey_response,Q23,jdm_6,jdm_6,手指及手指关节处有成片皮癣,手指及手指关节处有成片皮癣
+desc_00517,38,38,mandarin,survey_response,Q26,iga_6,iga_6,腿部有大片红色斑点，颜色鲜艳,腿部有大片红色斑点，颜色鲜艳
+desc_00518,38,38,mandarin,survey_response,Q31,msi_1,msi_1,头顶发际线处有成片凸起,头顶发际线处有成片凸起
+desc_00519,38,38,mandarin,survey_response,Q33,msi_3,msi_3,头顶中心位置发根处有成片皮癣,头顶中心位置发根处有成片皮癣
+desc_00520,38,38,mandarin,survey_response,Q35,msi_5,msi_5,头顶靠近前侧有小包,头顶靠近前侧有小包
+desc_00521,38,38,mandarin,survey_response,Q36,msi_6,msi_6,头顶发根处有大片棕褐色痕迹,头顶发根处有大片棕褐色痕迹
+desc_00522,38,38,mandarin,survey_response,Q45,acne_1,acne_1,额头上有大量痘痘和凸起且皮肤发红,额头上有大量痘痘和凸起且皮肤发红
+desc_00523,39,39,mandarin,survey_response,Q5,morphea_1,morphea_1,头上从发际线起，直到头顶都出现了脱发症状，然后主要是一条线延申的状态，宽度大概是两指宽。在这个区域出现脱发的同时感觉也有些许起皮的现象，有点粉红但不是很明显，能看到头部的血管凸起。,头上从发际线起，直到头顶都出现了脱发症状，然后主要是一条线延申的状态，宽度大概是两指宽。在这个区域出现脱发的同时感觉也有些许起皮的现象，有点粉红但不是很明显，能看到头部的血管凸起。
+desc_00524,39,39,mandarin,survey_response,Q9,sle_2,sle_2,在鼻子和脸颊都有明显的块状凸起，就是有点像这一区域的凸起都是相连的，当然不是整个脸部皮肤凸起都是相连的，更像是“群”，这里有一块，那里有一块。他不是像痘痘一样点状分布，而是一块一块的，但是形状不规则。在鼻子两侧，鼻头，还有脸颊都有这样的。颜色比皮肤深，感觉暗红色，因为皮肤本身偏深，所以难以判断症状本身的颜色。在出现症状的区域，在块状凸起的基础之上某部分还有点泛白。,在鼻子和脸颊都有明显的块状凸起，就是有点像这一区域的凸起都是相连的，当然不是整个脸部皮肤凸起都是相连的，更像是“群”，这里有一块，那里有一块。他不是像痘痘一样点状分布，而是一块一块的，但是形状不规则。在鼻子两侧，鼻头，还有脸颊都有这样的。颜色比皮肤深，感觉暗红色，因为皮肤本身偏深，所以难以判断症状本身的颜色。在出现症状的区域，在块状凸起的基础之上某部分还有点泛白。
+desc_00525,39,39,mandarin,survey_response,Q13,sle_6,sle_6,在我的鼻子和脸颊这整块连着的区域都有粉红色痘痘，密集分布，感觉像过敏过后的样子一样，分布有点像雀斑分布，从左侧脸颊开始一直横向延申到右侧脸颊，包括鼻子的区域。,在我的鼻子和脸颊这整块连着的区域都有粉红色痘痘，密集分布，感觉像过敏过后的样子一样，分布有点像雀斑分布，从左侧脸颊开始一直横向延申到右侧脸颊，包括鼻子的区域。
+desc_00526,39,39,mandarin,survey_response,Q15,eye_3,eye_3,眼睛周围皮肤全部呈桃红色。上眼皮通红，到眉毛停止，下眼皮到眼袋的位置，颜色比上眼皮更浅一点，越靠近眼睛颜色越深。,眼睛周围皮肤全部呈桃红色。上眼皮通红，到眉毛停止，下眼皮到眼袋的位置，颜色比上眼皮更浅一点，越靠近眼睛颜色越深。
+desc_00527,39,39,mandarin,survey_response,Q18,iga_2,iga_2,从小腿（接近外脚踝的方向），通过脚踝，到脚上，包括脚的侧面，还有部分脚背的地方，都是密密麻麻的红色斑点，大小不一，在靠近脚底的位置更密集。,从小腿（接近外脚踝的方向），通过脚踝，到脚上，包括脚的侧面，还有部分脚背的地方，都是密密麻麻的红色斑点，大小不一，在靠近脚底的位置更密集。
+desc_00528,39,39,mandarin,survey_response,Q27,iga_1,iga_1,整个腿上全都是密密麻麻的红斑，有大有小，感觉分布没有规律，几乎都是鲜红色的，除了红斑，皮肤本身也变得偏粉红色了。,整个腿上全都是密密麻麻的红斑，有大有小，感觉分布没有规律，几乎都是鲜红色的，除了红斑，皮肤本身也变得偏粉红色了。
+desc_00529,39,39,mandarin,survey_response,Q29,iga_4,iga_4,皮肤表面有很多斑点，是鲜红色的。以一个暗红色的大斑点为中心，周围扩展出鲜红色斑块，再向外扩散是成群的斑点，有的是由一个鲜红色斑点为中心，周围环绕多个更小的斑点组成的斑点群，有的是无规则散落的红色斑点群。总体来说，斑点分布无规则，部分颜色分布不均匀，整体为红色，且扩散范围较大，斑点大小不一。,皮肤表面有很多斑点，是鲜红色的。以一个暗红色的大斑点为中心，周围扩展出鲜红色斑块，再向外扩散是成群的斑点，有的是由一个鲜红色斑点为中心，周围环绕多个更小的斑点组成的斑点群，有的是无规则散落的红色斑点群。总体来说，斑点分布无规则，部分颜色分布不均匀，整体为红色，且扩散范围较大，斑点大小不一。
+desc_00530,39,39,mandarin,survey_response,Q34,msi_4,msi_4,整个头中间，一整条线，方向是从前到后，一条线上出现褐色皮肤，褐色偏黄一点点。同时出现这样症状的地方，掉发严重，几乎没有头发，到头顶面积更大。,整个头中间，一整条线，方向是从前到后，一条线上出现褐色皮肤，褐色偏黄一点点。同时出现这样症状的地方，掉发严重，几乎没有头发，到头顶面积更大。
+desc_00531,39,39,mandarin,survey_response,Q43,dry_1,dry_1,在食指，皮肤表面都是白色纹路（顺着皮肤本来的纹路），不是白斑，而是像皮肤过于干燥过后出现的那种白色的纹路状。症状主要出现在食指的侧面，从食指根经过了两个指关节，但关节处几乎全覆盖（包括正面）。,在食指，皮肤表面都是白色纹路（顺着皮肤本来的纹路），不是白斑，而是像皮肤过于干燥过后出现的那种白色的纹路状。症状主要出现在食指的侧面，从食指根经过了两个指关节，但关节处几乎全覆盖（包括正面）。
+desc_00532,39,39,mandarin,survey_response,Q48,normal_2,normal_2,在腿部内侧的脚踝处，有一颗像破了的疮一样，中心呈褐色，周围很小很小部分范围内的皮肤，可以看作这个中心的扩散，是粉红色。,在腿部内侧的脚踝处，有一颗像破了的疮一样，中心呈褐色，周围很小很小部分范围内的皮肤，可以看作这个中心的扩散，是粉红色。
+desc_00533,40,40,mandarin,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,上、中面部红肿，面部及肘部有褶皱处（眼下猫咪纹、法令纹，肘关节外侧）明显更严重,上、中面部红肿，面部及肘部有褶皱处（眼下猫咪纹、法令纹，肘关节外侧）明显更严重
+desc_00534,40,40,mandarin,survey_response,Q11,sle_4,sle_4,双侧脸颊出现明显、严重的大面积泛红，从面中延申到颧骨，覆盖整个苹果肌，泛红在两侧脸颊对称分布,双侧脸颊出现明显、严重的大面积泛红，从面中延申到颧骨，覆盖整个苹果肌，泛红在两侧脸颊对称分布
+desc_00535,40,40,mandarin,survey_response,Q13,sle_6,sle_6,面颊两侧红肿，出现斑点，在颧骨位置红肿的斑点最多，蔓延到鼻梁上，连接两侧,面颊两侧红肿，出现斑点，在颧骨位置红肿的斑点最多，蔓延到鼻梁上，连接两侧
+desc_00536,40,40,mandarin,survey_response,Q14,eye_2,eye_2,眼周红肿，眼下、眼角位置出现暗沉,眼周红肿，眼下、眼角位置出现暗沉
+desc_00537,40,40,mandarin,survey_response,Q18,iga_2,iga_2,脚面及脚踝出现明显鼓起的红色点状皮疹，脚外侧最严重，向脚面&小腿处蔓延,脚面及脚踝出现明显鼓起的红色点状皮疹，脚外侧最严重，向脚面&小腿处蔓延
+desc_00538,40,40,mandarin,survey_response,Q21,jdm_2,jdm_2,手指末端第一指节红肿，多指出现同样的问题,手指末端第一指节红肿，多指出现同样的问题
+desc_00539,40,40,mandarin,survey_response,Q29,iga_4,iga_4,腿部皮肤出现明显的斑点状红肿，斑点边缘不规则呈鲜红色，恶化的地方红肿会连成一片，中心变成暗红色,腿部皮肤出现明显的斑点状红肿，斑点边缘不规则呈鲜红色，恶化的地方红肿会连成一片，中心变成暗红色
+desc_00540,40,40,mandarin,survey_response,Q30,iga_7,iga_7,小腿以下部位出现大小形状不规则的、类似出血点的暗红色斑点，总体在小腿下部分内侧暗红点最多且面积最大，向上下蔓延到小腿中部和脚背,小腿以下部位出现大小形状不规则的、类似出血点的暗红色斑点，总体在小腿下部分内侧暗红点最多且面积最大，向上下蔓延到小腿中部和脚背
+desc_00541,40,40,mandarin,survey_response,Q31,msi_1,msi_1,脱发，没有红肿及皮屑，脱发处多见油光,脱发，没有红肿及皮屑，脱发处多见油光
+desc_00542,40,40,mandarin,survey_response,Q36,msi_6,msi_6,脱发，出现不规则的长条形印记，存在印记的地方几乎没有头发,脱发，出现不规则的长条形印记，存在印记的地方几乎没有头发
+desc_00543,41,41,mandarin,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,脸上皮肤突然变成红色，尤其在脸颊两边，眼部周边严重，不能挠，越挠越痒，近期吃海鲜比较多,脸上皮肤突然变成红色，尤其在脸颊两边，眼部周边严重，不能挠，越挠越痒，近期吃海鲜比较多
+desc_00544,41,41,mandarin,survey_response,Q6,morphea_2,morphea_2,在背部突然颜色发深，不疼不痒，但是会扩大,在背部突然颜色发深，不疼不痒，但是会扩大
+desc_00545,41,41,mandarin,survey_response,Q8,sle_1,sle_1,鼻子两侧面部皮肤发干，掉皮，会发痒，有外延的趋势,鼻子两侧面部皮肤发干，掉皮，会发痒，有外延的趋势
+desc_00546,41,41,mandarin,survey_response,Q19,iga_5,iga_5,脚部到腿部长了呈不规则分布的红点，没有被蚊虫叮咬。随时间的增长红点会蔓延，发痒以及颜色发深，会痒,脚部到腿部长了呈不规则分布的红点，没有被蚊虫叮咬。随时间的增长红点会蔓延，发痒以及颜色发深，会痒
+desc_00547,41,41,mandarin,survey_response,Q20,jdm_1,jdm_1,关节处皮肤会慢慢发干，变硬，无疼感，但是发硬的区域会变大,关节处皮肤会慢慢发干，变硬，无疼感，但是发硬的区域会变大
+desc_00548,41,41,mandarin,survey_response,Q22,jdm_4,jdm_4,手上关节处皮肤发硬，掉皮，发痒，无碰撞，有热感，放冷水中会舒服，,手上关节处皮肤发硬，掉皮，发痒，无碰撞，有热感，放冷水中会舒服，
+desc_00549,41,41,mandarin,survey_response,Q26,iga_6,iga_6,腿部长了小颗粒状红疹子，会瘙痒，有疼感，总想挠，越挠越多,腿部长了小颗粒状红疹子，会瘙痒，有疼感，总想挠，越挠越多
+desc_00550,41,41,mandarin,survey_response,Q27,iga_1,iga_1,腿部有很多不规则的小米粒突起，挠后会变红变大，痒，遍布全腿,腿部有很多不规则的小米粒突起，挠后会变红变大，痒，遍布全腿
+desc_00551,41,41,mandarin,survey_response,Q33,msi_3,msi_3,呈灰白色，无疼感，但是头发会随着病变皮肤的扩大在掉落，一直在蔓延,呈灰白色，无疼感，但是头发会随着病变皮肤的扩大在掉落，一直在蔓延
+desc_00552,41,41,mandarin,survey_response,Q48,normal_2,normal_2,最开始在皮肤内部，不疼不痒后期会出来一个个红点，,最开始在皮肤内部，不疼不痒后期会出来一个个红点，
+desc_00553,42,42,mandarin,survey_response,Q12,sle_5,sle_5,面部长有红色斑块，像皮肤烫伤,面部长有红色斑块，像皮肤烫伤
+desc_00554,42,42,mandarin,survey_response,Q16,eye_4,eye_4,上眼皮充血红肿,上眼皮充血红肿
+desc_00555,42,42,mandarin,survey_response,Q18,iga_2,iga_2,红色斑点，很密集,红色斑点，很密集
+desc_00556,42,42,mandarin,survey_response,Q21,jdm_2,jdm_2,手指指甲盖根部皮肤边缘微红肿,手指指甲盖根部皮肤边缘微红肿
+desc_00557,42,42,mandarin,survey_response,Q23,jdm_6,jdm_6,手指肿胀，色泽暗紫色,手指肿胀，色泽暗紫色
+desc_00558,42,42,mandarin,survey_response,Q24,jdm_3,jdm_3,手背面关节及膝盖关节处红肿,手背面关节及膝盖关节处红肿
+desc_00559,42,42,mandarin,survey_response,Q33,msi_3,msi_3,头皮有黑灰色结痂,头皮有黑灰色结痂
+desc_00560,42,42,mandarin,survey_response,Q35,msi_5,msi_5,额头发际线中间有头发脱落，成椭圆形肉球,额头发际线中间有头发脱落，成椭圆形肉球
+desc_00561,42,42,mandarin,survey_response,Q44,dry_2,dry_2,鼻孔周围及上下嘴唇干裂爆皮,鼻孔周围及上下嘴唇干裂爆皮
+desc_00562,42,42,mandarin,survey_response,Q45,acne_1,acne_1,额头长满青春痘，根部发红，痘的头部发白,额头长满青春痘，根部发红，痘的头部发白
+desc_00563,43,43,mandarin,survey_response,Q8,sle_1,sle_1,眼袋下的皮肤发炎，像是被烫过，无水泡,眼袋下的皮肤发炎，像是被烫过，无水泡
+desc_00564,43,43,mandarin,survey_response,Q11,sle_4,sle_4,面部有大片的暗红色斑块,面部有大片的暗红色斑块
+desc_00565,43,43,mandarin,survey_response,Q17,eye_5,eye_5,脸部有暗红色斑块，无水泡，起皮现象,脸部有暗红色斑块，无水泡，起皮现象
+desc_00566,43,43,mandarin,survey_response,Q20,jdm_1,jdm_1,手背有鳞状皮癣,手背有鳞状皮癣
+desc_00567,43,43,mandarin,survey_response,Q24,jdm_3,jdm_3,膝盖部位发红，像新长出的嫩皮一样，还有出一些红色疙瘩,膝盖部位发红，像新长出的嫩皮一样，还有出一些红色疙瘩
+desc_00568,43,43,mandarin,survey_response,Q28,iga_3,iga_3,小腿皮肤长了很多暗红色的疮，没破皮，没水泡，红肿流脓现象,小腿皮肤长了很多暗红色的疮，没破皮，没水泡，红肿流脓现象
+desc_00569,43,43,mandarin,survey_response,Q36,msi_6,msi_6,脱发，脱发处有暗褐色斑块,脱发，脱发处有暗褐色斑块
+desc_00570,43,43,mandarin,survey_response,Q43,dry_1,dry_1,手指皮肤干裂，鱼鳞状斑块,手指皮肤干裂，鱼鳞状斑块
+desc_00571,43,43,mandarin,survey_response,Q46,acne_2,acne_2,脸部长了好多红色疙瘩，破皮，但不流脓，没有白点,脸部长了好多红色疙瘩，破皮，但不流脓，没有白点
+desc_00572,43,43,mandarin,survey_response,Q48,normal_2,normal_2,脚踝处有红色小疙瘩，浮现蓝色血管,脚踝处有红色小疙瘩，浮现蓝色血管
+desc_00573,44,44,mandarin,survey_response,Q2,lupus_1,lupus_1,你好医生：我双眼以下至鼻翼两侧出现了一片红色皮疹整体呈三角形的，没有凸起，且该处的皮肤很干燥。鼻子和唇周没有，但是下巴有。,你好医生：我双眼以下至鼻翼两侧出现了一片红色皮疹整体呈三角形的，没有凸起，且该处的皮肤很干燥。鼻子和唇周没有，但是下巴有。
+desc_00574,44,44,mandarin,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,您好医生：我脸上有些轻微的泛红，主要在眼睛下方和鼻翼两侧，呈不规则的片状，没有突起的小颗粒，颜色为浅红色。,您好医生：我脸上有些轻微的泛红，主要在眼睛下方和鼻翼两侧，呈不规则的片状，没有突起的小颗粒，颜色为浅红色。
+desc_00575,44,44,mandarin,survey_response,Q5,morphea_1,morphea_1,你好医生：我头部有一部分的毛发完全脱落，该部分头皮呈现灰白色，且有少部分的痘痘。,你好医生：我头部有一部分的毛发完全脱落，该部分头皮呈现灰白色，且有少部分的痘痘。
+desc_00576,44,44,mandarin,survey_response,Q9,sle_2,sle_2,您好医生：我左侧脸颊处有一小部分的皮肤不规则的突起，泛红，很痒，请问该怎么办？,您好医生：我左侧脸颊处有一小部分的皮肤不规则的突起，泛红，很痒，请问该怎么办？
+desc_00577,44,44,mandarin,survey_response,Q10,sle_3,sle_3,您好大夫：我最近脸部出现一些红疹，非常的痒，脸颊两侧尤其严重，不是那种小颗粒而是一片一片的，从眼睑以下到唇周都是，下巴也有。,您好大夫：我最近脸部出现一些红疹，非常的痒，脸颊两侧尤其严重，不是那种小颗粒而是一片一片的，从眼睑以下到唇周都是，下巴也有。
+desc_00578,44,44,mandarin,survey_response,Q19,iga_5,iga_5,您好大夫：我的脚背及小腿出现了状如小米大小的褐色皮疹，皮疹略有突出，遍布整个脚背，脚趾附近尤其严重很痒，且挠过的地方会连城一条线状，请问我改怎么办？,您好大夫：我的脚背及小腿出现了状如小米大小的褐色皮疹，皮疹略有突出，遍布整个脚背，脚趾附近尤其严重很痒，且挠过的地方会连城一条线状，请问我改怎么办？
+desc_00579,44,44,mandarin,survey_response,Q22,jdm_4,jdm_4,您好医生：我双手背部的关节处皮肤变得很干，且失去了纹理，似乎有种要蜕皮的感觉。,您好医生：我双手背部的关节处皮肤变得很干，且失去了纹理，似乎有种要蜕皮的感觉。
+desc_00580,44,44,mandarin,survey_response,Q25,jdm_5,jdm_5,您好大夫：我双手手背及关节处出现了一些红色的小疙瘩，微红仔细看好像还有个别的小水泡，请问是什么情况？,您好大夫：我双手手背及关节处出现了一些红色的小疙瘩，微红仔细看好像还有个别的小水泡，请问是什么情况？
+desc_00581,44,44,mandarin,survey_response,Q31,msi_1,msi_1,你好医生：我多年前额头及头部因受伤留下疤痕导致头皮部分无法再生毛发，近期该部分头皮处有些痒，但是并未发红皮肤看上去有一片很小很小的小疙瘩，如小米粒大小。请问我该怎么办？,你好医生：我多年前额头及头部因受伤留下疤痕导致头皮部分无法再生毛发，近期该部分头皮处有些痒，但是并未发红皮肤看上去有一片很小很小的小疙瘩，如小米粒大小。请问我该怎么办？
+desc_00582,44,44,mandarin,survey_response,Q32,msi_2,msi_2,您好医生：我的头部有一处皮肤发白，且毛发很少，摸上去有一些凸起，请问我需要去做什么检查？,您好医生：我的头部有一处皮肤发白，且毛发很少，摸上去有一些凸起，请问我需要去做什么检查？
+desc_00583,45,45,mandarin,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,脸庞除嘴巴附近，均呈现红色大面积的疹子，表面光滑，无突起,脸庞除嘴巴附近，均呈现红色大面积的疹子，表面光滑，无突起
+desc_00584,45,45,mandarin,survey_response,Q6,morphea_2,morphea_2,背部出现块状浅色的斑,背部出现块状浅色的斑
+desc_00585,45,45,mandarin,survey_response,Q14,eye_2,eye_2,眼睛周围浅红色,眼睛周围浅红色
+desc_00586,45,45,mandarin,survey_response,Q15,eye_3,eye_3,双眼周围出现红色团状的红疹,双眼周围出现红色团状的红疹
+desc_00587,45,45,mandarin,survey_response,Q26,iga_6,iga_6,腿部出现小颗粒状红疹，非常密集，颜色均为红色。,腿部出现小颗粒状红疹，非常密集，颜色均为红色。
+desc_00588,45,45,mandarin,survey_response,Q27,iga_1,iga_1,分布颗粒状红色疹子 分布均匀 疹子大小一致,分布颗粒状红色疹子 分布均匀 疹子大小一致
+desc_00589,45,45,mandarin,survey_response,Q29,iga_4,iga_4,大小不一，鲜红色，但是大的斑疹中间暗红色，分布不均匀,大小不一，鲜红色，但是大的斑疹中间暗红色，分布不均匀
+desc_00590,45,45,mandarin,survey_response,Q30,iga_7,iga_7,出现了大小不一、不均分分布的红色斑块,出现了大小不一、不均分分布的红色斑块
+desc_00591,45,45,mandarin,survey_response,Q34,msi_4,msi_4,出现了不明原因的斑秃,出现了不明原因的斑秃
+desc_00592,45,45,mandarin,survey_response,Q47,normal_1,normal_1,观察此图发现手部血管突起明显,观察此图发现手部血管突起明显
+desc_00593,46,46,mandarin,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,整个左脸都起红疹子，连起来一片,整个左脸都起红疹子，连起来一片
+desc_00594,46,46,mandarin,survey_response,Q5,morphea_1,morphea_1,头皮发白 开始脱发,头皮发白 开始脱发
+desc_00595,46,46,mandarin,survey_response,Q8,sle_1,sle_1,脸上打腮红的位置出现龟裂，颜色变深,脸上打腮红的位置出现龟裂，颜色变深
+desc_00596,46,46,mandarin,survey_response,Q9,sle_2,sle_2,有一块块密集的红点出现,有一块块密集的红点出现
+desc_00597,46,46,mandarin,survey_response,Q13,sle_6,sle_6,有一些红血丝样的斑点出现，好像过敏一样,有一些红血丝样的斑点出现，好像过敏一样
+desc_00598,46,46,mandarin,survey_response,Q24,jdm_3,jdm_3,手指和膝盖的关节处红肿,手指和膝盖的关节处红肿
+desc_00599,46,46,mandarin,survey_response,Q26,iga_6,iga_6,大面积密集的红疹，好像要出血一样，很恐怖,大面积密集的红疹，好像要出血一样，很恐怖
+desc_00600,46,46,mandarin,survey_response,Q31,msi_1,msi_1,没有明显的红肿或斑点，但脱发,没有明显的红肿或斑点，但脱发
+desc_00601,46,46,mandarin,survey_response,Q32,msi_2,msi_2,头皮长了一颗颗小疙瘩，很密集,头皮长了一颗颗小疙瘩，很密集
+desc_00602,46,46,mandarin,survey_response,Q48,normal_2,normal_2,出现小的红点,出现小的红点
+desc_00603,47,47,mandarin,survey_response,Q2,lupus_1,lupus_1,两只眼睛下面的地方发红了,两只眼睛下面的地方发红了
+desc_00604,47,47,mandarin,survey_response,Q12,sle_5,sle_5,脸颊中间和鼻子上部分发红，有点溃烂,脸颊中间和鼻子上部分发红，有点溃烂
+desc_00605,47,47,mandarin,survey_response,Q14,eye_2,eye_2,整个眼部都发红,整个眼部都发红
+desc_00606,47,47,mandarin,survey_response,Q16,eye_4,eye_4,额头、眼部、面部发紫，额头上有小疙瘩，眼睛周围长了血丝,额头、眼部、面部发紫，额头上有小疙瘩，眼睛周围长了血丝
+desc_00607,47,47,mandarin,survey_response,Q17,eye_5,eye_5,面中有一片区域发红,面中有一片区域发红
+desc_00608,47,47,mandarin,survey_response,Q23,jdm_6,jdm_6,手很干，手指关节干得裂皮了,手很干，手指关节干得裂皮了
+desc_00609,47,47,mandarin,survey_response,Q27,iga_1,iga_1,腿上长了很多很密的小红点,腿上长了很多很密的小红点
+desc_00610,47,47,mandarin,survey_response,Q34,msi_4,msi_4,发缝位置脱发，长了一些棕斑,发缝位置脱发，长了一些棕斑
+desc_00611,47,47,mandarin,survey_response,Q35,msi_5,msi_5,头顶长了一个很大的痘痘,头顶长了一个很大的痘痘
+desc_00612,47,47,mandarin,survey_response,Q45,acne_1,acne_1,额头上长了一大片粉刺,额头上长了一大片粉刺
+desc_00613,48,48,mandarin,survey_response,Q2,lupus_1,lupus_1,鼻子两侧的脸颊起了规则的两片红色皮疹，呈现片状,鼻子两侧的脸颊起了规则的两片红色皮疹，呈现片状
+desc_00614,48,48,mandarin,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,脸的整个左半边起了红色的皮疹，暗红色，较为光滑，没有斑点，并且呈条状，形状规则,脸的整个左半边起了红色的皮疹，暗红色，较为光滑，没有斑点，并且呈条状，形状规则
+desc_00615,48,48,mandarin,survey_response,Q9,sle_2,sle_2,鼻子和脸颊部位有红色的不规则斑块，并且有红色的不规则分布的痘痘,鼻子和脸颊部位有红色的不规则斑块，并且有红色的不规则分布的痘痘
+desc_00616,48,48,mandarin,survey_response,Q13,sle_6,sle_6,鼻子与脸颊部位起了红色的皮疹，并且脸颊上面有密集的红色痘痘,鼻子与脸颊部位起了红色的皮疹，并且脸颊上面有密集的红色痘痘
+desc_00617,48,48,mandarin,survey_response,Q15,eye_3,eye_3,上眼皮整个呈暗红色，并且下眼皮有浅红色的皮疹，有零星的红色痘痘,上眼皮整个呈暗红色，并且下眼皮有浅红色的皮疹，有零星的红色痘痘
+desc_00618,48,48,mandarin,survey_response,Q16,eye_4,eye_4,脸上起了暗红色的斑点，覆盖了鼻子，眼皮和额头,脸上起了暗红色的斑点，覆盖了鼻子，眼皮和额头
+desc_00619,48,48,mandarin,survey_response,Q21,jdm_2,jdm_2,手指甲缝旁边发红，十分光滑,手指甲缝旁边发红，十分光滑
+desc_00620,48,48,mandarin,survey_response,Q27,iga_1,iga_1,腿上长满了密集的红点，数量非常多，颜色深红,腿上长满了密集的红点，数量非常多，颜色深红
+desc_00621,48,48,mandarin,survey_response,Q32,msi_2,msi_2,头顶发缝处起了一小块红白色的皮疹,头顶发缝处起了一小块红白色的皮疹
+desc_00622,48,48,mandarin,survey_response,Q44,dry_2,dry_2,嘴巴和鼻子起皮，并有白色的皮屑,嘴巴和鼻子起皮，并有白色的皮屑
+desc_00623,49,49,mandarin,survey_response,Q6,morphea_2,morphea_2,后腰部位出现了好几片不规则的淡红色斑块，有的连在一起、有的分散开，皮肤表面平平的没有起皮和破口，平时会发痒，摸起来有点微微发热，长了挺久一直不见消退，想请医生帮忙看看是什么问题。,后腰部位出现了好几片不规则的淡红色斑块，有的连在一起、有的分散开，皮肤表面平平的没有起皮和破口，平时会发痒，摸起来有点微微发热，长了挺久一直不见消退，想请医生帮忙看看是什么问题。
+desc_00624,49,49,mandarin,survey_response,Q10,sle_3,sle_3,双侧脸颊出现过敏装皮疹，两颊泛红，边界不清晰，触碰不平滑，存在痘状凸起，一直有发烫、发痒的感觉，症状持续挺久了，想请医生看看是什么问题。,双侧脸颊出现过敏装皮疹，两颊泛红，边界不清晰，触碰不平滑，存在痘状凸起，一直有发烫、发痒的感觉，症状持续挺久了，想请医生看看是什么问题。
+desc_00625,49,49,mandarin,survey_response,Q11,sle_4,sle_4,两面颊均出现了红色斑状皮疹，边界清晰，皮疹部位无糜烂破损，泛红严重，有轻微灼烧感。,两面颊均出现了红色斑状皮疹，边界清晰，皮疹部位无糜烂破损，泛红严重，有轻微灼烧感。
+desc_00626,49,49,mandarin,survey_response,Q12,sle_5,sle_5,近期面部出现了多处的异常皮疹，主要分布于右侧面颊，靠近眼下以及鼻尖部位。皮疹处边界较清晰，边界糜烂破损，皮疹内部皮肤泛红、粗糙。皮疹区域与周边正常皮肤界限分明。,近期面部出现了多处的异常皮疹，主要分布于右侧面颊，靠近眼下以及鼻尖部位。皮疹处边界较清晰，边界糜烂破损，皮疹内部皮肤泛红、粗糙。皮疹区域与周边正常皮肤界限分明。
+desc_00627,49,49,mandarin,survey_response,Q14,eye_2,eye_2,眼周和眼下脸颊这块皮肤整片发红，范围比较大，摸起来有点发烫、紧绷，还有轻微发痒的感觉，看着没有明显破口和疙瘩，这种泛红一直消不下去，想请医生看看是什么原因。,眼周和眼下脸颊这块皮肤整片发红，范围比较大，摸起来有点发烫、紧绷，还有轻微发痒的感觉，看着没有明显破口和疙瘩，这种泛红一直消不下去，想请医生看看是什么原因。
+desc_00628,49,49,mandarin,survey_response,Q19,iga_5,iga_5,双脚的脚面、脚趾还有脚踝位置，都长了很多密密麻麻的红色小疹子和小红斑，有的零星分布，有的聚成小片，摸起来有点粗糙，平时会发痒，疹子长了挺久一直没消退，想请医生帮忙看看这是什么情况。,双脚的脚面、脚趾还有脚踝位置，都长了很多密密麻麻的红色小疹子和小红斑，有的零星分布，有的聚成小片，摸起来有点粗糙，平时会发痒，疹子长了挺久一直没消退，想请医生帮忙看看这是什么情况。
+desc_00629,49,49,mandarin,survey_response,Q24,jdm_3,jdm_3,双侧膝关节及双手手指可见对称性斑块样皮疹，切皮疹处出现红肿，无明显糜烂破损，皮疹处伴瘙痒及轻微压痛，恳请明确诊断并给予针对性治疗方案。,双侧膝关节及双手手指可见对称性斑块样皮疹，切皮疹处出现红肿，无明显糜烂破损，皮疹处伴瘙痒及轻微压痛，恳请明确诊断并给予针对性治疗方案。
+desc_00630,49,49,mandarin,survey_response,Q28,iga_3,iga_3,两条小腿上长满了密密麻麻的红点点和红斑块，有的红点还连在了一起，按下去也不会褪色，摸起来有点轻微疼，这些疹子一直都没消，想请医生帮忙看看这是什么情况。,两条小腿上长满了密密麻麻的红点点和红斑块，有的红点还连在了一起，按下去也不会褪色，摸起来有点轻微疼，这些疹子一直都没消，想请医生帮忙看看这是什么情况。
+desc_00631,49,49,mandarin,survey_response,Q30,iga_7,iga_7,两条小腿到脚踝的位置，长满了大片密密麻麻的紫红色斑点，有的是小红点，有的连成了大片斑块，按着也不会褪色，平时还有点胀痛、发紧，这些斑点一直都没消退，想请医生帮忙看看到底是什么问题。,两条小腿到脚踝的位置，长满了大片密密麻麻的紫红色斑点，有的是小红点，有的连成了大片斑块，按着也不会褪色，平时还有点胀痛、发紧，这些斑点一直都没消退，想请医生帮忙看看到底是什么问题。
+desc_00632,49,49,mandarin,survey_response,Q47,normal_1,normal_1,手背上靠近指关节的地方发红，局部有点肿起来，摸起来有点发热、发胀，活动手指的时候会有轻微不适感，泛红的区域一直没有消退，想请医生帮忙看看是什么问题。,手背上靠近指关节的地方发红，局部有点肿起来，摸起来有点发热、发胀，活动手指的时候会有轻微不适感，泛红的区域一直没有消退，想请医生帮忙看看是什么问题。
+desc_00633,50,50,mandarin,survey_response,Q2,lupus_1,lupus_1,眼以下的脸部，面部两侧都呈三角区域泛红,眼以下的脸部，面部两侧都呈三角区域泛红
+desc_00634,50,50,mandarin,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,双肘处有明显红色皮疹，面部多出出现红色皮疹，分别位于人们常说的眼袋下方、鼻翼两侧、以及嘴角处)。面部红疹以及肘部红疹对称分布。,双肘处有明显红色皮疹，面部多出出现红色皮疹，分别位于人们常说的眼袋下方、鼻翼两侧、以及嘴角处。面部红疹以及肘部红疹对称分布。
+desc_00635,50,50,mandarin,survey_response,Q11,sle_4,sle_4,唇周长了一些像水泡一样的东西，嘴唇上也长了一些像水泡一样的东西，嘴唇颜色比较红。脸颊泛红，红色皮疹，红色与正常面部的分划明显，鼻头上也长了红色的小疙瘩,唇周长了一些像水泡一样的东西，嘴唇上也长了一些像水泡一样的东西，嘴唇颜色比较红。脸颊泛红，红色皮疹，红色与正常面部的分划明显，鼻头上也长了红色的小疙瘩
+desc_00636,50,50,mandarin,survey_response,Q17,eye_5,eye_5,面中部(脸颊、鼻梁中部)泛偏紫的红色，且有些许紫红色斑。眼皮处与面部泛相同的紫红色。,面中部脸颊、鼻梁中部泛偏紫的红色，且有些许紫红色斑。眼皮处与面部泛相同的紫红色。
+desc_00637,50,50,mandarin,survey_response,Q22,jdm_4,jdm_4,手关节处皮肤比其他部分白，手关节部分的那一点皮肤像被水泡肿了一样,手关节处皮肤比其他部分白，手关节部分的那一点皮肤像被水泡肿了一样
+desc_00638,50,50,mandarin,survey_response,Q24,jdm_3,jdm_3,膝关节处泛红，出现红色皮疹或红斑。,膝关节处泛红，出现红色皮疹或红斑。
+desc_00639,50,50,mandarin,survey_response,Q31,msi_1,msi_1,头秃，且头秃的地方颜色变深、变亮、发硬，头秃的部位面积有大有小，不均匀分布,头秃，且头秃的地方颜色变深、变亮、发硬，头秃的部位面积有大有小，不均匀分布
+desc_00640,50,50,mandarin,survey_response,Q33,msi_3,msi_3,头顶中间的地方秃了，看着像有疤一样,头顶中间的地方秃了，看着像有疤一样
+desc_00641,50,50,mandarin,survey_response,Q34,msi_4,msi_4,头皮部有很大一部分面积没有长头发，不长头发可能有发硬、颜色变深的样子，部分头皮长了褐色斑块,头皮部有很大一部分面积没有长头发，不长头发可能有发硬、颜色变深的样子，部分头皮长了褐色斑块
+desc_00642,50,50,mandarin,survey_response,Q44,dry_2,dry_2,鼻头上有一些皮肤碎屑，可能是因为缺水导致的起皮。嘴唇颜色发乌青，自唇缘向唇中乌青色减轻。另外嘴唇发紧，也有干燥起皮症状。,鼻头上有一些皮肤碎屑，可能是因为缺水导致的起皮。嘴唇颜色发乌青，自唇缘向唇中乌青色减轻。另外嘴唇发紧，也有干燥起皮症状。
+desc_00643,51,51,mandarin,survey_response,Q5,morphea_1,morphea_1,这个部位头发稀缺 有些泛红症状 头皮上面有些白色皮屑并且分布不规则 皮屑呈现块状,这个部位头发稀缺 有些泛红症状 头皮上面有些白色皮屑并且分布不规则 皮屑呈现块状
+desc_00644,51,51,mandarin,survey_response,Q18,iga_2,iga_2,脚部到脚踝处都分布着大量红色斑块 密集分布 斑块大小不一 似乎脚步板块还带有些小水泡,脚部到脚踝处都分布着大量红色斑块 密集分布 斑块大小不一 似乎脚步板块还带有些小水泡
+desc_00645,51,51,mandarin,survey_response,Q20,jdm_1,jdm_1,手背颜色暗淡 指关节处颜色相较其他地方颜色更深 并且伴有发白现象 看起来像缺水一样干燥,手背颜色暗淡 指关节处颜色相较其他地方颜色更深 并且伴有发白现象 看起来像缺水一样干燥
+desc_00646,51,51,mandarin,survey_response,Q23,jdm_6,jdm_6,手部干燥 食指关节干燥明显 不同于其他关节 有点轻微肿胀,手部干燥 食指关节干燥明显 不同于其他关节 有点轻微肿胀
+desc_00647,51,51,mandarin,survey_response,Q25,jdm_5,jdm_5,手部泛红延伸到手腕处 手指关节处泛红明显 有点小水泡冒出,手部泛红延伸到手腕处 手指关节处泛红明显 有点小水泡冒出
+desc_00648,51,51,mandarin,survey_response,Q29,iga_4,iga_4,腿部有大量斑块 呈鲜红色 大小不一 分布不均匀 有个大斑块中间有深红色斑块,腿部有大量斑块 呈鲜红色 大小不一 分布不均匀 有个大斑块中间有深红色斑块
+desc_00649,51,51,mandarin,survey_response,Q33,msi_3,msi_3,此部位头发没有头发 头皮没有泛红 但是头皮中间有一大块褐色,此部位头发没有头发 头皮没有泛红 但是头皮中间有一大块褐色
+desc_00650,51,51,mandarin,survey_response,Q36,msi_6,msi_6,这块地方不长头发 不长头发的头皮线性分布 此处头皮明显泛红 中间区域呈红褐色 没有皮屑,这块地方不长头发 不长头发的头皮线性分布 此处头皮明显泛红 中间区域呈红褐色 没有皮屑
+desc_00651,51,51,mandarin,survey_response,Q43,dry_1,dry_1,食指干裂起皮 ,食指干裂起皮
+desc_00652,51,51,mandarin,survey_response,Q48,normal_2,normal_2,脚掌至脚踝以上都分布着斑点 斑点密集 脚后跟斑点出现较多 ,脚掌至脚踝以上都分布着斑点 斑点密集 脚后跟斑点出现较多
+desc_00653,52,52,mandarin,survey_response,Q5,morphea_1,morphea_1,头皮部位从山羊角处延伸至头皮中部，毛囊消失、掉发，头皮颜色不均匀，疑似长有小块状红斑或者白斑，有皮屑生成。,头皮部位从山羊角处延伸至头皮中部，毛囊消失、掉发，头皮颜色不均匀，疑似长有小块状红斑或者白斑，有皮屑生成。
+desc_00654,52,52,mandarin,survey_response,Q8,sle_1,sle_1,面部两颊邻近颧骨的两侧对称区域，有大块红斑，红斑部位皮肤红肿，质地增厚，边缘清晰，并且在红斑上方还起了多层更红更厚的疹子。,面部两颊邻近颧骨的两侧对称区域，有大块红斑，红斑部位皮肤红肿，质地增厚，边缘清晰，并且在红斑上方还起了多层更红更厚的疹子。
+desc_00655,52,52,mandarin,survey_response,Q10,sle_3,sle_3,患者面部两侧整脸有大面积红斑，鼻梁、颧骨、下巴位置红斑变为点状，红斑浮肿且多为连续状，部分部位伴有红色疹子。,患者面部两侧整脸有大面积红斑，鼻梁、颧骨、下巴位置红斑变为点状，红斑浮肿且多为连续状，部分部位伴有红色疹子。
+desc_00656,52,52,mandarin,survey_response,Q14,eye_2,eye_2,从眼部向外扩散，有大面积红斑，皮肤颜色变红明显，整眼的边缘处有红色版点，皮肤质地看似没有改变。,从眼部向外扩散，有大面积红斑，皮肤颜色变红明显，整眼的边缘处有红色版点，皮肤质地看似没有改变。
+desc_00657,52,52,mandarin,survey_response,Q17,eye_5,eye_5,面部两侧脸颊处、鼻梁、眼皮上部都有明显的红紫色，皮疹处皮肤增厚，鼻梁处最为明显，且皮疹呈连续分布。,面部两侧脸颊处、鼻梁、眼皮上部都有明显的红紫色，皮疹处皮肤增厚，鼻梁处最为明显，且皮疹呈连续分布。
+desc_00658,52,52,mandarin,survey_response,Q19,iga_5,iga_5,患者小腿下侧及双足皮肤大面积异常，长有很多很密集的圆形、针状的红斑，在靠近脚趾处更加密集，并且长有分散的红色疹子。疹子部分皮肤质地改变，看起来更薄，颜色更红。,患者小腿下侧及双足皮肤大面积异常，长有很多很密集的圆形、针状的红斑，在靠近脚趾处更加密集，并且长有分散的红色疹子。疹子部分皮肤质地改变，看起来更薄，颜色更红。
+desc_00659,52,52,mandarin,survey_response,Q20,jdm_1,jdm_1,手部整体手背、手指关节处长有皮疹，手背的关节处最为明显，皮肤沿着肌理呈小块状浮肿，增厚，整体外观呈鳞状且大面积泛红。,手部整体手背、手指关节处长有皮疹，手背的关节处最为明显，皮肤沿着肌理呈小块状浮肿，增厚，整体外观呈鳞状且大面积泛红。
+desc_00660,52,52,mandarin,survey_response,Q36,msi_6,msi_6,头皮整体泛红，有暗红色斑点，毛囊脱落、掉发，异常处皮肤质地光滑，边上的头发有头皮屑。,头皮整体泛红，有暗红色斑点，毛囊脱落、掉发，异常处皮肤质地光滑，边上的头发有头皮屑。
+desc_00661,52,52,mandarin,survey_response,Q43,dry_1,dry_1,手部手指整体呈红色，食指外侧皮肤异常干燥，皮肤纹路十分明显且干燥皲裂，并且有些裂皮掉屑，看起来皮肤的质地有所增厚。,手部手指整体呈红色，食指外侧皮肤异常干燥，皮肤纹路十分明显且干燥皲裂，并且有些裂皮掉屑，看起来皮肤的质地有所增厚。
+desc_00662,52,52,mandarin,survey_response,Q45,acne_1,acne_1,额头部位整体大面积泛红浮肿，长有较为密集的红色疹子，并且在红疹子上散布白色米粒大小的脓包，脓包多分布在额头两侧边缘。部分皮肤损伤处存在少量液体流出。,额头部位整体大面积泛红浮肿，长有较为密集的红色疹子，并且在红疹子上散布白色米粒大小的脓包，脓包多分布在额头两侧边缘。部分皮肤损伤处存在少量液体流出。
+desc_00663,53,53,mandarin,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,我脸上眼睛下方，鼻翼两侧法令纹位置有些轻微泛红，不是特别红，看着有些红肿，但没有起小疙瘩。,我脸上眼睛下方，鼻翼两侧法令纹位置有些轻微泛红，不是特别红，看着有些红肿，但没有起小疙瘩。
+desc_00664,53,53,mandarin,survey_response,Q8,sle_1,sle_1,我的面部位于眼下鼻子两侧法令纹处出现了两片小片面积的泛红区域，有些红肿，表面还有点泛白，微微凸起，不是平面的。有点类似于烫伤。,我的面部位于眼下鼻子两侧法令纹处出现了两片小片面积的泛红区域，有些红肿，表面还有点泛白，微微凸起，不是平面的。有点类似于烫伤。
+desc_00665,53,53,mandarin,survey_response,Q22,jdm_4,jdm_4,我两只手关节处肿起了一些白色疙瘩，几个白色小块组成一片大的面积，手指两三个关节上都有。,我两只手关节处肿起了一些白色疙瘩，几个白色小块组成一片大的面积，手指两三个关节上都有。
+desc_00666,53,53,mandarin,survey_response,Q26,iga_6,iga_6,我的腿部出现了大面积的红疹，具体是密密麻麻的红色点点，一大片，颜色比较深,我的腿部出现了大面积的红疹，具体是密密麻麻的红色点点，一大片，颜色比较深
+desc_00667,53,53,mandarin,survey_response,Q31,msi_1,msi_1,我头发有一块地方秃了，不长头发，形状成长条状，靠近额头的地方面积比较大，后方更细长一点。,我头发有一块地方秃了，不长头发，形状成长条状，靠近额头的地方面积比较大，后方更细长一点。
+desc_00668,53,53,mandarin,survey_response,Q34,msi_4,msi_4,我头皮上感觉像结痂了一样，有一片黄色的痕迹，这部分没有长头发，在头上正中心一条竖长的形状。,我头皮上感觉像结痂了一样，有一片黄色的痕迹，这部分没有长头发，在头上正中心一条竖长的形状。
+desc_00669,53,53,mandarin,survey_response,Q35,msi_5,msi_5,我头上面长了一个小痘痘，金黄色的，感觉里面有脓水，体积比较小。,我头上面长了一个小痘痘，金黄色的，感觉里面有脓水，体积比较小。
+desc_00670,53,53,mandarin,survey_response,Q36,msi_6,msi_6,我的头发中间位置有一条缝隙不长头发了，出现了一条秃头的缝隙，空隙大约两指宽，漏出的头皮面积有些褐色印记，感觉像轻微结痂。,我的头发中间位置有一条缝隙不长头发了，出现了一条秃头的缝隙，空隙大约两指宽，漏出的头皮面积有些褐色印记，感觉像轻微结痂。
+desc_00671,53,53,mandarin,survey_response,Q45,acne_1,acne_1,我额头起了一片的红色疙瘩，有些冒了白头，有些只是红肿，一直连到眉心都有,我额头起了一片的红色疙瘩，有些冒了白头，有些只是红肿，一直连到眉心都有
+desc_00672,53,53,mandarin,survey_response,Q46,acne_2,acne_2,我脸颊上起了一些红色疱疹，有的地方比较严重，面积较大，还有破皮的迹象，有些地方整体泛红。,我脸颊上起了一些红色疱疹，有的地方比较严重，面积较大，还有破皮的迹象，有些地方整体泛红。
+desc_00673,54,54,mandarin,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,脸上起大面积红印，从眼皮往下致脸部颈部，部分红肿,脸上起大面积红印，从眼皮往下致脸部颈部，部分红肿
+desc_00674,54,54,mandarin,survey_response,Q12,sle_5,sle_5,脸中间起红斑和水泡状，呈大面积块状，鼻子中间也是,脸中间起红斑和水泡状，呈大面积块状，鼻子中间也是
+desc_00675,54,54,mandarin,survey_response,Q16,eye_4,eye_4,额头上有些红色的小痘，眼皮上有红血丝，鼻梁部分有轻微的鼓起不知道是什么情况,额头上有些红色的小痘，眼皮上有红血丝，鼻梁部分有轻微的鼓起不知道是什么情况
+desc_00676,54,54,mandarin,survey_response,Q18,iga_2,iga_2,脚部呈现大面积红疹，脚腕小腿腕关节处都分布有,脚部呈现大面积红疹，脚腕小腿腕关节处都分布有
+desc_00677,54,54,mandarin,survey_response,Q23,jdm_6,jdm_6,手指泛红，手指指关节肿胀凸起,手指泛红，手指指关节肿胀凸起
+desc_00678,54,54,mandarin,survey_response,Q27,iga_1,iga_1,腿部起大面积红疹，分布分散，涵盖整个腿部,腿部起大面积红疹，分布分散，涵盖整个腿部
+desc_00679,54,54,mandarin,survey_response,Q28,iga_3,iga_3,双腿红斑大面积分布，呈现点状片状，分布密集，有大面积的有小点状的,双腿红斑大面积分布，呈现点状片状，分布密集，有大面积的有小点状的
+desc_00680,54,54,mandarin,survey_response,Q29,iga_4,iga_4,腿部分布大块状红斑，小部分疑似凸起红肿痘,腿部分布大块状红斑，小部分疑似凸起红肿痘
+desc_00681,54,54,mandarin,survey_response,Q32,msi_2,msi_2,毛发较油，部分短小毛囊，中间发缝突出，裸露的头皮面积较大,毛发较油，部分短小毛囊，中间发缝突出，裸露的头皮面积较大
+desc_00682,54,54,mandarin,survey_response,Q47,normal_1,normal_1,手指关节手背处有轻微红斑,手指关节手背处有轻微红斑
+desc_00683,55,55,mandarin,survey_response,Q9,sle_2,sle_2,医生您好，我最近鼻子旁边的皮肤发红且颜色不均匀，皮肤发亮但没有破掉或者脱皮，脸颊的地方也很不平整且发红，看着很明显，请问我这是怎么了？,医生您好，我最近鼻子旁边的皮肤发红且颜色不均匀，皮肤发亮但没有破掉或者脱皮，脸颊的地方也很不平整且发红，看着很明显，请问我这是怎么了？
+desc_00684,55,55,mandarin,survey_response,Q13,sle_6,sle_6,医生您好，我的面部出现了一些红斑，颜色不均匀，但没有明显的破损或水泡，请问是怎么了？,医生您好，我的面部出现了一些红斑，颜色不均匀，但没有明显的破损或水泡，请问是怎么了？
+desc_00685,55,55,mandarin,survey_response,Q15,eye_3,eye_3,"医生您好，我眉毛下面的皮肤明显发红，颜色是鲜艳的红色,与周围皮肤区别很明显，我这是怎么了？","医生您好，我眉毛下面的皮肤明显发红，颜色是鲜艳的红色,与周围皮肤区别很明显，我这是怎么了？"
+desc_00686,55,55,mandarin,survey_response,Q21,jdm_2,jdm_2,医生您好，我手上的皮肤看起来有点泛红，表面似乎有些不平整，请问是怎么了？,医生您好，我手上的皮肤看起来有点泛红，表面似乎有些不平整，请问是怎么了？
+desc_00687,55,55,mandarin,survey_response,Q25,jdm_5,jdm_5,医生您好，我的手部有些地方发红，看起来不太正常，请问是怎么了？,医生您好，我的手部有些地方发红，看起来不太正常，请问是怎么了？
+desc_00688,55,55,mandarin,survey_response,Q26,iga_6,iga_6,医生您好，我的腿部出现了密集的红斑，表面微微凸起，看起来有些吓人，请问这是什么情况？,医生您好，我的腿部出现了密集的红斑，表面微微凸起，看起来有些吓人，请问这是什么情况？
+desc_00689,55,55,mandarin,survey_response,Q30,iga_7,iga_7,医生您好，我腿上的皮肤有些发红，看起来也有点粗糙，请问是怎么了？,医生您好，我腿上的皮肤有些发红，看起来也有点粗糙，请问是怎么了？
+desc_00690,55,55,mandarin,survey_response,Q35,msi_5,msi_5,医生您好，我的头部头屑有些多，感觉很油腻，头皮也出现了白色死皮，怎么办？,医生您好，我的头部头屑有些多，感觉很油腻，头皮也出现了白色死皮，怎么办？
+desc_00691,55,55,mandarin,survey_response,Q46,acne_2,acne_2,医生您好，我的脸上长了很多红色的痘痘，有些还破了，周围的皮肤也红红的，看着很粗糙，请问是怎么回事？,医生您好，我的脸上长了很多红色的痘痘，有些还破了，周围的皮肤也红红的，看着很粗糙，请问是怎么回事？
+desc_00692,55,55,mandarin,survey_response,Q48,normal_2,normal_2,医生您好，我的脚踝和脚底各有一个红色的点，周围皮肤也有点泛红，请问这是怎么了？,医生您好，我的脚踝和脚底各有一个红色的点，周围皮肤也有点泛红，请问这是怎么了？
+desc_00693,56,56,mandarin,survey_response,Q2,lupus_1,lupus_1,我的脸颊有一块特别红,我的脸颊有一块特别红
+desc_00694,56,56,mandarin,survey_response,Q3,dermatomyositis_1,dermatomyositis_1,我的右脸，包括眼皮上方，脸边缘都特别红,我的右脸，包括眼皮上方，脸边缘都特别红
+desc_00695,56,56,mandarin,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,我的眼睛下方，鼻翼两侧，嘴角两侧都长了对称分布的红斑，颜色呈鲜红色,我的眼睛下方，鼻翼两侧，嘴角两侧都长了对称分布的红斑，颜色呈鲜红色
+desc_00696,56,56,mandarin,survey_response,Q5,morphea_1,morphea_1,我的头顶有一处脱发很严重，露出了头皮，头皮上有很多白白的东西,我的头顶有一处脱发很严重，露出了头皮，头皮上有很多白白的东西
+desc_00697,56,56,mandarin,survey_response,Q6,morphea_2,morphea_2,我的背部长了一块不规则红斑，颜色呈淡红色,我的背部长了一块不规则红斑，颜色呈淡红色
+desc_00698,56,56,mandarin,survey_response,Q13,sle_6,sle_6,我的脸上长了很多小红点，像痘痘一样，但是没有凸起,我的脸上长了很多小红点，像痘痘一样，但是没有凸起
+desc_00699,56,56,mandarin,survey_response,Q17,eye_5,eye_5,我的眼皮，山根位置下方以及面中部呈紫红色，表面光滑，形状类似于蝴蝶,我的眼皮，山根位置下方以及面中部呈紫红色，表面光滑，形状类似于蝴蝶
+desc_00700,56,56,mandarin,survey_response,Q18,iga_2,iga_2,我的脚上长了很多紫红色的斑点，大小不一，一直蔓延到了小腿下面一小部分,我的脚上长了很多紫红色的斑点，大小不一，一直蔓延到了小腿下面一小部分
+desc_00701,56,56,mandarin,survey_response,Q19,iga_5,iga_5,我的脚部以及连着小腿部位长了很多小红点,我的脚部以及连着小腿部位长了很多小红点
+desc_00702,56,56,mandarin,survey_response,Q35,msi_5,msi_5,我的头顶和发际线连接位置的中间，大概一个小长方形的大小，这一块没有头发露出了头皮,我的头顶和发际线连接位置的中间，大概一个小长方形的大小，这一块没有头发露出了头皮
+desc_00703,57,57,mandarin,survey_response,Q4,dermatomyositis_2,dermatomyositis_2,眼袋周围以及鼻翼两侧皮肤微微泛红,眼袋周围以及鼻翼两侧皮肤微微泛红
+desc_00704,57,57,mandarin,survey_response,Q6,morphea_2,morphea_2,背部有淡红色红斑，分布不均匀，且形状不规则,背部有淡红色红斑，分布不均匀，且形状不规则
+desc_00705,57,57,mandarin,survey_response,Q11,sle_4,sle_4,主要集中在两边脸颊皮肤，皮肤整体情况看起来泛红，鼻子两边也有这种情况但不如脸颊两侧的严重,主要集中在两边脸颊皮肤，皮肤整体情况看起来泛红，鼻子两边也有这种情况但不如脸颊两侧的严重
+desc_00706,57,57,mandarin,survey_response,Q15,eye_3,eye_3,眼睛周围的皮肤出现了明显的泛红，表现为深红色，眼睛上面即眼皮的情况尤为严重，眼睛下面的皮疹已经蔓延至了脸颊部分的皮肤,眼睛周围的皮肤出现了明显的泛红，表现为深红色，眼睛上面即眼皮的情况尤为严重，眼睛下面的皮疹已经蔓延至了脸颊部分的皮肤
+desc_00707,57,57,mandarin,survey_response,Q20,jdm_1,jdm_1,整个手背都有皮疹，手指关节部分也有，皮肤增厚，变得有点粗糙,整个手背都有皮疹，手指关节部分也有，皮肤增厚，变得有点粗糙
+desc_00708,57,57,mandarin,survey_response,Q21,jdm_2,jdm_2,指甲根部有红肿的情况且微微泛红，指甲本身并没有什么异样，主要在指甲根部的皮肤有肿胀及泛红的情况,指甲根部有红肿的情况且微微泛红，指甲本身并没有什么异样，主要在指甲根部的皮肤有肿胀及泛红的情况
+desc_00709,57,57,mandarin,survey_response,Q30,iga_7,iga_7,整个小腿部分有暗红色红斑，大多是小圆点分布，部分为一大片红斑，蔓延至脚上,整个小腿部分有暗红色红斑，大多是小圆点分布，部分为一大片红斑，蔓延至脚上
+desc_00710,57,57,mandarin,survey_response,Q44,dry_2,dry_2,鼻孔周围和鼻翼有明显的起屑情况，嘴唇周围也有这种情况1,鼻孔周围和鼻翼有明显的起屑情况，嘴唇周围也有这种情况1
+desc_00711,57,57,mandarin,survey_response,Q46,acne_2,acne_2,面部泛红，还有痘痘长出,面部泛红，还有痘痘长出
+desc_00712,57,57,mandarin,survey_response,Q47,normal_1,normal_1,皮疹的情况主要集中在手背靠近指关节的区域，有淡红色的斑片,皮疹的情况主要集中在手背靠近指关节的区域，有淡红色的斑片

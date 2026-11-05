@@ -1,0 +1,41 @@
+﻿question_flag,english,mandarin,hindi,spanish
+lupus_1,face,脸,चेहरा,rostro
+dermatomyositis_1,face/elbow,脸/弯头,चेहरा/,rostro/codo
+dermatomyositis_2,face,脸,चेहरा,rostro
+morphea_1,scalp,头皮,खोपड़ी,cuero cabelludo
+morphea_2,back,后退,पीठ,espalda
+SLE_1,face,脸,चेहरा,rostro
+SLE_2,face,脸,चेहरा,rostro
+SLE_3,face,脸,चेहरा,rostro
+SLE_4,face,脸,चेहरा,rostro
+SLE_5,face,脸,चेहरा,rostro
+SLE_6,face,脸,चेहरा,rostro
+IgA_1,leg,腿,टांग,pierna
+IgA_2,foot,脚,पैर,pie
+IgA_3,leg,腿,टांग,pierna
+IgA_4,leg,腿,टांग,pierna
+IgA_5,foot,脚,पैर,pie
+IgA_6,leg,腿,टांग,pierna
+IgA_7,leg,腿,टांग,pierna
+JDM_1,hand,手,हाथ,mano
+JDM_2,hand,手,हाथ,mano
+JDM_3,hand,手,हाथ,mano
+JDM_4,hand,手,हाथ,mano
+JDM_5,hand,手,हाथ,mano
+JDM_6,hand,手,हाथ,mano
+MSI_1,scalp,头皮,खोपड़ी,cuero cabelludo
+MSI_2,scalp,头皮,खोपड़ी,cuero cabelludo
+MSI_3,scalp,头皮,खोपड़ी,cuero cabelludo
+MSI_4,scalp,头皮,खोपड़ी,cuero cabelludo
+MSI_5,scalp,头皮,खोपड़ी,cuero cabelludo
+MSI_6,scalp,头皮,खोपड़ी,cuero cabelludo
+EYE_2,face,脸,चेहरा,rostro
+EYE_3,face,脸,चेहरा,rostro
+EYE_4,face,脸,चेहरा,rostro
+EYE_5,face,脸,चेहरा,rostro
+dry_1,hand,手,हाथ,mano
+dry_2,face,脸,चेहरा,rostro
+acne_1,face,脸,चेहरा,rostro
+acne_2,face,脸,चेहरा,rostro
+normal_1,hand,手,हाथ,mano
+normal_2,foot,脚,पैर,pie

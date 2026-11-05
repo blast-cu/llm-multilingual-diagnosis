@@ -1,0 +1,2 @@
+# Historical version was not recorded. Only required for live Llama requests.
+botocore>=1.34

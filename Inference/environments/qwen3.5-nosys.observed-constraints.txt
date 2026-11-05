@@ -1,0 +1,13 @@
+# Observed package versions from the supplied executed notebook.
+# Partial evidence only: not a complete lock or a validated installation recipe.
+cuda-bindings==12.9.6
+cuda-python==12.9.6
+flashinfer-cubin==0.6.11.post2
+flashinfer-python==0.6.11.post2
+numpy==2.3.5
+nvidia-cuda-runtime-cu12==12.9.79
+torch==2.11.0+cu129
+torchaudio==2.11.0+cu129
+torchvision==0.26.0+cu129
+transformers==5.9.0
+vllm==0.21.1rc1.dev278+gd4004455d.cu129

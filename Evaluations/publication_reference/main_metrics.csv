@@ -1,0 +1,49 @@
+evaluation_set,model,system_prompt,language,prompt_group,row_count,positive_count,negative_count,true_positive,false_positive,false_negative,true_negative,accuracy,precision,recall,f1
+main,Llama 3.3 70B,sys,english,lay_seed,1300,1105,195,248,59,857,136,0.295385,0.807818,0.224434,0.351275
+main,Llama 3.3 70B,sys,spanish,lay_seed,2145,1794,351,178,61,1616,290,0.218182,0.744770,0.099220,0.175111
+main,Llama 3.3 70B,sys,mandarin,lay_seed,3770,3237,533,452,38,2785,495,0.251194,0.922449,0.139635,0.242554
+main,Llama 3.3 70B,sys,hindi,lay_seed,910,767,143,18,20,749,123,0.154945,0.473684,0.023468,0.044720
+main,Llama 3.3 70B,sys,clinical,lay_seed,1144,1001,143,674,45,327,98,0.674825,0.937413,0.673327,0.783721
+main,Llama 3.3 70B,sys,clinical,clinical_seed,88,77,11,56,0,21,11,0.761364,1.000000,0.727273,0.842105
+main,Llama 3.3 70B,nosys,english,lay_seed,1300,1105,195,170,51,935,144,0.241538,0.769231,0.153846,0.256410
+main,Llama 3.3 70B,nosys,spanish,lay_seed,2145,1794,351,147,64,1647,287,0.202331,0.696682,0.081940,0.146633
+main,Llama 3.3 70B,nosys,mandarin,lay_seed,3770,3237,533,388,42,2849,491,0.233156,0.902326,0.119864,0.211617
+main,Llama 3.3 70B,nosys,hindi,lay_seed,910,767,143,4,27,763,116,0.131868,0.129032,0.005215,0.010025
+main,Llama 3.3 70B,nosys,clinical,lay_seed,1144,1001,143,635,46,366,97,0.639860,0.932452,0.634366,0.755054
+main,Llama 3.3 70B,nosys,clinical,clinical_seed,88,77,11,55,0,22,11,0.750000,1.000000,0.714286,0.833333
+main,Gemini 3.1 Flash Lite,sys,english,lay_seed,643,578,65,75,0,503,65,0.217729,1.000000,0.129758,0.229709
+main,Gemini 3.1 Flash Lite,sys,spanish,lay_seed,644,553,91,81,0,472,91,0.267081,1.000000,0.146474,0.255521
+main,Gemini 3.1 Flash Lite,sys,mandarin,lay_seed,643,604,39,80,0,524,39,0.185070,1.000000,0.132450,0.233918
+main,Gemini 3.1 Flash Lite,sys,hindi,lay_seed,643,541,102,77,0,464,102,0.278383,1.000000,0.142329,0.249191
+main,Gemini 3.1 Flash Lite,sys,clinical,lay_seed,647,569,78,93,0,476,78,0.264297,1.000000,0.163445,0.280967
+main,Gemini 3.1 Flash Lite,sys,clinical,clinical_seed,48,42,6,8,0,34,6,0.291667,1.000000,0.190476,0.320000
+main,Gemini 3.1 Flash Lite,nosys,english,lay_seed,586,531,55,63,1,468,54,0.199659,0.984375,0.118644,0.211765
+main,Gemini 3.1 Flash Lite,nosys,spanish,lay_seed,592,507,85,77,0,430,85,0.273649,1.000000,0.151874,0.263699
+main,Gemini 3.1 Flash Lite,nosys,mandarin,lay_seed,587,552,35,66,0,486,35,0.172061,1.000000,0.119565,0.213592
+main,Gemini 3.1 Flash Lite,nosys,hindi,lay_seed,596,501,95,46,2,455,93,0.233221,0.958333,0.091816,0.167577
+main,Gemini 3.1 Flash Lite,nosys,clinical,lay_seed,597,526,71,61,0,465,71,0.221106,1.000000,0.115970,0.207836
+main,Gemini 3.1 Flash Lite,nosys,clinical,clinical_seed,46,40,6,3,0,37,6,0.195652,1.000000,0.075000,0.139535
+main,Gemini 3.5 Flash,sys,english,lay_seed,649,584,65,87,0,497,65,0.234206,1.000000,0.148973,0.259314
+main,Gemini 3.5 Flash,sys,spanish,lay_seed,650,559,91,76,1,483,90,0.255385,0.987013,0.135957,0.238994
+main,Gemini 3.5 Flash,sys,mandarin,lay_seed,650,611,39,77,0,534,39,0.178462,1.000000,0.126023,0.223837
+main,Gemini 3.5 Flash,sys,hindi,lay_seed,650,546,104,52,5,494,99,0.232308,0.912281,0.095238,0.172471
+main,Gemini 3.5 Flash,sys,clinical,lay_seed,650,572,78,98,0,474,78,0.270769,1.000000,0.171329,0.292537
+main,Gemini 3.5 Flash,sys,clinical,clinical_seed,50,44,6,10,0,34,6,0.320000,1.000000,0.227273,0.370370
+main,Gemini 3.5 Flash,nosys,english,lay_seed,498,451,47,47,0,404,47,0.188755,1.000000,0.104213,0.188755
+main,Gemini 3.5 Flash,nosys,spanish,lay_seed,520,450,70,63,0,387,70,0.255769,1.000000,0.140000,0.245614
+main,Gemini 3.5 Flash,nosys,mandarin,lay_seed,499,463,36,64,0,399,36,0.200401,1.000000,0.138229,0.242884
+main,Gemini 3.5 Flash,nosys,hindi,lay_seed,514,428,86,58,0,370,86,0.280156,1.000000,0.135514,0.238683
+main,Gemini 3.5 Flash,nosys,clinical,lay_seed,494,435,59,46,0,389,59,0.212551,1.000000,0.105747,0.191268
+main,Gemini 3.5 Flash,nosys,clinical,clinical_seed,42,36,6,5,0,31,6,0.261905,1.000000,0.138889,0.243902
+main,Qwen 3.5,sys,english,lay_seed,1300,1105,195,387,33,718,162,0.422308,0.921429,0.350226,0.507541
+main,Qwen 3.5,sys,spanish,lay_seed,2145,1794,351,506,44,1288,307,0.379021,0.920000,0.282051,0.431741
+main,Qwen 3.5,sys,mandarin,lay_seed,3770,3237,533,956,74,2281,459,0.375332,0.928155,0.295335,0.448090
+main,Qwen 3.5,sys,hindi,lay_seed,910,767,143,150,31,617,112,0.287912,0.828729,0.195567,0.316456
+main,Qwen 3.5,sys,clinical,lay_seed,1144,1001,143,556,17,445,126,0.596154,0.970332,0.555445,0.706480
+main,Qwen 3.5,sys,clinical,clinical_seed,88,77,11,47,0,30,11,0.659091,1.000000,0.610390,0.758065
+main,Qwen 3.5,nosys,english,lay_seed,1300,1105,195,211,28,894,167,0.290769,0.882845,0.190950,0.313988
+main,Qwen 3.5,nosys,spanish,lay_seed,2145,1794,351,310,55,1484,296,0.282517,0.849315,0.172798,0.287170
+main,Qwen 3.5,nosys,mandarin,lay_seed,3770,3237,533,792,95,2445,438,0.326260,0.892897,0.244671,0.384093
+main,Qwen 3.5,nosys,hindi,lay_seed,910,767,143,26,26,741,117,0.157143,0.500000,0.033898,0.063492
+main,Qwen 3.5,nosys,clinical,lay_seed,1144,1001,143,515,29,486,114,0.549825,0.946691,0.514486,0.666667
+main,Qwen 3.5,nosys,clinical,clinical_seed,88,77,11,53,0,24,11,0.727273,1.000000,0.688312,0.815385

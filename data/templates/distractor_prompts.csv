@@ -1,0 +1,13 @@
+﻿distractor_prompt_id,language,prompt
+en_1,english,"Also, I recently noticed {distractor}."
+en_2,english,"I’m not sure if it’s related, but I also noticed {distractor}"
+en_3,english,Another thing I noticed recently is {distractor}.
+es_1,spanish,"Además, recientemente noté {distractor}."
+es_2,spanish,"No estoy seguro/a de si está relacionado, pero también noté {distractor}."
+es_3,spanish,Otra cosa que noté recientemente es {distractor}.
+hi_1,hindi,"इसके अलावा, मैंने हाल ही में {distractor} भी नोटिस किया।"
+hi_2,hindi,"मुझे यकीन नहीं है कि इसका इससे कोई संबंध है, लेकिन मैंने {distractor} भी नोटिस किया।"
+hi_3,hindi,"एक और चीज़ जो मैंने हाल ही में नोटिस की है, वह है {distractor}।"
+zh_1,mandarin,另外，我最近注意到了 {distractor}。
+zh_2,mandarin,我不确定这是否有关，但我也注意到了 {distractor}。
+zh_3,mandarin,我最近注意到的另一件事是 {distractor}。

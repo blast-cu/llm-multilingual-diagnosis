@@ -1,0 +1,34 @@
+{
+  "completionStats": {
+    "successfulCount": "3300"
+  },
+  "createTime": "2026-05-25T21:15:59.925069Z",
+  "displayName": "gemini35-flash-nosys",
+  "encryptionSpec": {},
+  "endTime": "2026-05-25T21:27:03.055608Z",
+  "inputConfig": {
+    "instancesFormat": "jsonl"
+  },
+  "model": "publishers/google/models/gemini-3.5-flash",
+  "modelVersionId": "1",
+  "outputConfig": {
+    "predictionsFormat": "jsonl"
+  },
+  "startTime": "2026-05-25T21:17:22.702668Z",
+  "state": "JOB_STATE_SUCCEEDED",
+  "updateTime": "2026-05-25T21:27:03.055608Z",
+  "publication_run_id": "gemini35-flash-nosys",
+  "publication_files": {
+    "requests": "LLM Results/gemini35-flash-nosys/batch_requests.jsonl",
+    "predictions": "LLM Results/gemini35-flash-nosys/predictions/predictions.jsonl"
+  },
+  "release_subset": {
+    "input_prompt_rows": 3076,
+    "retained_response_rows": 2871,
+    "scored_rows": 2206,
+    "blank_response_rows": 665,
+    "source_labeled_rows_removed": 224,
+    "additional_linked_rows_removed": 205
+  },
+  "release_note": "VisualDX-related records were removed from the public release. Other run-level counts, timing, token totals and completion statistics describe the original historical run. JSONL row_number/query_index values retain historical identities; prompt_id identifies the public input."
+}

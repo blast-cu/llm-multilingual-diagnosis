@@ -1,0 +1,29 @@
+{
+  "created_at": "2026-05-25T20:14:03.066568+00:00",
+  "end_row": null,
+  "generation_config": {
+    "maxOutputTokens": 1000,
+    "temperature": 0.0,
+    "thinkingConfig": {
+      "thinkingLevel": "MINIMAL"
+    },
+    "topP": 1.0
+  },
+  "has_system_prompt": false,
+  "input_csv": "data/prompts/generated_prompts_gcp_language50.csv",
+  "manifest_csv_path": "LLM Results/gemini31-flash-lite-nosys/manifest.csv",
+  "manifest_path": "LLM Results/gemini31-flash-lite-nosys/manifest.jsonl",
+  "requests_path": "LLM Results/gemini31-flash-lite-nosys/batch_requests.jsonl",
+  "row_count": 3076,
+  "start_row": 0,
+  "release_subset": {
+    "input_prompt_rows": 3076,
+    "retained_response_rows": 2863,
+    "scored_rows": 2599,
+    "blank_response_rows": 264,
+    "source_labeled_rows_removed": 224,
+    "additional_linked_rows_removed": 213
+  },
+  "release_note": "VisualDX-related records were removed from the public release. Other run-level counts, timing, token totals and completion statistics describe the original historical run. JSONL row_number/query_index values retain historical identities; prompt_id identifies the public input.",
+  "historical_row_count": 3300
+}

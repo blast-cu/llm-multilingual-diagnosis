@@ -1,0 +1,37 @@
+﻿distractor_id,language,distractor,category
+en_1,english,fever,fever
+en_2,english,temperature,fever
+en_3,english,chills,fever
+en_4,english,cough,cough
+en_5,english,hacking,cough
+en_6,english,wheezing,cough
+en_7,english,sore throat,sore throat
+en_8,english,scratchy throat,sore throat
+en_9,english,hurts to swallow,sore throat
+es_1,spanish,fiebre,fever
+es_2,spanish,calentura,fever
+es_3,spanish,escalofríos,fever
+es_4,spanish,tos,cough
+es_5,spanish,carraspera,cough
+es_6,spanish,tos seca,cough
+es_7,spanish,dolor garganta,sore throat
+es_8,spanish,irritada,sore throat
+es_9,spanish,ardor,sore throat
+hi_1,hindi,बुखार,fever
+hi_2,hindi,तापमान,fever
+hi_3,hindi,से लगना,fever
+hi_4,hindi,खाँसी,cough
+hi_5,hindi,तेज़ खाँसी,cough
+hi_6,hindi,घरघराहट,cough
+hi_7,hindi,गले में दर्द,sore throat
+hi_8,hindi,गले में खराश,sore throat
+hi_9,hindi,निगलने में दर्द होना,sore throat
+zh_1,mandarin,发烧,fever
+zh_2,mandarin,体温高,fever
+zh_3,mandarin,寒战,fever
+zh_4,mandarin,咳嗽,cough
+zh_5,mandarin,干咳,cough
+zh_6,mandarin,喘鸣,cough
+zh_7,mandarin,喉咙痛,sore throat
+zh_8,mandarin,嗓子疼,sore throat
+zh_9,mandarin,喉咙发痒,sore throat

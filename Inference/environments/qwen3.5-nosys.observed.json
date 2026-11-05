@@ -1,0 +1,75 @@
+{
+  "run_id": "qwen3.5-nosys",
+  "evidence": "Recorded installer and runtime logs in the supplied executed notebook; not a complete pip freeze.",
+  "installer_python": "3.12.13",
+  "notebook_metadata_python": "3.11",
+  "cuda_runtime_reported": "12.9",
+  "gpu_name": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+  "compute_capability": "(12, 0)",
+  "installed_core_package_versions": {
+    "cuda-bindings": "12.9.6",
+    "cuda-python": "12.9.6",
+    "flashinfer-cubin": "0.6.11.post2",
+    "flashinfer-python": "0.6.11.post2",
+    "numpy": "2.3.5",
+    "nvidia-cuda-runtime-cu12": "12.9.79",
+    "torch": "2.11.0+cu129",
+    "torchaudio": "2.11.0+cu129",
+    "torchvision": "0.26.0+cu129",
+    "transformers": "5.9.0",
+    "vllm": "0.21.1rc1.dev278+gd4004455d.cu129"
+  },
+  "installation_cells": [
+    {
+      "original_cell_index": 0,
+      "installed_core_package_versions": {
+        "cuda-bindings": "12.9.6",
+        "cuda-python": "12.9.6",
+        "flashinfer-cubin": "0.6.8.post1",
+        "flashinfer-python": "0.6.8.post1",
+        "numpy": "2.3.5",
+        "nvidia-cuda-runtime-cu12": "12.9.79",
+        "torch": "2.11.0+cu129",
+        "torchaudio": "2.11.0+cu129",
+        "torchvision": "0.26.0+cu129",
+        "transformers": "5.9.0",
+        "vllm": "0.21.0"
+      }
+    },
+    {
+      "original_cell_index": 3,
+      "installed_core_package_versions": {
+        "cuda-bindings": "12.9.6",
+        "cuda-python": "12.9.6",
+        "flashinfer-cubin": "0.6.11.post2",
+        "flashinfer-python": "0.6.11.post2",
+        "numpy": "2.3.5",
+        "nvidia-cuda-runtime-cu12": "12.9.79",
+        "torch": "2.11.0+cu129",
+        "torchaudio": "2.11.0+cu129",
+        "torchvision": "0.26.0+cu129",
+        "transformers": "5.9.0",
+        "vllm": "0.21.1rc1.dev278+gd4004455d.cu129"
+      }
+    }
+  ],
+  "runtime_engine_version": "0.21.1rc1.dev278+gd4004455d",
+  "runtime_dtype": "float16",
+  "engine_seed": 0,
+  "sampling_seed": 42,
+  "requested_environment_variables": {
+    "VLLM_WORKER_MULTIPROC_METHOD": "spawn",
+    "VLLM_ENABLE_V1_MULTIPROCESSING": "0",
+    "VLLM_USE_FLASHINFER_SAMPLER": "0",
+    "VLLM_ATTENTION_BACKEND": "TRITON_ATTN"
+  },
+  "actual_attention_backend": "FLASH_ATTN",
+  "flash_attention_version": 2,
+  "attention_backend_warning": "Runtime reports VLLM_ATTENTION_BACKEND as unknown; source requests TRITON_ATTN but runtime selects FLASH_ATTN.",
+  "observed_engine_defaults": {
+    "enable_prefix_caching": false,
+    "enable_chunked_prefill": true,
+    "max_num_batched_tokens": 16384,
+    "async_scheduling": true
+  }
+}

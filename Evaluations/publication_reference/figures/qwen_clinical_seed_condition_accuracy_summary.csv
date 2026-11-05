@@ -1,0 +1,13 @@
+condition,system_prompt,row_count,accuracy
+malar rash,nosys,15,1.0
+malar rash,sys,15,0.9333333333333333
+iga vasculitis,nosys,19,0.5789473684210527
+iga vasculitis,sys,19,0.5263157894736842
+juvenile dermatomyositis,nosys,19,0.7894736842105263
+juvenile dermatomyositis,sys,19,0.6842105263157895
+dermatomyositis,nosys,9,0.5555555555555556
+dermatomyositis,sys,9,0.4444444444444444
+morphea,nosys,15,0.4666666666666667
+morphea,sys,15,0.4
+normal,nosys,11,1.0
+normal,sys,11,1.0

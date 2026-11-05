@@ -1,0 +1,25 @@
+condition,cohort,system_prompt,row_count,accuracy
+malar rash,lay,nosys,1261,0.23711340206185566
+malar rash,lay,sys,1261,0.4337827121332276
+malar rash,clinical,nosys,195,0.8102564102564103
+malar rash,clinical,sys,195,0.9230769230769231
+iga vasculitis,lay,nosys,1352,0.6405325443786982
+iga vasculitis,lay,sys,1352,0.761094674556213
+iga vasculitis,clinical,nosys,247,0.5708502024291497
+iga vasculitis,clinical,sys,247,0.5708502024291497
+juvenile dermatomyositis,lay,nosys,1625,0.05415384615384616
+juvenile dermatomyositis,lay,sys,1625,0.13846153846153847
+juvenile dermatomyositis,clinical,nosys,247,0.5020242914979757
+juvenile dermatomyositis,clinical,sys,247,0.5546558704453441
+dermatomyositis,lay,nosys,832,0.027644230769230768
+dermatomyositis,lay,sys,832,0.0733173076923077
+dermatomyositis,clinical,nosys,117,0.4358974358974359
+dermatomyositis,clinical,sys,117,0.4188034188034188
+morphea,lay,nosys,1625,0.003076923076923077
+morphea,lay,sys,1625,0.016615384615384615
+morphea,clinical,nosys,195,0.21025641025641026
+morphea,clinical,sys,195,0.2512820512820513
+normal,lay,nosys,1222,0.8330605564648118
+normal,lay,sys,1222,0.851063829787234
+normal,clinical,nosys,143,0.7972027972027972
+normal,clinical,sys,143,0.8811188811188811

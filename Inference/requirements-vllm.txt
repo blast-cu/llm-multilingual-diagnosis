@@ -1,0 +1,4 @@
+# Generic dependency for a fresh compatible GPU environment.
+# Recovered historical versions are in environments/*.observed.json and
+# *.observed-constraints.txt; those partial records are not a complete environment lock.
+vllm

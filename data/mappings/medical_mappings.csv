@@ -1,0 +1,41 @@
+question_flag,condition_name
+lupus_1,lupus
+dermatomyositis_1,juvenile dermatomyositis
+dermatomyositis_2,juvenile dermatomyositis
+morphea_1,morphea
+morphea_2,morphea
+SLE_1,malar
+SLE_2,malar
+SLE_3,malar
+SLE_4,malar
+SLE_5,malar
+SLE_6,malar
+IgA_1,IgA vasculitis
+IgA_2,IgA vasculitis
+IgA_3,IgA vasculitis
+IgA_4,IgA vasculitis
+IgA_5,IgA vasculitis
+IgA_6,IgA vasculitis
+IgA_7,IgA vasculitis
+JDM_1,juvenile dermatomyositis
+JDM_2,juvenile dermatomyositis
+JDM_3,juvenile dermatomyositis
+JDM_4,juvenile dermatomyositis
+JDM_5,juvenile dermatomyositis
+JDM_6,juvenile dermatomyositis
+MSI_1,morphea
+MSI_2,morphea
+MSI_3,morphea
+MSI_4,morphea
+MSI_5,morphea
+MSI_6,morphea
+EYE_2,dermatomyositis
+EYE_3,dermatomyositis
+EYE_4,dermatomyositis
+EYE_5,dermatomyositis
+dry_1,normal
+dry_2,normal
+acne_1,normal
+acne_2,normal
+normal_1,normal
+normal_2,normal

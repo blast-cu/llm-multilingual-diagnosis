@@ -1,0 +1,53 @@
+starter_prompt_id,language,prompt
+en_1,english,I’ve been dealing with {description} for a while now and I’m not sure what it means. Any idea what this could be?
+en_2,english,My skin has {description} and it doesn’t seem normal. What might be going on?
+en_3,english,I noticed {description} and it’s starting to worry me. Do you know what this could be?
+en_4,english,There’s this weird thing where I have {description}. Any clue what might explain it?
+en_5,english,My {locale} has been showing {description}. Is that a sign of something?
+en_6,english,"I can’t tell if this is nothing or something bigger, but I’ve got {description}. Thoughts?"
+en_7,english,My skin has been doing this thing where there’s {description}. What could that be from?
+en_8,english,"Not sure how to describe it exactly, but there’s {description}. What does that sound like?"
+en_9,english,My kid’s skin has {description} and it doesn’t seem normal. What might be going on?
+en_10,english,I noticed my child has {description} and it’s starting to worry me. Do you know what this could be?
+en_11,english,My child’s {locale} has been showing {description}. Is that a sign of something?
+en_12,english,My child’s skin has been doing this thing where there’s {description}. What could that be from?
+en_13,english,There’s {description} showing up on my kid’s {locale}. Do you know what this could be?
+zh_1,mandarin,我处理 {description} 已经有一段时间了，但不太确定它究竟意味着什么。你知道这可能是什么吗？
+zh_2,mandarin,我的皮肤出现了{description}，看起来不太正常。这可能是什么情况？
+zh_3,mandarin,我注意到了 {description}，这开始让我感到有些担心。你知道这可能是什么吗？
+zh_4,mandarin,我身上有个挺奇怪的现象：{description}。你知道有什么能解释这种情况吗？
+zh_5,mandarin,我的 {locale} 一直显示 {description}。这是某种征兆吗？
+zh_6,mandarin,我搞不清楚这究竟是小事一桩，还是背后另有隐情——但我目前遇到了 {description}。大家有什么看法？
+zh_7,mandarin,我的皮肤最近出现了一些症状，比如{description}。这可能是什么原因造成的？
+zh_8,mandarin,我不太确定该如何准确描述，但有{description}。听起来像什么？
+zh_9,mandarin,我孩子的皮肤有{description}，看起来不太正常。这可能是怎么回事？
+zh_10,mandarin,我发现我的孩子身上有{description}，这让我很担心。您知道这可能是什么吗？
+zh_11,mandarin,我孩子的{locale}一直显示{description}。这是不是某种征兆？
+zh_12,mandarin,我孩子的皮肤上出现了一种叫做{description}的斑点。这可能是由什么引起的？
+zh_13,mandarin,我孩子的{locale}上显示了{description}。你知道这是什么吗？
+hi_1,hindi,मैं कुछ समय से {description} से डील कर रहा हूँ और मुझे पक्का नहीं पता कि इसका क्या मतलब है। कोई आइडिया है कि यह क्या हो सकता है?
+hi_2,hindi,मेरी स्किन में {description} है और यह नॉर्मल नहीं लग रही है। क्या हो रहा है?
+hi_3,hindi,मैंने {description} देखा और मुझे चिंता होने लगी है। क्या आप जानते हैं कि यह क्या हो सकता है?
+hi_4,hindi,"मेरे पास एक अजीब बात है, जिसमें {description} है। क्या कोई सुराग है कि इसे कैसे समझा जा सकता है?"
+hi_5,hindi,मेरा {locale} {description} दिखा रहा है. क्या यह किसी बात का संकेत है?
+hi_6,hindi,"मैं नहीं बता सकता कि यह कुछ नहीं है या इससे भी बड़ी बात है, लेकिन मेरे पास {description} है। विचार?"
+hi_7,hindi,मेरी स्किन में यह दिक्कत हो रही है जहाँ {description} है। यह किस वजह से हो सकता है?
+hi_8,hindi,"पक्का नहीं पता कि इसे ठीक से कैसे बताऊं, लेकिन {description} है। यह कैसा लगता है?"
+hi_9,hindi,मेरे बच्चे की स्किन {description} है और यह नॉर्मल नहीं लग रही है। क्या हो रहा है?
+hi_10,hindi,मैंने देखा कि मेरे बच्चे को {description} है और यह मुझे परेशान कर रहा है। क्या आप जानते हैं कि यह क्या हो सकता है?
+hi_11,hindi,मेरे बच्चे की {locale} में {description} दिख रहा है. क्या यह किसी बात का संकेत है?
+hi_12,hindi,मेरे बच्चे की स्किन पर यह चीज़ हो रही है जहाँ {description} है। यह किस वजह से हो सकता है?
+hi_13,hindi,मेरे बच्चे के {locale} पर {description} दिख रहा है। क्या आप जानते हैं यह क्या हो सकता है?
+es_1,spanish,Llevo un tiempo lidiando con {description} y no estoy seguro de qué significa. ¿Alguna idea de qué podría ser?
+es_2,spanish,Mi piel tiene {descripción} y no parece normal. ¿Qué podría estar pasando?
+es_3,spanish,He notado {description} y me está empezando a preocupar. ¿Sabes qué podría ser?
+es_4,spanish,Hay algo raro que me pasa: {descripción}. ¿Alguna idea de qué podría explicarlo?
+es_5,spanish,Mi {locale} ha estado mostrando {description}. ¿Es eso señal de algo?
+es_6,spanish,"No sé si esto no es nada o algo más importante, pero tengo {descripción}. ¿Qué opinas?"
+es_7,spanish,Mi piel ha estado haciendo esto donde aparece {descripción}. ¿A qué se debe?
+es_8,spanish,"No estoy seguro de cómo describirlo exactamente, pero hay {descripción}. ¿Cómo suena eso?"
+es_9,spanish,La piel de mi hijo tiene {descripción} y no parece normal. ¿Qué podría estar pasando?
+es_10,spanish,He notado que mi hijo tiene {descripción} y me está empezando a preocupar. ¿Sabe qué podría ser?
+es_11,spanish,Mi hijo/a {locale} ha estado mostrando {description}. ¿Es eso señal de algo?
+es_12,spanish,La piel de mi hijo ha estado haciendo esto donde hay {descripción}. ¿A qué se debe?
+es_13,spanish,Aparece {description} en el {locale} de mi hijo. ¿Sabes qué podría ser?

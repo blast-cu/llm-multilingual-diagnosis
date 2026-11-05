@@ -1,0 +1,1 @@
+A patient presents with the following dermatologic finding: {description}. Provide a concise differential diagnosis using medical terminology, prioritizing the most likely diagnoses and noting key distinguishing features.

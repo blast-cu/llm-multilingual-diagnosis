@@ -1,0 +1,294 @@
+language,condition,synonym
+english,lupus,lupus
+english,lupus,systemic lupus erythematosus
+english,lupus,systemic lupus
+english,lupus,SLE
+english,lupus,lupus erythematosus
+english,lupus,cutaneous lupus
+english,lupus,discoid lupus
+english,lupus,subacute cutaneous lupus
+english,dermatomyositis,dermatomyositis
+english,dermatomyositis,idiopathic inflammatory myopathy
+english,dermatomyositis,inflammatory myopathy
+english,dermatomyositis,myositis
+english,dermatomyositis,heliotrope rash
+english,dermatomyositis,heliotrope eruption
+english,dermatomyositis,heliotrope
+english,dermatomyositis,Gottron papules
+english,dermatomyositis,Gottron's papules
+english,dermatomyositis,Gottron sign
+english,dermatomyositis,periungual erythema
+english,dermatomyositis,nailfold telangiectasia
+english,iga vasculitis,IgA vasculitis
+english,iga vasculitis,immunoglobulin A vasculitis
+english,iga vasculitis,IgA-mediated vasculitis
+english,iga vasculitis,Henoch-Schonlein purpura
+english,iga vasculitis,Henoch–Schönlein purpura
+english,iga vasculitis,Henoch Schonlein purpura
+english,iga vasculitis,Schönlein-Henoch purpura
+english,iga vasculitis,HSP
+english,iga vasculitis,vasculitis
+english,iga vasculitis,small-vessel vasculitis
+english,iga vasculitis,leukocytoclastic vasculitis
+english,iga vasculitis,palpable purpura
+english,iga vasculitis,purpuric rash
+english,iga vasculitis,purpura
+english,iga vasculitis,petechiae
+english,iga vasculitis,petechial rash
+english,malar rash,malar rash
+english,malar rash,malar erythema
+english,malar rash,malar distribution
+english,malar rash,malar region
+english,malar rash,malar area
+english,malar rash,malar and nasal erythema
+english,malar rash,butterfly rash
+english,malar rash,butterfly-shaped rash
+english,malar rash,butterfly shaped rash
+english,malar rash,butterfly distribution
+english,malar rash,butterfly pattern
+english,malar rash,lupus
+english,malar rash,lupus erythematosus
+english,malar rash,systemic lupus erythematosus
+english,malar rash,systemic lupus
+english,malar rash,SLE
+english,morphea,morphea
+english,morphea,localized scleroderma
+english,morphea,linear scleroderma
+english,morphea,linear morphea
+english,morphea,scleroderma
+english,morphea,en coup de sabre
+english,morphea,coup de sabre
+english,morphea,plaque morphea
+english,juvenile dermatomyositis,juvenile dermatomyositis
+english,juvenile dermatomyositis,JDM
+english,juvenile dermatomyositis,childhood dermatomyositis
+english,juvenile dermatomyositis,pediatric dermatomyositis
+english,juvenile dermatomyositis,dermatomyositis
+english,juvenile dermatomyositis,idiopathic inflammatory myopathy
+english,juvenile dermatomyositis,inflammatory myopathy
+english,juvenile dermatomyositis,myositis
+english,juvenile dermatomyositis,heliotrope rash
+english,juvenile dermatomyositis,heliotrope eruption
+english,juvenile dermatomyositis,heliotrope
+english,juvenile dermatomyositis,Gottron papules
+english,juvenile dermatomyositis,Gottron's papules
+english,juvenile dermatomyositis,Gottron sign
+Hindi,lupus,ल्यूपस
+Hindi,lupus,प्रणालीगत ल्यूपस एरिथेमेटोसस
+Hindi,lupus,एसएलई
+Hindi,lupus,एसएलई (प्रणालीगत ल्यूपस एरिथेमेटोसस)
+Hindi,lupus,ल्यूपस एरिथेमेटोसस
+Hindi,lupus,त्वचीय ल्यूपस
+Hindi,lupus,डिस्कॉइड ल्यूपस
+Hindi,lupus,सबएक्यूट क्यूटेनियस ल्यूपस
+Hindi,dermatomyositis,डर्माटोमायोसाइटिस
+Hindi,dermatomyositis,अज्ञातहेतुक सूजनजन्य मांसपेशी रोग
+Hindi,dermatomyositis,सूजनजन्य मांसपेशी रोग
+Hindi,dermatomyositis,मायोसाइटिस
+Hindi,dermatomyositis,हेलियोट्रोप रैश
+Hindi,dermatomyositis,हेलियोट्रोप चकत्ता
+Hindi,dermatomyositis,गॉट्रॉन पप्यूल्स
+Hindi,dermatomyositis,गॉट्रॉन चिह्न
+Hindi,dermatomyositis,पेरिउंगुअल एरिथेमा
+Hindi,dermatomyositis,नेलफोल्ड टेलैन्जिएक्टेसिया
+Hindi,IgA vasculitis,आईजीए वैस्कुलाइटिस
+Hindi,IgA vasculitis,आईजीए वाहिकाशोथ
+Hindi,IgA vasculitis,इम्युनोग्लोबुलिन-ए वाहिकाशोथ
+Hindi,IgA vasculitis,आईजीए-मध्यस्थित वैस्कुलाइटिस
+Hindi,IgA vasculitis,हेनोक-शॉनलाइन पर्पुरा
+Hindi,IgA vasculitis,हेनोक–शॉनलाइन पर्पुरा
+Hindi,IgA vasculitis,हेनोक शॉनलाइन पर्पुरा
+Hindi,IgA vasculitis,एचएसपी
+Hindi,IgA vasculitis,एचएसपी (हेनोक–शॉनलाइन पर्पुरा)
+Hindi,IgA vasculitis,वैस्कुलाइटिस
+Hindi,IgA vasculitis,वाहिकाशोथ
+Hindi,IgA vasculitis,छोटी वाहिका वैस्कुलाइटिस
+Hindi,IgA vasculitis,ल्यूकोसाइटोक्लास्टिक वैस्कुलाइटिस
+Hindi,IgA vasculitis,स्पर्शनीय पर्पुरा
+Hindi,IgA vasculitis,पर्पुरा
+Hindi,IgA vasculitis,पर्पुरिक रैश
+Hindi,IgA vasculitis,पेटीकी
+Hindi,IgA vasculitis,पेटीशियल रैश
+Hindi,malar rash,मलार रैश
+Hindi,malar rash,मलार एरिथेमा
+Hindi,malar rash,मलार वितरण
+Hindi,malar rash,तितली रैश
+Hindi,malar rash,तितली-आकृति चकत्ता
+Hindi,malar rash,तितली जैसा चकत्ता
+Hindi,malar rash,गालों पर तितली जैसा दाना
+Hindi,malar rash,ल्यूपस
+Hindi,malar rash,ल्यूपस एरिथेमेटोसस
+Hindi,malar rash,प्रणालीगत ल्यूपस एरिथेमेटोसस
+Hindi,malar rash,एसएलई
+Hindi,morphea,मॉर्फिया
+Hindi,morphea,स्थानीयकृत स्क्लेरोडर्मा
+Hindi,morphea,रैखिक स्क्लेरोडर्मा
+Hindi,morphea,रैखिक मॉर्फिया
+Hindi,morphea,स्क्लेरोडर्मा
+Hindi,morphea,एन कूप डी साब्रे
+Hindi,morphea,कूप डी साब्रे
+Hindi,morphea,प्लाक मॉर्फिया
+Hindi,juvenile dermatomyositis,जुवेनाइल डर्माटोमायोसाइटिस
+Hindi,juvenile dermatomyositis,जुवेनाइल डर्माटोमायोसाइटिस (जेडीएम)
+Hindi,juvenile dermatomyositis,जेडीएम
+Hindi,juvenile dermatomyositis,बाल्यावस्था डर्माटोमायोसाइटिस
+Hindi,juvenile dermatomyositis,बाल चिकित्सा डर्माटोमायोसाइटिस
+Hindi,juvenile dermatomyositis,डर्माटोमायोसाइटिस
+Hindi,juvenile dermatomyositis,सूजनजन्य मांसपेशी रोग
+Hindi,juvenile dermatomyositis,मायोसाइटिस
+Hindi,juvenile dermatomyositis,हेलियोट्रोप रैश
+Hindi,juvenile dermatomyositis,हेलियोट्रोप चकत्ता
+Hindi,juvenile dermatomyositis,गॉट्रॉन पप्यूल्स
+Hindi,juvenile dermatomyositis,गॉट्रॉन चिह्न
+Mandarin,lupus,狼疮
+Mandarin,lupus,系统性红斑狼疮
+Mandarin,lupus,SLE
+Mandarin,lupus,SLE（系统性红斑狼疮）
+Mandarin,lupus,红斑狼疮
+Mandarin,lupus,皮肤型红斑狼疮
+Mandarin,lupus,盘状红斑狼疮
+Mandarin,lupus,亚急性皮肤型红斑狼疮
+Mandarin,dermatomyositis,皮肌炎
+Mandarin,dermatomyositis,特发性炎症性肌病
+Mandarin,dermatomyositis,炎症性肌病
+Mandarin,dermatomyositis,肌炎
+Mandarin,dermatomyositis,向阳疹
+Mandarin,dermatomyositis,眼睑紫红斑
+Mandarin,dermatomyositis,紫红色眼睑疹
+Mandarin,dermatomyositis,Gottron丘疹
+Mandarin,dermatomyositis,戈特龙丘疹
+Mandarin,dermatomyositis,Gottron征
+Mandarin,dermatomyositis,戈特龙征
+Mandarin,dermatomyositis,甲周红斑
+Mandarin,dermatomyositis,甲襞毛细血管扩张
+Mandarin,IgA vasculitis,IgA血管炎
+Mandarin,IgA vasculitis,免疫球蛋白A血管炎
+Mandarin,IgA vasculitis,IgA介导性血管炎
+Mandarin,IgA vasculitis,过敏性紫癜
+Mandarin,IgA vasculitis,过敏性紫癜（Henoch–Schönlein紫癜）
+Mandarin,IgA vasculitis,Henoch-Schönlein紫癜
+Mandarin,IgA vasculitis,HSP
+Mandarin,IgA vasculitis,HSP（过敏性紫癜）
+Mandarin,IgA vasculitis,血管炎
+Mandarin,IgA vasculitis,小血管炎
+Mandarin,IgA vasculitis,白细胞破碎性血管炎
+Mandarin,IgA vasculitis,紫癜
+Mandarin,IgA vasculitis,可触性紫癜
+Mandarin,IgA vasculitis,紫癜性皮疹
+Mandarin,IgA vasculitis,瘀点
+Mandarin,IgA vasculitis,瘀点性皮疹
+Mandarin,IgA vasculitis,紫癜性血管炎
+Mandarin,malar rash,蝶形红斑
+Mandarin,malar rash,蝴蝶疹
+Mandarin,malar rash,蝶形皮疹
+Mandarin,malar rash,颧部红斑
+Mandarin,malar rash,颧部皮疹
+Mandarin,malar rash,面颊红斑
+Mandarin,malar rash,面颊皮疹
+Mandarin,malar rash,蝶形分布
+Mandarin,malar rash,狼疮
+Mandarin,malar rash,红斑狼疮
+Mandarin,malar rash,系统性红斑狼疮
+Mandarin,malar rash,SLE
+Mandarin,morphea,硬斑病
+Mandarin,morphea,局限性硬皮病
+Mandarin,morphea,线状硬皮病
+Mandarin,morphea,线性硬皮病
+Mandarin,morphea,线状硬斑病
+Mandarin,morphea,硬皮病
+Mandarin,morphea,剑伤样硬皮病
+Mandarin,morphea,en coup de sabre
+Mandarin,morphea,coup de sabre
+Mandarin,morphea,斑块型硬斑病
+Mandarin,juvenile dermatomyositis,幼年型皮肌炎
+Mandarin,juvenile dermatomyositis,幼年型皮肌炎（JDM）
+Mandarin,juvenile dermatomyositis,JDM
+Mandarin,juvenile dermatomyositis,儿童皮肌炎
+Mandarin,juvenile dermatomyositis,小儿皮肌炎
+Mandarin,juvenile dermatomyositis,皮肌炎
+Mandarin,juvenile dermatomyositis,炎症性肌病
+Mandarin,juvenile dermatomyositis,肌炎
+Mandarin,juvenile dermatomyositis,向阳疹
+Mandarin,juvenile dermatomyositis,眼睑紫红斑
+Mandarin,juvenile dermatomyositis,Gottron丘疹
+Mandarin,juvenile dermatomyositis,戈特龙丘疹
+Mandarin,juvenile dermatomyositis,Gottron征
+Mandarin,juvenile dermatomyositis,戈特龙征
+Spanish,lupus,lupus
+Spanish,lupus,lupus eritematoso sistémico
+Spanish,lupus,LES
+Spanish,lupus,LES (lupus eritematoso sistémico)
+Spanish,lupus,lupus eritematoso
+Spanish,lupus,lupus cutáneo
+Spanish,lupus,lupus discoide
+Spanish,lupus,lupus cutaneo
+Spanish,lupus,lupus subagudo cutáneo
+Spanish,lupus,lupus subagudo cutaneo
+Spanish,dermatomyositis,dermatomiositis
+Spanish,dermatomyositis,miopatía inflamatoria idiopática
+Spanish,dermatomyositis,miopatía inflamatoria
+Spanish,dermatomyositis,miositis
+Spanish,dermatomyositis,erupción heliotropa
+Spanish,dermatomyositis,rash heliotropo
+Spanish,dermatomyositis,heliotropo
+Spanish,dermatomyositis,pápulas de Gottron
+Spanish,dermatomyositis,papulas de Gottron
+Spanish,dermatomyositis,signo de Gottron
+Spanish,dermatomyositis,eritema periungueal
+Spanish,dermatomyositis,telangiectasias periungueales
+Spanish,IgA vasculitis,vasculitis IgA
+Spanish,IgA vasculitis,vasculitis por IgA
+Spanish,IgA vasculitis,vasculitis por inmunoglobulina A
+Spanish,IgA vasculitis,vasculitis mediada por IgA
+Spanish,IgA vasculitis,púrpura de Henoch-Schönlein
+Spanish,IgA vasculitis,púrpura de Henoch–Schönlein
+Spanish,IgA vasculitis,purpura de Henoch-Schönlein
+Spanish,IgA vasculitis,purpura de Henoch-Schonlein
+Spanish,IgA vasculitis,PSH
+Spanish,IgA vasculitis,PSH (púrpura de Henoch–Schönlein)
+Spanish,IgA vasculitis,HSP
+Spanish,IgA vasculitis,vasculitis
+Spanish,IgA vasculitis,vasculitis de vasos pequeños
+Spanish,IgA vasculitis,vasculitis leucocitoclástica
+Spanish,IgA vasculitis,púrpura palpable
+Spanish,IgA vasculitis,purpura palpable
+Spanish,IgA vasculitis,púrpura
+Spanish,IgA vasculitis,purpura
+Spanish,IgA vasculitis,erupción purpúrica
+Spanish,IgA vasculitis,petequias
+Spanish,IgA vasculitis,erupción petequial
+Spanish,malar rash,eritema malar
+Spanish,malar rash,rash malar
+Spanish,malar rash,erupción malar
+Spanish,malar rash,eritema en alas de mariposa
+Spanish,malar rash,eritema en mariposa
+Spanish,malar rash,erupción en mariposa
+Spanish,malar rash,distribución malar
+Spanish,malar rash,distribución en alas de mariposa
+Spanish,malar rash,patrón de mariposa
+Spanish,malar rash,lupus
+Spanish,malar rash,lupus eritematoso
+Spanish,malar rash,lupus eritematoso sistémico
+Spanish,malar rash,LES
+Spanish,morphea,morfea
+Spanish,morphea,esclerodermia localizada
+Spanish,morphea,esclerodermia lineal
+Spanish,morphea,morfea lineal
+Spanish,morphea,esclerodermia
+Spanish,morphea,en coup de sabre
+Spanish,morphea,coup de sabre
+Spanish,morphea,golpe de sable
+Spanish,morphea,morfea en placas
+Spanish,juvenile dermatomyositis,dermatomiositis juvenil
+Spanish,juvenile dermatomyositis,DMJ
+Spanish,juvenile dermatomyositis,DMJ (dermatomiositis juvenil)
+Spanish,juvenile dermatomyositis,dermatomiositis infantil
+Spanish,juvenile dermatomyositis,dermatomiositis pediátrica
+Spanish,juvenile dermatomyositis,dermatomiositis
+Spanish,juvenile dermatomyositis,miopatía inflamatoria
+Spanish,juvenile dermatomyositis,miositis
+Spanish,juvenile dermatomyositis,erupción heliotropa
+Spanish,juvenile dermatomyositis,rash heliotropo
+Spanish,juvenile dermatomyositis,pápulas de Gottron
+Spanish,juvenile dermatomyositis,papulas de Gottron
+Spanish,juvenile dermatomyositis,signo de Gottron

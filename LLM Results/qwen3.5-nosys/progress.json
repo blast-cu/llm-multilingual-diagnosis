@@ -1,0 +1,64 @@
+{
+  "accelerator": {
+    "backend": "cuda",
+    "device_count": 1,
+    "devices": [
+      {
+        "index": 0,
+        "memory_gb": 94.97,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+      }
+    ]
+  },
+  "backend": "vllm",
+  "completed_rows": 10007,
+  "current_query_index": null,
+  "elapsed_seconds": 11298.79,
+  "error_rows": 0,
+  "errors_path": "LLM Results/qwen3.5-nosys/errors.jsonl",
+  "estimated_remaining_hms": "00:00:00",
+  "estimated_remaining_seconds": 0.0,
+  "failure_message": null,
+  "generation_config": {
+    "do_sample": false,
+    "max_new_tokens": 8000,
+    "repetition_penalty": 1.0,
+    "seed": 42,
+    "temperature": 0.0,
+    "top_p": 1.0
+  },
+  "input_csv": "data/prompts/generated_prompts.csv",
+  "last_update": "2026-05-25T22:38:37.137171+00:00",
+  "merged_output_csv": "LLM Results/qwen3.5-nosys/generated_prompts_with_responses.csv",
+  "model_name": "QuantTrio/Qwen3.5-9B-AWQ",
+  "model_preset": "qwen3_5_9b_awq",
+  "output_dir": "LLM Results/qwen3.5-nosys",
+  "processed_rows": 10007,
+  "queries_per_minute": 53.14,
+  "results_path": "LLM Results/qwen3.5-nosys/results.jsonl",
+  "run_name": "generated_prompts_vllm_qwen3_5_9b_awq",
+  "skipped_existing_rows": 10,
+  "started_at": "2026-05-25T19:30:18.344341+00:00",
+  "status": "completed",
+  "total_selected_rows": 10007,
+  "vllm_config": {
+    "dtype": "auto",
+    "enforce_eager": "True",
+    "gpu_memory_utilization": "0.92",
+    "max_model_len": "32768",
+    "max_num_seqs": "128",
+    "model": "QuantTrio/Qwen3.5-9B-AWQ",
+    "quantization": "awq",
+    "tensor_parallel_size": "1",
+    "trust_remote_code": "True"
+  },
+  "release_subset": {
+    "input_prompt_rows": 9601,
+    "retained_response_rows": 9601,
+    "scored_rows": 9601,
+    "blank_response_rows": 0,
+    "source_labeled_rows_removed": 406,
+    "additional_linked_rows_removed": 0
+  },
+  "release_note": "VisualDX-related records were removed from the public release. Other run-level counts, timing, token totals and completion statistics describe the original historical run. JSONL row_number/query_index values retain historical identities; prompt_id identifies the public input."
+}

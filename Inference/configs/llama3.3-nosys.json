@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "run_id": "llama3.3-nosys",
+  "backend": "bedrock",
+  "input_csv": "data/prompts/generated_prompts.csv",
+  "expected_rows": 9601,
+  "system_prompt": null,
+  "model_id": "meta.llama3-3-70b-instruct-v1:0",
+  "model_name": "Llama-3.3-70B-Instruct",
+  "generation_config": {
+    "max_new_tokens": 512,
+    "temperature": 0.0,
+    "top_p": 1.0
+  },
+  "last_saved_max_concurrency": 24,
+  "evidence": [
+    "LLM Results/llama3.3-nosys/progress.json",
+    "LLM Results/llama3.3-nosys/results.jsonl",
+    "historical request implementation in Inference/runners/bedrock.py",
+    "Researcher confirmation of historical temperature and top_p, 2026-11-05"
+  ],
+  "unrecovered_historical_details": [
+    "exact historical invocation and client package versions",
+    "hosted model revision",
+    "concurrency and retry history across resumed sessions"
+  ],
+  "historical_setting_confirmation": {
+    "source": "Researcher confirmation in this chat",
+    "date": "2026-11-05",
+    "settings": {
+      "temperature": 0.0,
+      "top_p": 1.0
+    }
+  },
+  "input_scope": "Public subset after removal of VisualDX records; historical execution evidence describes the original full run."
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "run_id": "qwen3.5-nosys",
+  "backend": "vllm",
+  "input_csv": "data/prompts/generated_prompts.csv",
+  "expected_rows": 9601,
+  "system_prompt": null,
+  "model_id": "QuantTrio/Qwen3.5-9B-AWQ",
+  "model_name": "QuantTrio/Qwen3.5-9B-AWQ",
+  "generation_config": {
+    "do_sample": false,
+    "max_new_tokens": 8000,
+    "repetition_penalty": 1.0,
+    "seed": 42,
+    "temperature": 0.0,
+    "top_p": 1.0
+  },
+  "engine_config": {
+    "tensor_parallel_size": 1,
+    "gpu_memory_utilization": 0.92,
+    "max_num_seqs": 128,
+    "dtype": "auto",
+    "trust_remote_code": true,
+    "enforce_eager": true,
+    "max_model_len": 32768,
+    "quantization": "awq"
+  },
+  "batch_size": 128,
+  "recorded_hardware": {
+    "backend": "cuda",
+    "device_count": 1,
+    "devices": [
+      {
+        "index": 0,
+        "memory_gb": 94.97,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+      }
+    ]
+  },
+  "evidence": [
+    "LLM Results/qwen3.5-nosys/progress.json",
+    "LLM Results/qwen3.5-nosys/results.jsonl",
+    "Inference/environments/qwen3.5-nosys.observed.json"
+  ],
+  "unrecovered_historical_details": [
+    "Checkpoint and tokenizer revisions were not recorded (revision=None).",
+    "Actual historical tokenizer chat-template text and whether text fallback ran were not recorded.",
+    "The SamplingParams seed-removal fallback is present in source but its execution was not logged.",
+    "GPU driver version and complete environment lock were not recorded.",
+    "Installer targets Python 3.12.13 while notebook language metadata says 3.11; runtime sys.version was not printed.",
+    "The first ten no-system rows were already present when this notebook resumed; their runtime environment is not established by the resumed execution logs."
+  ],
+  "engine_seed": 0,
+  "environment_variables": {
+    "VLLM_WORKER_MULTIPROC_METHOD": "spawn",
+    "VLLM_ENABLE_V1_MULTIPROCESSING": "0",
+    "VLLM_USE_FLASHINFER_SAMPLER": "0",
+    "VLLM_ATTENTION_BACKEND": "TRITON_ATTN"
+  },
+  "response_processing": {
+    "strip_thinking": true,
+    "rule": "If </think> appears, retain text after its first occurrence and strip surrounding whitespace. Otherwise retain the stripped original text."
+  },
+  "execution_evidence": {
+    "observed_environment": "Inference/environments/qwen3.5-nosys.observed.json"
+  },
+  "historical_resume": {
+    "completed_existing_rows": 10,
+    "pending_rows": 9997,
+    "logged_generated_tokens": 25893614
+  },
+  "input_scope": "Public subset after removal of VisualDX records; historical execution evidence describes the original full run."
+}

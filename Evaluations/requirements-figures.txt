@@ -1,0 +1,3 @@
+# Scoring and report generation need only Python 3.10+ and the standard library.
+# Optional plotting dependency, pinned to the version used for release verification.
+matplotlib==3.10.7

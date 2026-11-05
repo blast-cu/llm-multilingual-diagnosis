@@ -1,0 +1,9 @@
+run_id,model,system_prompt,input_csv,submitted_rows,blank_response_rows,scored_rows,main_rows,distractor_rows
+llama3.3-sys,Llama 3.3 70B,sys,LLM Results/llama3.3-sys/generated_prompts_with_responses_condition_repaired.csv,9601,0,9601,8951,650
+llama3.3-nosys,Llama 3.3 70B,nosys,LLM Results/llama3.3-nosys/generated_prompts_with_responses_condition_repaired.csv,9601,0,9601,8951,650
+gemini31-flash-lite-sys,Gemini 3.1 Flash Lite,sys,LLM Results/gemini31-flash-lite-sys/generated_prompts_with_responses.csv,2870,28,2842,2842,0
+gemini31-flash-lite-nosys,Gemini 3.1 Flash Lite,nosys,LLM Results/gemini31-flash-lite-nosys/generated_prompts_with_responses.csv,2863,264,2599,2599,0
+gemini35-flash-sys,Gemini 3.5 Flash,sys,LLM Results/gemini35-flash-sys/generated_prompts_with_responses.csv,2865,1,2864,2864,0
+gemini35-flash-nosys,Gemini 3.5 Flash,nosys,LLM Results/gemini35-flash-nosys/generated_prompts_with_responses.csv,2871,665,2206,2206,0
+qwen3.5-sys,Qwen 3.5,sys,LLM Results/qwen3.5-sys/generated_prompts_with_responses.csv,9601,0,9601,8951,650
+qwen3.5-nosys,Qwen 3.5,nosys,LLM Results/qwen3.5-nosys/generated_prompts_with_responses.csv,9601,0,9601,8951,650
